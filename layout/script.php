@@ -1,90 +1,30 @@
-<script src="./assets/js/aos.js" defer="" data-deferred="1"></script>
-<script
-  src="data:text/javascript;base64,QU9TLmluaXQoe2R1cmF0aW9uOjIwMDAsb25jZTohMCx9KQ=="
-  defer=""
-></script>
-<script
-  data-optimized="1"
-  src="./assets/js/9fbcf7e29a27b4cc5449d011e6badfb6.js"
-  id="hoverIntent-js"
-  defer=""
-  data-deferred="1"
-></script>
-<script
-  data-optimized="1"
-  src="./assets/js/980cf00f4d479db0fd4e8e4962d65d56.js"
-  id="superfish-js"
-  defer=""
-  data-deferred="1"
-></script>
-<script
-  data-optimized="1"
-  src="./assets/js/64e94f97cc5ae2fc1befb56f95e3dbca.js"
-  id="superfish-args-js"
-  defer=""
-  data-deferred="1"
-></script>
-<script
-  id="marlog-responsive-menu-js-extra"
-  src="data:text/javascript;base64,dmFyIGdlbmVzaXNfcmVzcG9uc2l2ZV9tZW51PXsibWFpbk1lbnUiOiJNZW51IiwibWVudUljb25DbGFzcyI6ImRhc2hpY29ucy1iZWZvcmUgZGFzaGljb25zLW1lbnUiLCJzdWJNZW51IjoiU3VibWVudSIsInN1Yk1lbnVJY29uQ2xhc3MiOiJkYXNoaWNvbnMtYmVmb3JlIGRhc2hpY29ucy1hcnJvdy1kb3duLWFsdDIiLCJtZW51Q2xhc3NlcyI6eyJvdGhlcnMiOlsiLm5hdi1wcmltYXJ5Il19fQ=="
-  defer=""
-></script>
-<script
-  data-optimized="1"
-  src="./assets/js/9274b51893e42d4e077e9d8b60dd9b29.js"
-  id="marlog-responsive-menu-js"
-  defer=""
-  data-deferred="1"
-></script>
-<script
-  id="megamenu-js-extra"
-  src="data:text/javascript;base64,dmFyIG1lZ2FtZW51PXsidGltZW91dCI6IjMwMCIsImludGVydmFsIjoiMTAwIn0="
-  defer=""
-></script>
-<script
-  data-optimized="1"
-  src="./assets/js/d574a9d44a35020940500991aee85fe8.js"
-  id="megamenu-js"
-  defer=""
-  data-deferred="1"
-></script>
-<script
-  data-optimized="1"
-  src="./assets/js/9ba3b20fe049c9fa9fa6458049a630ba.js"
-  id="megamenu-pro-js"
-  defer=""
-  data-deferred="1"
-></script>
-<script
-  src="data:text/javascript;base64,dmFyIEZXUF9IVFRQPUZXUF9IVFRQfHx7fTtGV1BfSFRUUC5sYW5nPSdlbic="
-  defer=""
-></script>
+<script id="wpml-cookie-js-extra" src="data:text/javascript;base64,dmFyIHdwbWxfY29va2llcz17IndwLXdwbWxfY3VycmVudF9sYW5ndWFnZSI6eyJ2YWx1ZSI6ImVuIiwiZXhwaXJlcyI6MSwicGF0aCI6IlwvIn19O3ZhciB3cG1sX2Nvb2tpZXM9eyJ3cC13cG1sX2N1cnJlbnRfbGFuZ3VhZ2UiOnsidmFsdWUiOiJlbiIsImV4cGlyZXMiOjEsInBhdGgiOiJcLyJ9fQ==" defer></script>
+<script data-optimized="1" src="assets/js/c68a5b7b7544fa6220a3251ab4746687.js?ver=46687" id="wpml-cookie-js" defer data-wp-strategy="defer"></script>
+<script data-optimized="1" src="assets/js/8c881053de71f1e5b66ee5d720b685f4.js?ver=685f4" id="wpml-legacy-dropdown-0-js" defer data-deferred="1"></script>
+<script src="assets/js/jquery.min.js" id="jquery-core-js"></script>
+<script data-optimized="1" src="assets/js/69600251e930dbd31d5b267bb7d7195f.js?ver=7195f" id="jquery-migrate-js" defer data-deferred="1"></script>
 
-<script type="text/javascript" id="" charset="">
-  !(function (b, e, f, g, a, c, d) {
-    b.fbq ||
-      ((a = b.fbq =
-        function () {
-          a.callMethod
-            ? a.callMethod.apply(a, arguments)
-            : a.queue.push(arguments);
-        }),
-      b._fbq || (b._fbq = a),
-      (a.push = a),
-      (a.loaded = !0),
-      (a.version = "2.0"),
-      (a.queue = []),
-      (c = e.createElement(f)),
-      (c.async = !0),
-      (c.src = g),
-      (d = e.getElementsByTagName(f)[0]),
-      d.parentNode.insertBefore(c, d));
-  })(
-    window,
-    document,
-    "script",
-    "https://connect.facebook.net/en_US/fbevents.js"
-  );
-  fbq("init", "2667429110209826");
-  fbq("track", "PageView");
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'assets/js/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PVQ9JR8');
 </script>
+<script src="data:text/javascript;base64,KGZ1bmN0aW9uKGwsZSxhLGQsaSxuLGYsbyl7aWYoIWxbaV0pe2wuR2xvYmFsTGVhZGluZm9OYW1lc3BhY2U9bC5HbG9iYWxMZWFkaW5mb05hbWVzcGFjZXx8W107bC5HbG9iYWxMZWFkaW5mb05hbWVzcGFjZS5wdXNoKGkpO2xbaV09ZnVuY3Rpb24oKXsobFtpXS5xPWxbaV0ucXx8W10pLnB1c2goYXJndW1lbnRzKX07bFtpXS50PWxbaV0udHx8bjtsW2ldLnE9bFtpXS5xfHxbXTtvPWUuY3JlYXRlRWxlbWVudChhKTtmPWUuZ2V0RWxlbWVudHNCeVRhZ05hbWUoYSlbMF07by5hc3luYz0xO28uc3JjPWQ7Zi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShvLGYpfX0od2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdodHRwczovL2Nkbi5sZWFkaW5mby5uZXQvcGluZy5qcycsJ2xlYWRpbmZvJywnTEktNjZCRjQ0NDI3NzIyRScpKQ==" defer></script>
+
+<script data-optimized="1" defer src="assets/js/2b431103228985c280caedda5517c917.js?ver=7c917"></script>
+<script data-optimized="1" src="assets/js/857b73b1de17bad72c1b9555555d8af7.js?ver=d8af7" defer data-deferred="1"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js" defer data-deferred="1"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js" defer data-deferred="1"></script>
+<script data-optimized="1" type="text/javascript" src="assets/js/6979222ccef64fba2aa2657dae673ef4.js?ver=73ef4" defer data-deferred="1"></script>
+<script data-optimized="1" type="text/javascript" src="assets/js/fb7feb5f733b591c710a65e13530fea4.js?ver=0fea4" defer data-deferred="1"></script>
+<script id="Cookiebot" src="assets/js/uc.js" data-cbid="d402a138-c413-418c-ba35-76481cae6031" data-blockingmode="auto" type="text/javascript" defer data-deferred="1"></script>
