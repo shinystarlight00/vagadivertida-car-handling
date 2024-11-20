@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
+    <?php require "config/constant.php"; ?>
+
     <?php require "layout/head.php"; ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
@@ -16,7 +18,7 @@
                                   <span class="f-s-20">
                                       <p>Marlog Car Handling is specialised in transporting vehicles to and from every country in the world. Our skilled team will guide you through the entire process, from purchasing your vehicle to delivering it at your address.</p>
                                   </span>
-                                  <a class="button yellow" href="https://www.marlog-car-handling.com/request-a-quote/"> Request quote</a>
+                                  <a class="button yellow" href="/pages/quote.php"> Request quote</a>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-6 offset-lg-0 p-r">
@@ -25,33 +27,21 @@
                                   <ul class="fa-ul">
                                       <li>
                                           <span class="fa-li">
-                                              <a href="https://www.marlog-car-handling.com/import/">
+                                              <a href="/pages/import/">
                                                   <i class="fa-solid fa-arrow-right-long"></i>
                                           </span> I want to import a vehicle </a>
                                       </li>
                                       <li>
                                           <span class="fa-li">
-                                              <a href="https://www.marlog-car-handling.com/export/">
+                                              <a href="/pages/export/">
                                                   <i class="fa-solid fa-arrow-right-long"></i>
                                           </span>I want to export a vehicle </a>
                                       </li>
                                       <li>
                                           <span class="fa-li">
-                                              <a href="https://www.marlog-car-handling.com/contact/">
+                                              <a href="/pages/contact.php">
                                                   <i class="fa-solid fa-arrow-right-long"></i>
                                           </span>I want to calculate the BPM of my vehicle </a>
-                                      </li>
-                                      <li>
-                                          <span class="fa-li">
-                                              <a href="https://www.marlog-car-handling.com/business/">
-                                                  <i class="fa-solid fa-arrow-right-long"></i>
-                                          </span>I want to import a vehicle for business </a>
-                                      </li>
-                                      <li>
-                                          <span class="fa-li">
-                                              <a href="https://www.marlog-car-handling.com/marlog-europe/">
-                                                  <i class="fa-solid fa-arrow-right-long"></i>
-                                          </span>I want to import a vehicle from Europe </a>
                                       </li>
                                   </ul>
                               </div>
@@ -82,7 +72,7 @@
                   <div class="container">
                       <div class="row">
                           <div class="col-xl-4 col-lg-4 col-md-12 col-sm-4">
-                              <a href="/import/">
+                              <a href="/pages/import/">
                                   <div class="inner bg-white p-md p-r h-100">
                                       <h3>
                                           <span class="icon">
@@ -97,7 +87,7 @@
                               </a>
                           </div>
                           <div class="col-xl-4 col-lg-4 col-md-12 col-sm-4">
-                              <a href="/export/">
+                              <a href="/pages/export/">
                                   <div class="inner bg-white p-md p-r h-100">
                                       <h3>
                                           <span class="icon">
@@ -112,7 +102,7 @@
                               </a>
                           </div>
                           <div class="col-xl-4 col-lg-4 col-md-12 col-sm-4">
-                              <a href="/services/">
+                              <a href="/pages/services/">
                                   <div class="inner bg-white p-md p-r h-100">
                                       <h3>
                                           <span class="icon">
@@ -156,7 +146,7 @@
                                   <p>
                                   <p>Marlog Car Handling is your partner for your emigration or immigration plans.</p>
                                   </p>
-                                  <a class="button" href="https://www.marlog-car-handling.com/services/break-bulk-cargo/">More information <i class="fas fa-long-arrow-right"></i>
+                                  <a class="button" href="/pages/services/break-bulk-cargo.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
                           </div>
@@ -169,20 +159,7 @@
                                   <p>
                                   <p>Unfortunately, it sometimes occurs that unpredictable situations arise that are beyond everyone’s control. For example: ships in heavy weather. Therefore, we recommend you to take out insurance to cover the transport of your vehicle.</p>
                                   </p>
-                                  <a class="button" href="https://www.marlog-car-handling.com/services/insurance/">More information <i class="fas fa-long-arrow-right"></i>
-                                  </a>
-                              </div>
-                          </div>
-                          <div class="inner bg-lgr service p-r">
-                              <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/calculating-bpm-header.jpg" class="attachment-full size-full" alt="Calculating BPM" decoding="async" srcset="assets/img/calculating-bpm-header.jpg 945w, assets/img/calculating-bpm-header-300x127.jpg 300w, assets/img/calculating-bpm-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
-                              </div>
-                              <div class="content p-md">
-                                  <h3>Calculate BPM tax</h3>
-                                  <p>
-                                  <p>You can have us calculate the lowest BMP and you can pay at the customs declaration point.</p>
-                                  </p>
-                                  <a class="button" href="https://www.marlog-car-handling.com/services/calculate-bpm-tax/">More information <i class="fas fa-long-arrow-right"></i>
+                                  <a class="button" href="/pages/services/insurance.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
                           </div>
@@ -195,7 +172,7 @@
                                   <p>
                                   <p>Are you going to buy a car in America or another country outside Europe? Then it is wise to use an escrow service.</p>
                                   </p>
-                                  <a class="button" href="https://www.marlog-car-handling.com/services/escrow-service/">More information <i class="fas fa-long-arrow-right"></i>
+                                  <a class="button" href="/pages/services/escrow.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
                           </div>
@@ -208,7 +185,7 @@
                                   <p>
                                   <p>Several destinations demand a complete gassing of the container before it’s allowed into the country. If desired, we can take care of the container gassing.</p>
                                   </p>
-                                  <a class="button" href="https://www.marlog-car-handling.com/services/gassing-the-container/">More information <i class="fas fa-long-arrow-right"></i>
+                                  <a class="button" href="/pages/services/gassing-the-container.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
                           </div>
@@ -221,7 +198,7 @@
                                   <p>
                                   <p>Marlog Car Handling is capable of sealing your vehicle.</p>
                                   </p>
-                                  <a class="button" href="https://www.marlog-car-handling.com/services/sea-proof-packaging/">More information <i class="fas fa-long-arrow-right"></i>
+                                  <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
                           </div>
@@ -236,7 +213,7 @@
                                   <div class="inner ">
                                       <h2>Need help importing a car or other vehicle?</h2>
                                       <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
-                                      <p>Please give us a call, e-mail us or fill out a <a href="/request-a-quote/">quotation form</a>. </p>
+                                      <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                       <div class="cta-contact">
                                           <a class="p-r-md" href="mailto:info@mchnl.com">
                                               <i class="fa-regular fa-circle-envelope"></i> info@mchnl.com </a>
@@ -269,7 +246,7 @@
                               <div class="inner bg-white">
                                   <div class="row">
                                       <div class="col-lg-8 col-md-8">
-                                          <a href="https://www.marlog-car-handling.com/services/escrow-service/">
+                                          <a href="/pages/services/escrow.php">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3>1. Escrow Service</h3>
                                                   <p class="m-0">In collaboration with local agents in America and Dubai, we offer you an Escrow Service. This allows you to securely make international payments without needing to be physically present. Additionally, the on-site agent can inspect and share the condition of the vehicle.</p>
@@ -291,7 +268,7 @@
                               <div class="inner bg-white">
                                   <div class="row">
                                       <div class="col-lg-8 col-md-8">
-                                          <a href="https://www.marlog-car-handling.com/interstate-car-transport/">
+                                          <a href="/pages/interstate-car-transport.php">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3>2. International vehicle transport (pick-up).</h3>
                                                   <p class="m-0">We arrange the transport to the port from where your imported vehicle will be shipped. We also ensure that all the necessary documents are in order for customs clearance in the country of origin.</p>
@@ -313,7 +290,7 @@
                               <div class="inner bg-white">
                                   <div class="row">
                                       <div class="col-lg-8 col-md-8">
-                                          <a href="https://www.marlog-car-handling.com/import/">
+                                          <a href="/pages/import/">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3>3. Shipping the imported vehicle</h3>
                                                   <p class="m-0">We ship your imported vehicle for you. You can choose between container transport or RoRo (Roll-on/Roll-off) transport and specify the ports you'd like to use. Additionally, we handle the customs clearance for you, both in the country of origin and at the destination</p>
@@ -335,7 +312,7 @@
                               <div class="inner bg-white">
                                   <div class="row">
                                       <div class="col-lg-8 col-md-8">
-                                          <a href="https://www.marlog-car-handling.com/services/registration-procedure-homologation/">
+                                          <a href="/pages/services/registration-procedure-homologation.php">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3>4. Inspection and vehicle registration</h3>
                                                   <p class="m-0">After the customs clearance at the destination port, we transport your imported vehicle to the inspection station, typically right at our own location. In our modern workshop, we conduct daily TÜV and RDW inspections, where we repair or modify the vehicle if necessary</p>
@@ -357,31 +334,9 @@
                               <div class="inner bg-white">
                                   <div class="row">
                                       <div class="col-lg-8 col-md-8">
-                                          <a href="https://www.marlog-car-handling.com/services/calculate-bpm-tax/">
+                                          <a href="/pages/contact.php">
                                               <div class="inner p-md p-r h-100 v-c">
-                                                  <h3>5. BPM handling</h3>
-                                                  <p class="m-0">Before a Dutch license plate can be applied for an imported vehicle, BPM (Dutch vehicle tax) declaration must be made. We calculate the lowest possible BPM for you to ensure you don't overpay. Afterward, we will submit the BPM declaration on your behalf and proceed with the license plate application and installation.</p>
-                                                  <span class="arrow-btm">
-                                                      <i class="fa-solid fa-arrow-right-long"></i>
-                                                  </span>
-                                              </div>
-                                          </a>
-                                      </div>
-                                      <div class="col-lg-4 col-md-4">
-                                          <div class="inner h-100">
-                                              <img width="849" height="1060" src="assets/img/BPM-afhandeling-importproces-HOME-1.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="assets/img/BPM-afhandeling-importproces-HOME-1.jpg 849w, assets/img/BPM-afhandeling-importproces-HOME-1-240x300.jpg 240w, assets/img/BPM-afhandeling-importproces-HOME-1-820x1024.jpg 820w, assets/img/BPM-afhandeling-importproces-HOME-1-768x959.jpg 768w" sizes="(max-width: 849px) 100vw, 849px" />
-                                          </div>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="col-xl-8 offset-xl-4 col-lg-12 col-sm-12">
-                              <div class="inner bg-white">
-                                  <div class="row">
-                                      <div class="col-lg-8 col-md-8">
-                                          <a href="https://www.marlog-car-handling.com/contact/">
-                                              <div class="inner p-md p-r h-100 v-c">
-                                                  <h3>6. Delivery of your imported vehicle</h3>
+                                                  <h3>5. Delivery of your imported vehicle</h3>
                                                   <p class="m-0">The most enjoyable part for both you and us: the delivery of your imported vehicle! It can take place at our location, or we can transport the vehicle to the location of your choice for delivery.</p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
@@ -393,51 +348,6 @@
                                           <div class="inner h-100">
                                               <img width="275" height="344" src="assets/img/Aflevering-importvoertuig-importproces-1.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="assets/img/Aflevering-importvoertuig-importproces-1.jpg 275w, assets/img/Aflevering-importvoertuig-importproces-1-240x300.jpg 240w" sizes="(max-width: 275px) 100vw, 275px" />
                                           </div>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </section>
-              <section class="page-section reviews p-t-xl p-b-xl bg-lgr m-t-xl p-r">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-lg-3 col-md-12 col-12">
-                              <div class="inner p-t-xl">
-                                  <h2>What do others think of Marlog Car Handling?</h2>
-                                  <p>The service and services of Marlog Car Handling are very well received by the customers they serve. You can see that in all the reviews they receive.</p>
-                                  <a class="button" href="https://www.klantenvertellen.nl/reviews/1039657/marlog_car_handling?from=widget&lang=nl" target="_blank">View all reviews <i class="fas fa-long-arrow-right"></i>
-                                  </a>
-                              </div>
-                          </div>
-                          <div class="col-lg-8 offset-lg-1 col-md-12 offset-md-0 col-12 offset-0">
-                              <div class="row p-r">
-                                  <div class="col-xl-8 col-lg-12 col-md-12 col-12 review p-r">
-                                      <div class="inner bg-white p-md br-5">
-                                          <p>
-                                              <strong>Alexander</strong> | <span class="place">Ude</span>
-                                          </p>
-                                          <img src="assets/img/stars.svg" alt="stars">
-                                          <p>We have been doing business with Marlog for many years and it always goes very smoothly, agreements are kept and communication is also very smooth and fast.</p>
-                                      </div>
-                                  </div>
-                                  <div class="col-xl-8 col-lg-12 col-md-12 col-12 review p-r">
-                                      <div class="inner bg-white p-md br-5">
-                                          <p>
-                                              <strong>Maartje</strong> | <span class="place">Rotterdam</span>
-                                          </p>
-                                          <img src="assets/img/stars.svg" alt="stars">
-                                          <p>We are very satisfied with the collaboration with Marlog. It is also nice that you always have the same contact persons within the Marlog company, so that you know what each other is talking about.</p>
-                                      </div>
-                                  </div>
-                                  <div class="col-xl-8 col-lg-12 col-md-12 col-12 review p-r">
-                                      <div class="inner bg-white p-md br-5">
-                                          <p>
-                                              <strong>Matadin</strong> | <span class="place">Breda</span>
-                                          </p>
-                                          <img src="assets/img/stars.svg" alt="stars">
-                                          <p>Everything went pretty smoothly, communication is also very smooth, people also respond right away, you can indicate everything you have on your mind. Nothing but praise!</p>
                                       </div>
                                   </div>
                               </div>

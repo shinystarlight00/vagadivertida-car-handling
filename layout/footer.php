@@ -9,16 +9,16 @@
                       <div class="menu-import-container">
                           <ul id="menu-import-1" class="menu">
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256">
-                                  <a href="https://www.marlog-car-handling.com/import/cars/">Cars</a>
+                                  <a href="/pages/import/cars.php">Cars</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257">
-                                  <a href="https://www.marlog-car-handling.com/import/classics/">Classics</a>
+                                  <a href="/pages/import/classics.php">Classics</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258">
-                                  <a href="https://www.marlog-car-handling.com/import/motorcycles/">Motorcycles</a>
+                                  <a href="/pages/import/motorcycles.php">Motorcycles</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                                  <a href="https://www.marlog-car-handling.com/import/boat/">Boat</a>
+                                  <a href="/pages/import/boat.php">Boat</a>
                               </li>
                           </ul>
                       </div>
@@ -30,19 +30,19 @@
                       <div class="menu-import-countries-container">
                           <ul id="menu-import-countries-1" class="menu">
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253">
-                                  <a href="https://www.marlog-car-handling.com/import/car-import-from-the-usa/">USA</a>
+                                  <a href="/pages/import/from/usa.php">USA</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-252">
-                                  <a href="https://www.marlog-car-handling.com/import/car-import-from-canada/">Canada</a>
+                                  <a href="/pages/import/from/canada.php">Canada</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250">
-                                  <a href="https://www.marlog-car-handling.com/import/asia/">Asia</a>
+                                  <a href="/pages/import/from/asia.php">Asia</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12823">
-                                  <a href="https://www.marlog-car-handling.com/import/dubai/">Dubai</a>
+                                  <a href="/pages/import/from/dubai.php">Dubai</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12825">
-                                  <a href="https://www.marlog-car-handling.com/import/australia-2/">Australia</a>
+                                  <a href="/pages/import/from/australia.php">Australia</a>
                               </li>
                           </ul>
                       </div>
@@ -57,10 +57,10 @@
                       <div class="menu-export-container">
                           <ul id="menu-export-1" class="menu">
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259">
-                                  <a href="https://www.marlog-car-handling.com/export/classics/">Classics</a>
+                                  <a href="/pages/export/classics.php">Classics</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260">
-                                  <a href="https://www.marlog-car-handling.com/export/container/">Container</a>
+                                  <a href="/pages/export/container.php">Container</a>
                               </li>
                           </ul>
                       </div>
@@ -72,19 +72,19 @@
                       <div class="menu-export-countries-container">
                           <ul id="menu-export-countries-1" class="menu">
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-261">
-                                  <a href="https://www.marlog-car-handling.com/export/australia/">Australia</a>
+                                  <a href="/pages/export/to/australia.php">Australia</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-263">
-                                  <a href="https://www.marlog-car-handling.com/export/export-to-america/">Export to America</a>
+                                  <a href="/pages/export/to/america.php">Export to America</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267">
-                                  <a href="https://www.marlog-car-handling.com/export/south-america/">South America</a>
+                                  <a href="/pages/export/to/south-america.php">South America</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262">
-                                  <a href="https://www.marlog-car-handling.com/export/caribbean/">Caribbean</a>
+                                  <a href="/pages/export/to/caribbean.php">Caribbean</a>
                               </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266">
-                                  <a href="https://www.marlog-car-handling.com/export/middle-east/">Middle East</a>
+                                  <a href="/pages/export/to/middle-east.php">Middle East</a>
                               </li>
                           </ul>
                       </div>
@@ -99,22 +99,19 @@
                       <div class="menu-services-container">
                           <ul id="menu-services" class="menu">
                               <li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-244">
-                                  <a href="https://www.marlog-car-handling.com/services/break-bulk-cargo/">Break bulk cargo</a>
-                              </li>
-                              <li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-245">
-                                  <a href="https://www.marlog-car-handling.com/services/calculate-bpm-tax/">Calculate BPM tax</a>
+                                  <a href="/pages/services/break-bulk-cargo.php">Break bulk cargo</a>
                               </li>
                               <li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-246">
-                                  <a href="https://www.marlog-car-handling.com/services/escrow-service/">Escrow service</a>
+                                  <a href="/pages/services/escrow.php">Escrow service</a>
                               </li>
                               <li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-247">
-                                  <a href="https://www.marlog-car-handling.com/services/gassing-the-container/">Gassing the container</a>
+                                  <a href="/pages/services/gassing-the-container.php">Gassing the container</a>
                               </li>
                               <li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-248">
-                                  <a href="https://www.marlog-car-handling.com/services/insurance/">Insurance</a>
+                                  <a href="/pages/services/insurance.php">Insurance</a>
                               </li>
                               <li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-249">
-                                  <a href="https://www.marlog-car-handling.com/services/sea-proof-packaging/">Sea-proof packaging</a>
+                                  <a href="/pages/services/sea-proof-packaging.php">Sea-proof packaging</a>
                               </li>
                           </ul>
                       </div>
@@ -129,7 +126,7 @@
                       <div class="menu-the-company-container">
                           <ul id="menu-the-company" class="menu">
                               <li id="menu-item-278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-278">
-                                  <a href="https://www.marlog-car-handling.com/the-company/">The company</a>
+                                  <a href="/pages/company.php">The company</a>
                               </li>
                           </ul>
                       </div>

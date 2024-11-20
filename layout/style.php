@@ -1,10 +1,10 @@
-<link data-optimized="1" rel='stylesheet' id='marlog-car-handling-css' href='assets/css/1124e31bb0fa0a4c41a035ca2fd7e118.css?ver=7e118' media='all' />
+<link data-optimized="1" rel='stylesheet' id='marlog-car-handling-css' href='<?php echo ASSET_URL; ?>css/1124e31bb0fa0a4c41a035ca2fd7e118.css?ver=7e118' media='all' />
 <style id='marlog-car-handling-inline-css'>
     .wp-custom-logo .title-area {
         padding-top: 10.5px;
     }
 </style>
-<link data-optimized="1" rel='stylesheet' id='wp-block-library-css' href='assets/css/dbd257b5d09855a60f6bf525fcd15f15.css?ver=15f15' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wp-block-library-css' href='<?php echo ASSET_URL; ?>css/dbd257b5d09855a60f6bf525fcd15f15.css?ver=15f15' media='all' />
 <style id='classic-theme-styles-inline-css'>
     /*! This file is auto-generated */
     .wp-block-button__link {
@@ -352,13 +352,13 @@
         line-height: 1.6;
     }
 </style>
-<link data-optimized="1" rel='stylesheet' id='wpml-legacy-dropdown-0-css' href='assets/css/fcd9b8f6c6c69e76e18bdbed3386149f.css?ver=6149f' media='all' />
-<link data-optimized="1" rel='stylesheet' id='megamenu-css' href='assets/css/39356e3ef7b9f41970bef3559e86c35f.css?ver=6c35f' media='all' />
-<link data-optimized="1" rel='stylesheet' id='dashicons-css' href='assets/css/40697efb8ee5452097d5d35b5889ad6f.css?ver=9ad6f' media='all' />
-<link data-optimized="1" rel='stylesheet' id='megamenu-genericons-css' href='assets/css/2f45081da0078f4e0f0baa5f37ebad63.css?ver=bad63' media='all' />
-<link data-optimized="1" rel='stylesheet' id='megamenu-fontawesome-css' href='assets/css/e01d055a3cfb1982517c16f68649e059.css?ver=9e059' media='all' />
-<link data-optimized="1" rel='stylesheet' id='megamenu-fontawesome5-css' href='assets/css/9fb8212f174469f88f8794dea4064653.css?ver=64653' media='all' />
-<link data-optimized="1" rel='stylesheet' id='marlog-car-handling-gutenberg-css' href='assets/css/41d31d06e14b4a8b2c0fd123166063cf.css?ver=063cf' media='all' />
+<link data-optimized="1" rel='stylesheet' id='wpml-legacy-dropdown-0-css' href='<?php echo ASSET_URL; ?>css/fcd9b8f6c6c69e76e18bdbed3386149f.css?ver=6149f' media='all' />
+<link data-optimized="1" rel='stylesheet' id='megamenu-css' href='<?php echo ASSET_URL; ?>css/39356e3ef7b9f41970bef3559e86c35f.css?ver=6c35f' media='all' />
+<link data-optimized="1" rel='stylesheet' id='dashicons-css' href='<?php echo ASSET_URL; ?>css/40697efb8ee5452097d5d35b5889ad6f.css?ver=9ad6f' media='all' />
+<link data-optimized="1" rel='stylesheet' id='megamenu-genericons-css' href='<?php echo ASSET_URL; ?>css/2f45081da0078f4e0f0baa5f37ebad63.css?ver=bad63' media='all' />
+<link data-optimized="1" rel='stylesheet' id='megamenu-fontawesome-css' href='<?php echo ASSET_URL; ?>css/e01d055a3cfb1982517c16f68649e059.css?ver=9e059' media='all' />
+<link data-optimized="1" rel='stylesheet' id='megamenu-fontawesome5-css' href='<?php echo ASSET_URL; ?>css/9fb8212f174469f88f8794dea4064653.css?ver=64653' media='all' />
+<link data-optimized="1" rel='stylesheet' id='marlog-car-handling-gutenberg-css' href='<?php echo ASSET_URL; ?>css/41d31d06e14b4a8b2c0fd123166063cf.css?ver=063cf' media='all' />
 <style id='marlog-car-handling-gutenberg-inline-css'>
     .ab-block-post-grid .ab-post-grid-items h2 a:hover {
         color: #0073e5;
@@ -424,8 +424,11 @@
     }
 </style>
 
-<link href="assets/css/css2.css?family=Solitreo&family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">
-<link href="assets/css/aos.css" rel="stylesheet">
-<link data-optimized="1" rel="stylesheet" type="text/css" href="assets/css/7d2ffe02174e3b74d8f652548538e469.css?ver=8e469" />
-<link data-optimized="1" rel="stylesheet" type="text/css" href="assets/css/cb4556a262d5f3589566a2f52d207a2f.css?ver=07a2f" />
-<link data-optimized="1" rel="stylesheet" href="assets/css/40e57ec560d72e5ea94703a1b5441561.css?ver=41561">
+<link href="<?php echo ASSET_URL; ?>css/css2.css?family=Solitreo&family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">
+<link href="<?php echo ASSET_URL; ?>css/aos.css" rel="stylesheet">
+<link data-optimized="1" rel="stylesheet" type="text/css" href="<?php echo ASSET_URL; ?>css/7d2ffe02174e3b74d8f652548538e469.css?ver=8e469" />
+<link data-optimized="1" rel="stylesheet" type="text/css" href="<?php echo ASSET_URL; ?>css/cb4556a262d5f3589566a2f52d207a2f.css?ver=07a2f" />
+<link data-optimized="1" rel="stylesheet" href="<?php echo ASSET_URL; ?>css/40e57ec560d72e5ea94703a1b5441561.css?ver=41561">
+<link data-optimized="1" rel='stylesheet' id='gform_theme-css' href='<?php echo ASSET_URL; ?>css/133bfc211c900a003bbb1ac6fdf5d8f9.css?ver=5d8f9' media='all' />
+<link data-optimized="1" rel='stylesheet' id='gform_theme_components-css' href='<?php echo ASSET_URL; ?>css/fec46ae1776f5750edb87399142d4113.css?ver=d4113' media='all' />
+<link data-optimized="1" rel='stylesheet' id='gform_basic-css' href='<?php echo ASSET_URL; ?>css/d3743a82fe572b58d7563beb10821f06.css?ver=21f06' media='all' />
