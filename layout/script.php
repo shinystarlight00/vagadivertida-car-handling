@@ -28,3 +28,6 @@
 <script data-optimized="1" type="text/javascript" src="<?php echo ASSET_URL; ?>js/6979222ccef64fba2aa2657dae673ef4.js?ver=73ef4" defer data-deferred="1"></script>
 <script data-optimized="1" type="text/javascript" src="<?php echo ASSET_URL; ?>js/fb7feb5f733b591c710a65e13530fea4.js?ver=0fea4" defer data-deferred="1"></script>
 <script id="Cookiebot" src="<?php echo ASSET_URL; ?>js/uc.js" data-cbid="d402a138-c413-418c-ba35-76481cae6031" data-blockingmode="auto" type="text/javascript" defer data-deferred="1"></script>
+
+<script src="https://www.google.com/recaptcha/api.js?render=6Lftt4kqAAAAAK9TiIe967UFZYfPUZGHPw5vo70M"></script>
+<script src="<?php echo ASSET_URL; ?>js/ajax-form.js"></script>

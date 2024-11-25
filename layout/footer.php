@@ -38,9 +38,6 @@
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250">
                                   <a href="/pages/import/from/asia.php">Asia</a>
                               </li>
-                              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12823">
-                                  <a href="/pages/import/from/dubai.php">Dubai</a>
-                              </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12825">
                                   <a href="/pages/import/from/australia.php">Australia</a>
                               </li>
