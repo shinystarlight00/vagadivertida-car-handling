@@ -202,17 +202,6 @@
                           <div class="col-lg-6">
                               <h2>Meet the team</h2>
                           </div>
-                          <div class="col-lg-6">
-                              <div class="inner t-r">
-                                  <h2>
-                                      <a class="button" href="/pages/vacancies.php">View vacancies</a>
-                                  </h2>
-                              </div>
-                          </div>
-                          <div class="col-lg-12">
-                              <strong>Filter</strong>
-                              <div class="facetwp-facet facetwp-facet-department facetwp-type-checkboxes" data-name="department" data-type="checkboxes"></div>
-                          </div>
                       </div>
                       <div class="facetwp-template" data-name="employees">
                           <div class="row">

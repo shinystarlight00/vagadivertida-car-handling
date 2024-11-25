@@ -12,7 +12,6 @@
         <div class="col-lg-8 col-md-8 v-c">
           <div class="inner t-r">
             <a href="/pages/company.php">The company</a>
-            <a href="/pages/vacancies.php">Vacancies</a>
             <a class="contactinfomobile" href="mailto:info@mchnl.com">
               <i class="fa-light fa-circle-envelope"></i> 
               info@mchnl.com 
