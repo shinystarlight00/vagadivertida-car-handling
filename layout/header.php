@@ -2,14 +2,14 @@
   <div class="top-menu v-c">
     <div class="container ">
       <div class="row">
-        <div class="col-lg-2 col-md-2 v-c logo">
+        <div class="col-lg-4 col-md-4 v-c logo">
           <div class="inner">
             <a href="/" class="custom-logo-link" rel="home" aria-current="page">
-              <img width="161" height="49" src="<?php echo ASSET_URL; ?>img/logo-mch.png" class="custom-logo" alt="Marlog Car Handling" decoding="async" />
+              <img width="300" height="100" src="<?php echo ASSET_URL; ?>img/logo-mch.png" class="custom-logo" alt="Marlog Car Handling" decoding="async" />
             </a>
           </div>
         </div>
-        <div class="col-lg-10 col-md-10 v-c">
+        <div class="col-lg-8 col-md-8 v-c">
           <div class="inner t-r">
             <a href="/pages/company.php">The company</a>
             <a href="/pages/vacancies.php">Vacancies</a>

@@ -33,7 +33,7 @@
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-6 offset-lg-1 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/boat-shiping.jpg 900w, <?php echo ASSET_URL; ?>img/boat-shiping-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/boat-shiping-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/sea-proof-packaging-righ-image.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                           </div>
                       </div>
@@ -68,7 +68,6 @@
                                       <p>Marlog Car Handling is capable of sealing your vehicle:</p>
                                       <p>
                                           <img decoding="async" class="alignnone size-medium wp-image-483" src="<?php echo ASSET_URL; ?>img/sealing-left.jpg" alt="" width="300" height="225" />
-                                          <img decoding="async" class="alignnone size-medium wp-image-478" src="<?php echo ASSET_URL; ?>img/sealing-right.jpg" alt="" width="300" height="225" />
                                       </p>
                                       <h2> Crating</h2>
                                       <p>Before shipping your motorcycle, shipping agents may demand that it is crated before it is put up for shipment. Marlog Car Handling will make a custom-built crate to fit your motorcycle. This is done by using certified wood which complies to rules and regulations. Crating is usually done when shipping motorcycles, however it can also be required for shipping parts, equipment and fragile goods. The crate offers the most reliable protection during transport.</p>

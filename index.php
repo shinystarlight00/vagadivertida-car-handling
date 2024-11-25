@@ -165,7 +165,7 @@
                           </div>
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/escrow-service-header-image.jpg" class="attachment-full size-full" alt="Escrow service" decoding="async" srcset="assets/img/escrow-service-header-image.jpg 945w, assets/img/escrow-service-header-image-300x127.jpg 300w, assets/img/escrow-service-header-image-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="assets/img/export-vehicles-marlog-header.jpg" class="attachment-full size-full" alt="Escrow service" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
                                   <h3>Escrow service</h3>

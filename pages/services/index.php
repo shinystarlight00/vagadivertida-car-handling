@@ -31,7 +31,7 @@
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-12 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/registration-procedure-homologation-header.jpg" class="attachment-full size-full" alt="Registration procedure / Homologation" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/registration-procedure-homologation-header.jpg 945w, <?php echo ASSET_URL; ?>img/registration-procedure-homologation-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/registration-procedure-homologation-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/services.jpg" class="attachment-full size-full" alt="Registration procedure / Homologation" decoding="async" fetchpriority="high" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                           </div>
                       </div>
