@@ -77,9 +77,6 @@
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267">
                                   <a href="/pages/export/to/south-america.php">South America</a>
                               </li>
-                              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262">
-                                  <a href="/pages/export/to/caribbean.php">Caribbean</a>
-                              </li>
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266">
                                   <a href="/pages/export/to/middle-east.php">Middle East</a>
                               </li>

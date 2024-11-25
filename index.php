@@ -39,9 +39,9 @@
                                       </li>
                                       <li>
                                           <span class="fa-li">
-                                              <a href="/pages/contact.php">
+                                              <a href="/pages/services/escrow.php">
                                                   <i class="fa-solid fa-arrow-right-long"></i>
-                                          </span>I want to calculate the BPM of my vehicle </a>
+                                          </span>I want to use Escrow Service </a>
                                       </li>
                                   </ul>
                               </div>
@@ -302,7 +302,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="723" height="897" src="assets/img/Verschepen-importvoertuig-HOME-2.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="assets/img/Verschepen-importvoertuig-HOME-2.jpg 723w, assets/img/Verschepen-importvoertuig-HOME-2-242x300.jpg 242w" sizes="(max-width: 723px) 100vw, 723px" />
+                                              <img width="723" height="897" src="assets/img/Ocean-freight.jpg" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 723px) 100vw, 723px" />
                                           </div>
                                       </div>
                                   </div>
