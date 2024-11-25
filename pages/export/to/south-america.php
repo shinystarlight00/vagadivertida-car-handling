@@ -82,7 +82,7 @@
                               </div>
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
-                                      <img width="655" height="670" src="<?php echo ASSET_URL; ?>img/export-south-america.jpg" class="attachment-full size-full" alt="South America" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-south-america.jpg 655w, <?php echo ASSET_URL; ?>img/export-south-america-293x300.jpg 293w" sizes="(max-width: 655px) 100vw, 655px" />
+                                      <img width="655" height="670" src="<?php echo ASSET_URL; ?>img/classic.jpg" class="attachment-full size-full" alt="South America" decoding="async" sizes="(max-width: 655px) 100vw, 655px" />
                                   </div>
                               </div>
                           </div>
