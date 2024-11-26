@@ -33,7 +33,7 @@
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-classics-oldtimers-header.jpg" class="attachment-full size-full" alt="Export Oldtimers/ Classics" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/export-classics-oldtimers-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-classics-oldtimers-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-classics-oldtimers-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-classics.jpg" class="attachment-full size-full" alt="Export Oldtimers/ Classics" decoding="async" fetchpriority="high" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                           </div>
                       </div>
