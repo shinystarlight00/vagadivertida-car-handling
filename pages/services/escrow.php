@@ -161,19 +161,6 @@
                               <div class="col-lg-4 col-md-6 col-12">
                                   <div class="inner bg-lgr service p-r h-100">
                                       <div class="service-image">
-                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/service-gassing-the-container-header.jpg" class="attachment-full size-full" alt="Service - Gassing the container" decoding="async" srcset="<?php echo ASSET_URL; ?>img/service-gassing-the-container-header.jpg 945w, <?php echo ASSET_URL; ?>img/service-gassing-the-container-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/service-gassing-the-container-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
-                                      </div>
-                                      <div class="content p-md">
-                                          <h3>Gassing the container</h3>
-                                          <p>Several destinations demand a complete gassing of the container before it’s allowed into the country. If desired, we can take care of the container gassing.</p>
-                                          <a class="button" href="/pages/services/gassing-the-container.php">More information <i class="fal fa-long-arrow-right"></i>
-                                          </a>
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="col-lg-4 col-md-6 col-12">
-                                  <div class="inner bg-lgr service p-r h-100">
-                                      <div class="service-image">
                                           <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/service-insurance-header.jpg" class="attachment-full size-full" alt="Car Insurance" decoding="async" srcset="<?php echo ASSET_URL; ?>img/service-insurance-header.jpg 945w, <?php echo ASSET_URL; ?>img/service-insurance-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/service-insurance-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                                       </div>
                                       <div class="content p-md">
@@ -190,7 +177,7 @@
                                           <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="<?php echo ASSET_URL; ?>img/boat-shiping.jpg 900w, <?php echo ASSET_URL; ?>img/boat-shiping-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/boat-shiping-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
                                       </div>
                                       <div class="content p-md">
-                                          <h3>Sea-proof packaging</h3>
+                                          <h3>Seaworthy Packing</h3>
                                           <p>Marlog Car Handling is capable of sealing your vehicle.</p>
                                           <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>

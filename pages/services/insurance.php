@@ -137,7 +137,7 @@
                                           <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Marlog" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                                       </div>
                                       <div class="content p-md">
-                                          <h3>Break bulk cargo</h3>
+                                          <h3>General cargo</h3>
                                           <p>Marlog Car Handling is your partner for your emigration or immigration plans.</p>
                                           <a class="button" href="/pages/services/break-bulk-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>

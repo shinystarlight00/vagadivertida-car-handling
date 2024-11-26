@@ -142,7 +142,7 @@
                                   <img width="945" height="400" src="assets/img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Marlog" decoding="async" fetchpriority="high" srcset="assets/img/export-container-shipping-header.jpg 945w, assets/img/export-container-shipping-header-300x127.jpg 300w, assets/img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
-                                  <h3>Break bulk cargo</h3>
+                                  <h3>General cargo</h3>
                                   <p>
                                   <p>Marlog Car Handling is your partner for your emigration or immigration plans.</p>
                                   </p>
@@ -178,23 +178,10 @@
                           </div>
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/service-gassing-the-container-header.jpg" class="attachment-full size-full" alt="Service - Gassing the container" decoding="async" srcset="assets/img/service-gassing-the-container-header.jpg 945w, assets/img/service-gassing-the-container-header-300x127.jpg 300w, assets/img/service-gassing-the-container-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
-                              </div>
-                              <div class="content p-md">
-                                  <h3>Gassing the container</h3>
-                                  <p>
-                                  <p>Several destinations demand a complete gassing of the container before it’s allowed into the country. If desired, we can take care of the container gassing.</p>
-                                  </p>
-                                  <a class="button" href="/pages/services/gassing-the-container.php">More information <i class="fas fa-long-arrow-right"></i>
-                                  </a>
-                              </div>
-                          </div>
-                          <div class="inner bg-lgr service p-r">
-                              <div class="service-image">
                                   <img width="900" height="400" src="assets/img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="assets/img/boat-shiping.jpg 900w, assets/img/boat-shiping-300x133.jpg 300w, assets/img/boat-shiping-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                               <div class="content p-md">
-                                  <h3>Sea-proof packaging</h3>
+                                  <h3>Seaworthy Packing</h3>
                                   <p>
                                   <p>Marlog Car Handling is capable of sealing your vehicle.</p>
                                   </p>

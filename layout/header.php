@@ -213,10 +213,7 @@
                   <a class="mega-menu-link" href="/pages/services/escrow.php">Escrow service</a>
                 </li>
                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-services mega-menu-item-1533' id='mega-menu-item-1533'>
-                  <a class="mega-menu-link" href="/pages/services/break-bulk-cargo.php">Break bulk cargo</a>
-                </li>
-                <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-services mega-menu-item-1536' id='mega-menu-item-1536'>
-                  <a class="mega-menu-link" href="/pages/services/gassing-the-container.php">Gassing the container</a>
+                  <a class="mega-menu-link" href="/pages/services/break-bulk-cargo.php">General cargo</a>
                 </li>
                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-services mega-menu-item-1537' id='mega-menu-item-1537'>
                   <a class="mega-menu-link" href="/pages/services/insurance.php">Insurance</a>
@@ -225,7 +222,7 @@
                   <a class="mega-menu-link" href="/pages/services/registration-procedure-homologation.php">Registration procedure / Homologation</a>
                 </li>
                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-services mega-menu-item-1539' id='mega-menu-item-1539'>
-                  <a class="mega-menu-link" href="/pages/services/sea-proof-packaging.php">Sea-proof packaging</a>
+                  <a class="mega-menu-link" href="/pages/services/sea-proof-packaging.php">Seaworthy Packing</a>
                 </li>
               </ul>
           </li>

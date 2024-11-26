@@ -93,19 +93,16 @@
                       <div class="menu-services-container">
                           <ul id="menu-services" class="menu">
                               <li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-244">
-                                  <a href="/pages/services/break-bulk-cargo.php">Break bulk cargo</a>
+                                  <a href="/pages/services/break-bulk-cargo.php">General cargo</a>
                               </li>
                               <li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-246">
                                   <a href="/pages/services/escrow.php">Escrow service</a>
-                              </li>
-                              <li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-247">
-                                  <a href="/pages/services/gassing-the-container.php">Gassing the container</a>
                               </li>
                               <li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-248">
                                   <a href="/pages/services/insurance.php">Insurance</a>
                               </li>
                               <li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-249">
-                                  <a href="/pages/services/sea-proof-packaging.php">Sea-proof packaging</a>
+                                  <a href="/pages/services/sea-proof-packaging.php">Seaworthy Packing</a>
                               </li>
                           </ul>
                       </div>

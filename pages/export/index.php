@@ -71,7 +71,7 @@
                               </div>
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
-                                      <img width="655" height="832" src="<?php echo ASSET_URL; ?>img/sea-proof-packaging-righ-image.jpg" class="attachment-full size-full" alt="Sea-proof packaging" decoding="async" srcset="<?php echo ASSET_URL; ?>img/sea-proof-packaging-righ-image.jpg 655w, <?php echo ASSET_URL; ?>img/sea-proof-packaging-righ-image-236x300.jpg 236w" sizes="(max-width: 655px) 100vw, 655px" />
+                                      <img width="655" height="832" src="<?php echo ASSET_URL; ?>img/sea-proof-packaging-righ-image.jpg" class="attachment-full size-full" alt="Seaworthy Packing" decoding="async" srcset="<?php echo ASSET_URL; ?>img/sea-proof-packaging-righ-image.jpg 655w, <?php echo ASSET_URL; ?>img/sea-proof-packaging-righ-image-236x300.jpg 236w" sizes="(max-width: 655px) 100vw, 655px" />
                                   </div>
                               </div>
                           </div>
