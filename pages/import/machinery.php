@@ -20,20 +20,20 @@
                                       </span> / <span>
                                           <a href="/pages/import/">Import</a>
                                       </span> / <span class="breadcrumb_last" aria-current="page">
-                                          <strong>Boat</strong>
+                                          <strong>Machinery</strong>
                                       </span>
                                   </span>
                               </p>
                           </div>
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
-                                  <h1>Boat</h1>
+                                  <h1>Machinery</h1>
                                   <p>Do you want to import your speedboat, yacht or other sort boat? It’s all possible at Marlog Car Handling. Smaller boats can be shipped by container, while larger yachts are shipped by RoRo.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 900px) 100vw, 900px" />
+                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/import-machinery-header.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                           </div>
                       </div>
@@ -90,7 +90,7 @@
                               </div>
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
-                                      <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="<?php echo ASSET_URL; ?>img/boat-shiping.jpg 900w, <?php echo ASSET_URL; ?>img/boat-shiping-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/boat-shiping-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                      <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/import-machinery-content.jpg" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 900px) 100vw, 900px" />
                                   </div>
                               </div>
                           </div>

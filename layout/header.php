@@ -73,7 +73,7 @@
                               <a href="/pages/import/motorcycles.php">Motorcycles</a>
                             </li>
                             <li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255">
-                              <a href="/pages/import/boat.php">Boat</a>
+                              <a href="/pages/import/machinery.php">Machinery</a>
                             </li>
                           </ul>
                         </div>
