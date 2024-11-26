@@ -15,3 +15,22 @@
 <meta property="og:image:height" content="996" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta name="twitter:card" content="summary_large_image" />
+
+<link
+  rel="icon"
+  href="<?php echo ASSET_URL; ?>img/logo-mch-small.png"
+  sizes="32x32"
+/>
+<link
+  rel="icon"
+  href="<?php echo ASSET_URL; ?>img/logo-mch-small.png"
+  sizes="192x192"
+/>
+<link
+  rel="apple-touch-icon"
+  href="<?php echo ASSET_URL; ?>img/logo-mch-small.png"
+/>
+<meta
+  name="msapplication-TileImage"
+  content="<?php echo ASSET_URL; ?>img/logo-mch-small.png"
+/>
