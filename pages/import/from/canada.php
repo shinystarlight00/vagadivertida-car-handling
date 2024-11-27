@@ -28,7 +28,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Car import from Canada</h1>
-                                  <p>Marlog Car Handling also specializes in importing cars from Canada. Importing cars from Canada is a growing market with many opportunities. We have a number of agents with a reach across all of Canada.</p>
+                                  <p>At Vaga Divertida, we also specialize in importing cars from Canada, a growing market filled with excellent opportunities. With our vast network and extensive experience, we offer a seamless and efficient process for bringing vehicles from Canada to Europe.</p>
                                   <a class="button yellow" href="/pages/contact.php"> Get in touch</a>
                               </div>
                           </div>
@@ -77,14 +77,15 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
-                                      <h2>Importing cars from Canada by Marlog Car Handling</h2>
-                                      <p>Marlog Car Handling can serve the following markets weekly at attractive prices:</p>
+                                      <h2>Importing Cars from Canada with Vaga Divertida</h2>
+                                      <p>Vaga Divertida offers reliable and cost-effective solutions for importing cars from Canada. We provide regular weekly services from key Canadian cities at attractive prices, making it easier than ever to bring your vehicle to Europe.</p>
+                                      <p>Key Import Markets:</p>
                                       <ul>
                                           <li>Import cars from Toronto;</li>
                                           <li>Import cars from Vancouver;</li>
                                           <li>Import cars from Montreal.</li>
                                       </ul>
-                                      <p>Importing from other cities as Halifax and Calgary is also possible. We also handle the imporation of motorcycles and boats from Canada</p>
+                                      <p>In addition to these major cities, we also handle car imports from other Canadian locations such as Halifax and Calgary.</p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -105,9 +106,9 @@
                               </div>
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pr-0">
-                                      <h3>Product Import Canada</h3>
-                                      <p>Car imports is not the only growing market: cargo imports from Canada are growing too. This includes Canadian products, parts or pallets loaded with historical collector’s items.</p>
-                                      <p>Marlog Car Handling has also set up a dedicated service for that end. Product Import Canada is already a resounding success thanks to its competitive rates and weekly departures!</p>
+                                      <h3>Product Import from Canada</h3>
+                                      <p>Car imports are not the only growing market—cargo imports from Canada are also expanding rapidly. This includes a wide variety of Canadian products, parts, and even pallets filled with historical collector’s items.</p>
+                                      <p>Vaga Divertida has set up a dedicated service for product imports from Canada, offering competitive rates and weekly departures to make the process simple and cost-effective for you.</p>
                                   </div>
                               </div>
                           </div>

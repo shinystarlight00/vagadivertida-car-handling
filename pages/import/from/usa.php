@@ -66,22 +66,28 @@
                           <div class="row">
                               <div class="col-lg-12">
                                   <div class="inner text">
-                                      <h2>Import your car from America quickly and efficiently</h2>
-                                      <p>We ensure that you can safely import your vehicle from America. Our clients include private collectors, gearheads, and business partners. Marlog Car Handling offers the complete process concerning the import and export of vehicles.</p>
+                                      <h2>Why Choose Vaga Divertida for Your Car Import from the USA?</h2>
                                       <p>
-                                          <strong>This consists of:</strong>
+                                        <h4>Extensive Global Network:</h4>
+                                        <p>With decades of experience and strong connections across the world, we ensure that your car import process is seamless. Whether you're buying a classic car, luxury vehicle, or exotic sports car from the USA, we leverage our network to deliver the best results.</p>
                                       </p>
-                                      <ul>
-                                          <li>Payment intermediation;</li>
-                                          <li>Pick-up;</li>
-                                          <li>Documentation;</li>
-                                          <li>Shipping import / export;</li>
-                                          <li>Documentation management incoming / outgoing country;</li>
-                                          <li>Settlement;</li>
-                                          <li>Subsequent transport.</li>
-                                      </ul>
-                                      <p>Marlog Car Handling provides the shipping of vehicles by means of an extensive agency network. Other than that, we offer a high level of expertise. We are able to handle your transport safely and efficiently.</p>
-                                      <p>Naturally, Marlog Car Handling also offers all these services separately. If you need your car to be moved from A to B, we would be happy to arrange it for you. Do you only need an import or export document? Marlog Car Handling can organise that too.</p>
+                                      <p>
+                                        <h4>Reliable and Efficient Process:</h4>
+                                        <p>We handle every aspect of the car import process, from purchasing in the USA to shipping, customs clearance, and registration in Europe. Our team ensures that your car arrives safely and is ready to hit the road in no time.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Competitive Pricing:</h4>
+                                        <p>Our scale allows us to negotiate competitive rates on shipping, customs clearance, and taxes, which translates to savings for you. We aim to make the import process as cost-effective as possible.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Tailored Import Solutions:</h4>
+                                        <p>No matter the make, model, or size of the car you wish to import from the USA, we provide personalized solutions to fit your needs. From luxury cars to vintage classics, we have the expertise to ensure a smooth import experience.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Full-Service Import Assistance:</h4>
+                                        <p>At Vaga Divertida, we guide you through every step of the process. From selecting your car in the USA to delivering it to your doorstep in Europe, we handle all logistics, paperwork, and regulatory requirements for you.</p>
+                                        <p>If you're considering importing a car from the USA, Vaga Divertida is your trusted partner. Contact us today to learn how we can make the import process easier and more cost-effective for you!</p>
+                                      </p>
                                   </div>
                               </div>
                           </div>
