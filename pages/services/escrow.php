@@ -28,7 +28,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Escrow service</h1>
-                                  <p>Are you going to buy a car in America or another country outside Europe? Then it is wise to use an escrow service.</p>
+                                  <p>We understand the importance of security and trust when conducting international transactions. To ensure peace of mind for both buyers and sellers, we offer escrow services as part of our comprehensive car import and general cargo services.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-6 offset-lg-1 col-md-6 offset-md-1 p-r h-image">
@@ -64,9 +64,16 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
-                                      <h2>Why use escrow service?</h2>
-                                      <p>If you make a purchase abroad, you cannot always be there yourself. This will not be necessary for most purchases you make. You make a purchase from a reliable webshop or it concerns relatively small amounts. In that case, it is usually chosen to transfer the money online. For example via Ideal, PayPal or by credit card.</p>
-                                      <p>However, are you going to make a major purchase abroad, for example buying a car? Then you want extra certainty that the amount will reach the right party and that after the transaction you have actually become the owner of your newly purchased car. The escrow service has been created to ensure that this international payment is safe and to minimize the risk of fraud.</p>
+                                      <h2>Escrow Services: Secure and Trustworthy Transactions</h2>
+                                      <p>At Vaga Divertida, we understand the importance of security and trust when conducting international transactions. To ensure peace of mind for both buyers and sellers, we offer escrow services as part of our comprehensive car import and general cargo services.</p>
+                                      
+                                      <h4>Our escrow services include:</h4>
+                                      <p>Secure Payment Handling: Funds are held in a secure escrow account until all terms of the agreement are met, ensuring that both parties are protected throughout the transaction process.</p>
+                                      <p>Protection for Buyers and Sellers: Buyers are assured that payment will only be released once they receive the vehicle or goods as described, while sellers are guaranteed payment once they fulfill their obligations.</p>
+                                      <p>Transparent Process: Our escrow service ensures full transparency, with both parties having access to track the status of the transaction at every stage.</p>
+                                      <p>International Transactions: We facilitate safe and reliable cross-border transactions, so you can confidently purchase and import cars or other cargo from anywhere in the world.</p>
+                                      <p>Dispute Resolution: In case of any disagreements, our escrow service includes a neutral third party to help resolve issues and ensure a fair outcome for both parties.</p>
+                                      <p>With Vaga Divertida's escrow services, you can proceed with your car import or cargo shipment with confidence, knowing your transaction is fully secure and protected.</p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -84,7 +91,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -113,9 +120,9 @@
                           <div class="row">
                               <div class="col-lg-5">
                                   <div class="inner">
-                                      <h2>Benefits car import service Marlog</h2>
-                                      <p>Curious about the possibilities of our car import services? Request a quote without obligation or contact our import specialists by telephone.</p>
-                                      <p>We are happy to make a suitable proposal for your import issue.</p>
+                                      <h2>Benefits of Car Import Service with Vaga Divertida</h2>
+                                      <p>Our comprehensive car import services are designed to make the process easy, reliable, and stress-free.</p>
+                                      <p>Whether you're importing a luxury car, classic vehicle, or an everyday model, we ensure the entire experience is smooth and tailored to your needs.</p>
                                       <a class="button" href="/pages/contact.php">Request quote <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>
@@ -178,7 +185,7 @@
                                       </div>
                                       <div class="content p-md">
                                           <h3>Seaworthy Packing</h3>
-                                          <p>Marlog Car Handling is capable of sealing your vehicle.</p>
+                                          <p>Vaga Divertida is capable of sealing your vehicle.</p>
                                           <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>

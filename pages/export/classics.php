@@ -28,7 +28,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Classics</h1>
-                                  <p>Marlog Car Handling is increasingly known for oldtimers import and export services, fast, easily and economically</p>
+                                  <p>Vaga Divertida is becoming increasingly recognized for its expertise in importing and exporting oldtimers. We make the process fast, easy, and economical for classic car enthusiasts and collectors worldwide.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -64,7 +64,24 @@
                           <div class="row">
                               <div class="col-lg-12">
                                   <div class="inner text">
-                                      <p>Importing an oldtimer with Marlog Car Handling is ‘a piece of cake’. You only pay 9% sales tax and no import duties on the purchase value of the classic car in the Netherlands.</p>
+                                      <h2>Choose Vaga Divertida for Oldtimer Imports and Exports</h2>
+                                      <p>
+                                        <h4>Specialized in Classic Cars:</h4>
+                                        <p>We focus on handling oldtimers with the care and attention they deserve, ensuring a smooth transition from purchase to delivery. Whether you're buying or selling a classic car, we provide a comprehensive service that caters to your specific needs.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Efficient and Cost-Effective Services:</h4>
+                                        <p>With our efficient logistics and expertise in customs, Vaga Divertida ensures your classic car is imported or exported quickly and at the best possible price, making the process as economical as possible.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Global Reach:</h4>
+                                        <p>We offer import and export services for oldtimers to and from destinations across the globe, ensuring your prized vehicle reaches any desired location safely and on time.</p>
+                                      </p>
+                                      <p>
+                                        <h4>End-to-End Solutions:</h4>
+                                        <p>From customs clearance to shipping and registration, we handle all aspects of the process, allowing you to enjoy the experience of owning or selling a classic car without the hassle.</p>
+                                        <p>Vaga Divertida is your trusted partner for importing and exporting oldtimers—fast, easy, and economically. Let us take care of the details while you focus on enjoying your timeless vehicle.</p>
+                                      </p>
                                   </div>
                               </div>
                           </div>
@@ -77,7 +94,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle">Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle">Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -125,12 +142,12 @@
                               <div class="col-lg-3 col-md-6 col-12">
                                   <div class="inner bg-lgr service p-r h-100">
                                       <div class="service-image">
-                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Marlog" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga Divertida" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                                       </div>
                                       <div class="content p-md">
                                           <h3>General cargo</h3>
-                                          <p>Marlog Car Handling is your partner for your emigration or immigration plans.</p>
-                                          <a class="button" href="/pages/services/break-bulk-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
+                                          <p>Vaga Divertida is your partner for your emigration or immigration plans.</p>
+                                          <a class="button" href="/pages/services/general-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>
                                   </div>

@@ -78,7 +78,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>

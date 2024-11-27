@@ -28,7 +28,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Middle East</h1>
-                                  <p>Marlog Car Handling is becoming increasingly known for vehicle import and export services in Middle East/ United Arab Emirates.</p>
+                                  <p>Vaga Divertida is gaining increasing recognition for its vehicle import and export services in the Middle East, particularly in the United Arab Emirates (UAE).</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -64,8 +64,24 @@
                           <div class="row">
                               <div class="col-lg-12">
                                   <div class="inner text">
-                                      <p>Marlog Car Handling has considerable experience exporting to the United Arab Emirates. We can offer container or RoRo shipping service. We also have a console service to Dubai, so we can load several vehicles from different owners into a single container, which makes it cheaper to transport. We have an expansive network of reliable agents who assist us with the import process in Dubai. A steel R-Rack system enables us to quickly and safely load, ship, and unload vehicles in a container.</p>
-                                      <p>Request a no-obligation estimate  <a href="/pages/quote.php">here</a>. </p>
+                                      <h3>Choose Vaga Divertida for Middle Eastern Vehicle Imports and Exports</h3>
+                                      <p>
+                                        <h4>Specialized Expertise in the Middle East Market:</h4>
+                                        <p>With extensive experience in the region, Vaga Divertida is well-equipped to handle the specific requirements for vehicle transport to and from the UAE, Saudi Arabia, Qatar, and other Middle Eastern countries.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Comprehensive Import & Export Solutions:</h4>
+                                        <p>We provide end-to-end services, including customs clearance, logistics management, shipping by RoRo or container, and final delivery to your destination. Whether you're importing luxury cars, sports cars, or classic vehicles, we manage every aspect of the process.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Efficient & Timely Shipping:</h4>
+                                        <p>With frequent departures and a reliable network of partners in the Middle East, we ensure that your vehicles arrive on time, no matter the distance or destination.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Competitive Rates:</h4>
+                                        <p>Our strong relationships with key logistics providers allow us to offer cost-effective shipping solutions, ensuring your vehicle import or export needs are met at the best possible price.</p>
+                                        <p>Whether you’re looking to import vehicles to Dubai, Abu Dhabi, or other cities, or export vehicles from the Middle East, Vaga Divertida is the trusted partner to handle your vehicle transport with professionalism and care.</p>
+                                      </p>
                                   </div>
                               </div>
                           </div>
@@ -78,7 +94,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle">Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle">Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>

@@ -28,12 +28,12 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Request a quote</h1>
-                                  <p>Are you curious what we can do for you? Fill in the quote below without obligation and we will contact you as soon as possible.</p>
+                                  <p>Curious about what we can do for you? Simply fill out the form below for a no-obligation quote, and one of our experts will get in touch with you as soon as possible to discuss your needs.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-process-header.jpg" class="attachment-full size-full" alt="Process Marlog Car Handling" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/export-process-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-process-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-process-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-process-header.jpg" class="attachment-full size-full" alt="Process Vaga Divertida" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/export-process-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-process-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-process-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                           </div>
                       </div>
@@ -164,7 +164,7 @@
                                                                   </div>
                                                               </div>
                                                           </div>
-                                                          <div class='gfield_description' id='gfield_description_1_12'>License plate handling is only possible for Dutch customers and when the car arrives here. Homologation is only possible for European customers.</div>
+                                                          <div class='gfield_description' id='gfield_description_1_12'>License plate handling is only possible for Portuguese customers and when the car arrives here. Homologation is only possible for European customers.</div>
                                                       </fieldset>
                                                       <div id="field_1_13" class="gfield gfield--type-captcha gfield--width-full field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" data-js-reload="field_1_13">
                                                           <label class='gfield_label gform-field-label' for='input_1_13'>CAPTCHA</label>

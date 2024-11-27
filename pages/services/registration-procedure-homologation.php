@@ -64,31 +64,29 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
-                                      <h2>Our services include:</h2>
-                                      <ul>
-                                          <li>European type approval / German certification</li>
-                                          <li>Classic and Antique vehicle inspections</li>
-                                          <li>Removal items import</li>
-                                          <li>Vehicle conversions</li>
-                                          <li>Repairs / annual inspection</li>
-                                          <li>BPM tax declarations (including exchange rates and appraisals)</li>
-                                      </ul>
-                                      <p>The RDW is a Dutch vehicle approval authority that falls under the responsibility of the Ministry of Infrastructure and Environment. If you would like to provide a vehicle purchased abroad with a Dutch license, you are required to have it examined by the RDW. During the examination, the RDW inspector will check whether the vehicle is licensed for road use in the Netherlands. The RDW will also determine the data for the BPM declaration.</p>
-                                      <p>Once Marlog Car Handling has cleared the vehicle, it must receive a license plate and the BPM must be settled. Once the BPM has been paid to the tax authorities, you will receive the Dutch registration certificate from the RDW. The following documents are required for the examination of the vehicle:</p>
-                                      <ul>
-                                          <li>Foreign registration certificate;</li>
-                                          <li>Declaration of Conformity.</li>
-                                      </ul>
+                                      <h2>Registration Procedure & Homologation Services</h2>
+                                      <p>At Vaga Divertida, we offer comprehensive services to handle the registration procedure and homologation of your imported vehicles, ensuring they comply with local regulations and are ready for use on the roads.</p>
                                       <p>
-                                          <strong>The BPM must be paid at the customs declaration point. The following aspects are required to arrange your BPM declaration on import:</strong>
+                                        <h4>Expert Knowledge of Regulations:</h4>
+                                        <p>Our team is highly experienced in the registration and homologation processes for vehicles from around the world. We ensure that all vehicles meet the necessary legal requirements in the destination country, whether it's for a classic car, exotic vehicle, or motorcycle.</p>
                                       </p>
-                                      <ul>
-                                          <li>The vehicle;</li>
-                                          <li>BPM declaration form (download it from the website of the tax authorities);</li>
-                                          <li>Proof of origin of the vehicle (foreign registration certificate);</li>
-                                          <li>The Single Administrative Document.</li>
-                                      </ul>
-                                      <p>For more detailed information, please visit the  <a href="http://www.rdw.nl/particulier/Paginas/default.aspx">RDW</a> website. You could also contact  <a href="http://www.importautos.nl/">www.importautos.nl</a> to arrange these procedures for your business. Importautos is a company located in the same industrial area as Marlog Car Handling. Importautos registers vehicles for a Dutch license and manages the BPM. </p>
+                                      <p>
+                                        <h4>Homologation Services:</h4>
+                                        <p>Homologation is the process of getting your vehicle officially recognized and approved for use in a specific country. We guide you through this complex procedure, ensuring your vehicle complies with local safety and environmental standards.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Efficient Registration Process:</h4>
+                                        <p>Once your vehicle is homologated, we handle the entire registration procedure, including paperwork, tax payment, inspections, and issuing of license plates. We make sure your vehicle is fully ready for the road, without the stress of dealing with complex bureaucracy.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Custom Solutions for Every Vehicle:</h4>
+                                        <p>Whether you're importing a vehicle from the USA, Japan, Canada, or any other country, we offer tailored solutions to meet the specific homologation and registration requirements of that vehicle's make and model.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Seamless Process:</h4>
+                                        <p>From the moment your vehicle arrives until it's registered and ready for use, we manage the entire process for you. Our goal is to make the registration and homologation experience as smooth and hassle-free as possible.</p>
+                                        <p>Vaga Divertida ensures that your imported vehicle meets all local requirements and is ready to hit the road, so you can enjoy your new acquisition without delay.</p>
+                                      </p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -106,7 +104,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -213,7 +211,7 @@
                                       </div>
                                       <div class="content p-md">
                                           <h3>Seaworthy Packing</h3>
-                                          <p>Marlog Car Handling is capable of sealing your vehicle.</p>
+                                          <p>Vaga Divertida is capable of sealing your vehicle.</p>
                                           <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>

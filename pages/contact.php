@@ -27,7 +27,7 @@
                               <div class="inner p-t-md">
                                   <h1>Contact</h1>
                                   <p class="f-s-20">
-                                  <p>Need help importing a car or other vehicle? Marlog Car Handling helps you with that</p>
+                                    <p>Need help importing/exporting a car or other services?Vaga Divertida helps you with that</p>
                                   </p>
                               </div>
                           </div>

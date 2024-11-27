@@ -139,14 +139,14 @@
                       <div class="service-slider v-c">
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Marlog" decoding="async" fetchpriority="high" srcset="assets/img/export-container-shipping-header.jpg 945w, assets/img/export-container-shipping-header-300x127.jpg 300w, assets/img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="assets/img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga" decoding="async" fetchpriority="high" srcset="assets/img/export-container-shipping-header.jpg 945w, assets/img/export-container-shipping-header-300x127.jpg 300w, assets/img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
                                   <h3>General cargo</h3>
                                   <p>
                                   <p>We also offer comprehensive general cargo services for all your transportation needs. Whether you're importing vehicles, machinery, or other goods, our team ensures a seamless and reliable shipping process.</p>
                                   </p>
-                                  <a class="button" href="/pages/services/break-bulk-cargo.php">More information <i class="fas fa-long-arrow-right"></i>
+                                  <a class="button" href="/pages/services/general-cargo.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
                           </div>
@@ -183,7 +183,7 @@
                               <div class="content p-md">
                                   <h3>Seaworthy Packing</h3>
                                   <p>
-                                  <p>Marlog Car Handling is capable of sealing your vehicle.</p>
+                                  <p>Vaga Divertida is capable of sealing your vehicle.</p>
                                   </p>
                                   <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
@@ -199,7 +199,7 @@
                               <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                   <div class="inner ">
                                       <h2>Need help importing a car or other vehicle?</h2>
-                                      <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                      <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                       <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                       <div class="cta-contact">
                                           <a class="p-r-md" href="mailto:contact@vagadivertida-car-handling.com">

@@ -28,7 +28,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>South America</h1>
-                                  <p>Marlog Car Handling is becoming increasingly known for vehicle import and export services in South America.</p>
+                                  <p>Vaga Divertida is gaining increasing recognition for its vehicle import and export services in South America.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -64,20 +64,24 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
-                                      <h2>Import and export services in South America</h2>
-                                      <p>Marlog Car Handling is becoming increasingly known for vehicle import and export services in South America. We regularly transport vehicles to and from South America.</p>
-                                      <p>Some of the best-known ports in South America are:</p>
-                                      <ul>
-                                          <li>Paramaribo;</li>
-                                          <li>Salvador;</li>
-                                          <li>Rio de Janeiro;</li>
-                                          <li>Sao Paulo;</li>
-                                          <li>Buenos Aires;</li>
-                                          <li>Montevideo;</li>
-                                          <li>Guayaquil;</li>
-                                          <li>Valparaiso;</li>
-                                          <li>Iquique.</li>
-                                      </ul>
+                                      <h3>Whether you are importing vehicles to South America or exporting from the region, we provide efficient, reliable, and cost-effective solutions to meet your needs.</h3>
+                                      <p>
+                                        <h4>Expertise in South American Markets:</h4>
+                                        <p>With years of experience, Vaga Divertida has developed strong relationships and an extensive network in South America, making it easier for us to navigate the region’s logistics and regulations.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Comprehensive Services:</h4>
+                                        <p>From customs clearance to shipping and delivery, we offer end-to-end solutions for importing and exporting vehicles, including cars, motorcycles, and specialized vehicles.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Regular Departures and Reliable Shipping:</h4>
+                                        <p>We provide frequent shipping services from various global locations to key South American ports, ensuring timely and secure transport of your vehicles.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Competitive Rates:</h4>
+                                        <p>Our strong global network enables us to offer cost-effective shipping rates to and from South America, helping you save on transportation costs.</p>
+                                        <p>Whether you're importing vehicles to Brazil, Argentina, Chile, or exporting from South America to other parts of the world, Vaga Divertida is your trusted partner for all vehicle logistics needs.</p>
+                                      </p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -95,7 +99,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle">Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle">Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -124,9 +128,9 @@
                           <div class="row">
                               <div class="col-lg-5">
                                   <div class="inner">
-                                      <h2>Benefits car import service Marlog</h2>
-                                      <p>Curious about the possibilities of our car import services? Request a quote without obligation or contact our import specialists by telephone.</p>
-                                      <p>We are happy to make a suitable proposal for your import issue.</p>
+                                      <h2>Benefits of Car Import Service with Vaga Divertida</h2>
+                                      <p>Our comprehensive car import services are designed to make the process easy, reliable, and stress-free.</p>
+                                      <p>Whether you're importing a luxury car, classic vehicle, or an everyday model, we ensure the entire experience is smooth and tailored to your needs.</p>
                                       <a class="button" href="/pages/contact.php">Request quote <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>

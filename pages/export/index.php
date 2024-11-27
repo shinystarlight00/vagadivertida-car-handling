@@ -26,7 +26,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Export</h1>
-                                  <p>Besides importing vehicles, Marlog Car Handling also exports cars for your company. The cars are loaded in our warehouse with its own customs facilities in Roosendaal and then transported to any destination in the world.</p>
+                                  <p>In addition to importing vehicles, Vaga Divertida also specializes in exporting cars for your business. Whether you're sending vehicles to global markets or fulfilling specific orders, we ensure a smooth and efficient export process.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -62,10 +62,23 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
-                                      <h2>Export vehicles to every continent in the world</h2>
-                                      <p>Marlog Car Handling exports dozens of cars to different countries every week. Thanks to our global network of agents, it is possible to handle exports to every continent in the world. All the vehicles are loaded by skilled professional teams.</p>
-                                      <p>Marlog Car Handling is also the ideal partner for oldtimer clubs and youngtimer associations that might, for example, wish to tour America with various classic cars. Marlog Car Handling can manage classic vehicles quickly and expertly. The cars and motorcycles are then delivered to Roosendaal or at your doorstep.</p>
-                                      <p>In short: when it comes to vehicle export, Marlog Car Handling is the right partner for your company. Our organisation is specialised in the worldwide transport of special cars, motorcycles and boats. Become our partner today! For more detailed information, please call  <a href="tel:+351911899273">+ 31 165305060</a> or mail us at  <a href="mailto:contact@vagadivertida-car-handling.com">contact@vagadivertida-car-handling.com</a>
+                                      <h2>Choose Vaga Divertida for Car Export</h2>
+                                      <p>
+                                        <h4>Dedicated Export Facility in Porto:</h4>
+                                        <p>Our warehouse in Porto, equipped with customs facilities, ensures that your cars are handled efficiently and in compliance with all necessary regulations before being shipped to their final destination.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Global Transport Solutions:</h4>
+                                        <p>From our Porto facility, we can export cars to any destination around the world. Whether it's via RoRo, container shipping, or another method, we ensure that your vehicles are transported safely and securely to wherever they need to go.</p>
+                                      </p>
+                                      <p>
+                                        <h4>End-to-End Export Services:</h4>
+                                        <p>We manage every aspect of the export process, including customs clearance, loading, documentation, and final delivery. Our team ensures that all necessary paperwork is completed, and your cars are delivered to their destination on time.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Reliable Export Network:</h4>
+                                        <p>With years of experience in the global logistics market, we work with trusted partners and agents worldwide to provide reliable shipping options and competitive rates for all your export needs.</p>
+                                        <p>If you're looking for a reliable export partner to ship cars globally, Vaga Divertida offers professional services tailored to your business requirements. Let us handle the logistics while you focus on growing your operations.</p>
                                       </p>
                                   </div>
                               </div>
@@ -84,7 +97,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle">Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle">Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>

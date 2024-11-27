@@ -26,7 +26,7 @@
                           <div class="col-lg-5">
                               <div class="inner p-t-md">
                                   <h1>The company</h1>
-                                  <p>Marlog Car Handling is a specialist in the transport of vehicles from and to every country in the entire world. Marlog Car Handling has experienced significant growth in recent years in terms of capacity, experience and network possibilities.</p>
+                                  <p>Vaga Divertida is a specialist in the transport of vehicles from and to every country in the entire world. Vaga Divertida has experienced significant growth in recent years in terms of capacity, experience and network possibilities.</p>
                               </div>
                           </div>
                           <div class="col-lg-6 offset-lg-1 p-r">
@@ -62,16 +62,16 @@
                           <div class="row">
                               <div class="col-lg-7">
                                   <div class="inner text">
-                                      <h2>Marlog Car Handling</h2>
-                                      <p>Founded in 2000, is a specialist in the transport of vehicles from and to every country in the entire world. Marlog Car Handling has experienced significant growth in recent years in terms of capacity, experience and network possibilities.</p>
+                                      <h2>Vaga Divertida</h2>
+                                      <p>Founded in 2000, is a specialist in the transport of vehicles from and to every country in the entire world. Vaga Divertida has experienced significant growth in recent years in terms of capacity, experience and network possibilities.</p>
                                       <p>A professional team operates from the branch in Roosendaal that guides you from the purchase of the vehicle up to and including delivery at your address.</p>
-                                      <p>Through a worldwide network of agents, Marlog can take care of the entire transport process for you. We offer regular sailings from virtually every port around the world.</p>
+                                      <p>Through a worldwide network of agents, Vaga can take care of the entire transport process for you. We offer regular sailings from virtually every port around the world.</p>
                                   </div>
                               </div>
                               <div class="col-lg-4 offset-lg-1 pl-0">
                                   <div class="inner bg-lgr p-md br-5">
-                                      <h3>Need help importing a car or other vehicle? Marlog Car Handling is happy to help you!</h3>
-                                      <p>Marlog Car Handling specializes in importing vehicles from outside Europe to and from any desired location.</p>
+                                      <h3>Need help importing a car or other vehicle? Vaga Divertida is happy to help you!</h3>
+                                      <p>Vaga Divertida specializes in importing vehicles from outside Europe to and from any desired location.</p>
                                       <a class="button" href="/pages/contact.php">Contact <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>
@@ -121,8 +121,8 @@
                           <div class="row">
                               <div class="col-lg-12">
                                   <div class="inner text">
-                                      <h2 style="text-align: center">Marlog Car Handling represents</h2>
-                                      <p style="text-align: center">The advantages of importing and exporting vehicles via Marlog Car Handling can be formulated as follows:</p>
+                                      <h2 style="text-align: center">Vaga Divertida represents</h2>
+                                      <p style="text-align: center">The advantages of importing and exporting vehicles via Vaga Divertida can be formulated as follows:</p>
                                   </div>
                               </div>
                           </div>
@@ -134,13 +134,13 @@
                               <div class="col">
                                   <div class="inner bg-white p-md text h-100 br-5">
                                       <h2>Professionalism</h2>
-                                      <p>Marlog Car Handling guarantees absolute professionalism. Our company has become the largest operator in its field thanks to years of experience and knowledge in this business.</p>
+                                      <p>Vaga Divertida guarantees absolute professionalism. Our company has become the largest operator in its field thanks to years of experience and knowledge in this business.</p>
                                   </div>
                               </div>
                               <div class="col">
                                   <div class="inner bg-white p-md text h-100 br-5">
                                       <h2>Personal approach</h2>
-                                      <p>The personality Marlog Car Handling exudes is mainly due to our enthusiastic and experienced staff.</p>
+                                      <p>The personality Vaga Divertida exudes is mainly due to our enthusiastic and experienced staff.</p>
                                   </div>
                               </div>
                           </div>
@@ -152,13 +152,13 @@
                               <div class="col">
                                   <div class="inner bg-white p-md text h-100 br-5">
                                       <h2>Reliability</h2>
-                                      <p>Marlog Car Handling is a reliable company. We are the reliable partner that manages the entire process for our customers: from the place of purchase to delivery at your address.</p>
+                                      <p>Vaga Divertida is a reliable company. We are the reliable partner that manages the entire process for our customers: from the place of purchase to delivery at your address.</p>
                                   </div>
                               </div>
                               <div class="col">
                                   <div class="inner bg-white p-md text h-100 br-5">
                                       <h2>Service</h2>
-                                      <p>Customer-friendliness is a basic principle at Marlog Car Handling. Flexibility and the right personnel enables Marlog to treat you in a professional and service-oriented way.</p>
+                                      <p>Customer-friendliness is a basic principle at Vaga Divertida. Flexibility and the right personnel enables Vaga Divertida to treat you in a professional and service-oriented way.</p>
                                   </div>
                               </div>
                           </div>
@@ -171,7 +171,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>

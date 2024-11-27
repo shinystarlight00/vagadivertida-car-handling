@@ -28,12 +28,12 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>General cargo</h1>
-                                  <p>Marlog Car Handling is your partner for your emigration or immigration plans.</p>
+                                  <p>We also offer comprehensive general cargo services for all your transportation needs. Whether you're importing vehicles, machinery, or other goods, our team ensures a seamless and reliable shipping process.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-6 offset-lg-1 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Marlog" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga Divertida" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                           </div>
                       </div>
@@ -64,14 +64,36 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
-                                      <h2>Marlog Car Handling is your partner</h2>
-                                      <p>Our road transporters can collect your items upon request, and deliver them to our warehouse, after which we will load the container for you.</p>
-                                      <p>We also offer the option of loading the container yourself. Our transporter will place the container (on trailer) at your chosen location (standard 2 hours), where you can load the container.</p>
+                                      <h2>Your Trusted Partner for Road Transport and Container Loading</h2>
+                                      <p>At Vaga Divertida, we make the logistics process easier for you. Whether you're exporting vehicles, machinery, or other goods, we offer flexible solutions to ensure that your items are safely transported and loaded into containers.</p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
                                       <img width="663" height="491" src="<?php echo ASSET_URL; ?>img/content-image.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="<?php echo ASSET_URL; ?>img/content-image.jpg 663w, <?php echo ASSET_URL; ?>img/content-image-300x222.jpg 300w" sizes="(max-width: 663px) 100vw, 663px" />
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </section>
+                  <section class="page-section content p-t-xl img-right">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col-lg-12">
+                                  <div class="inner text p-md h-100 pl-0">
+                                      <h2>Our Services Include:</h2>
+                                      <p>
+                                        <h4>Road Transport Collection:</h4>
+                                        <p>Our road transporters are available to collect your items upon request and deliver them directly to our warehouse. Once your items are in our care, we will handle the entire loading process, ensuring everything is securely packed and ready for shipment.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Self-Loading Option:</h4>
+                                        <p>For added flexibility, we also offer the option to load the container yourself. We will deliver the empty container on a trailer to your chosen location, allowing you up to 2 hours to load the container at your convenience. Once loaded, we’ll take care of transporting it to the next stage of the journey.</p>
+                                      </p>
+                                      <p>
+                                        <h4>Customizable Solutions:</h4>
+                                        <p>Whether you prefer to handle the loading yourself or want us to manage everything, we tailor our services to meet your specific needs, ensuring your goods are handled with care and efficiency.</p>
+                                      </p>
                                   </div>
                               </div>
                           </div>
@@ -84,7 +106,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -113,9 +135,9 @@
                           <div class="row">
                               <div class="col-lg-5">
                                   <div class="inner">
-                                      <h2>Benefits car import service Marlog</h2>
-                                      <p>Curious about the possibilities of our car import services? Request a quote without obligation or contact our import specialists by telephone.</p>
-                                      <p>We are happy to make a suitable proposal for your import issue.</p>
+                                      <h2>Benefits of Car Import Service with Vaga Divertida</h2>
+                                      <p>Our comprehensive car import services are designed to make the process easy, reliable, and stress-free.</p>
+                                      <p>Whether you're importing a luxury car, classic vehicle, or an everyday model, we ensure the entire experience is smooth and tailored to your needs.</p>
                                       <a class="button" href="/pages/contact.php">Request quote <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>
@@ -178,7 +200,7 @@
                                       </div>
                                       <div class="content p-md">
                                           <h3>Seaworthy Packing</h3>
-                                          <p>Marlog Car Handling is capable of sealing your vehicle.</p>
+                                          <p>Vaga Divertida is capable of sealing your vehicle.</p>
                                           <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>

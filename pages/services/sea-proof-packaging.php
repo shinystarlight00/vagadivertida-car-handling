@@ -28,7 +28,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Seaworthy Packing</h1>
-                                  <p>Marlog Car Handling is capable of sealing your vehicle.</p>
+                                  <p>Vaga Divertida is fully equipped to seal your vehicle for safe and secure transport. Our sealing service is designed to ensure that your vehicle remains fully protected during the shipping process, reducing the risk of damage and contamination.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-6 offset-lg-1 col-md-6 offset-md-1 p-r h-image">
@@ -65,17 +65,15 @@
                               <div class="col-lg-12">
                                   <div class="inner text">
                                       <h2>Sealing</h2>
-                                      <p>Marlog Car Handling is capable of sealing your vehicle:</p>
+                                      <p>Vaga Divertida is fully equipped to seal your vehicle for safe and secure transport. Our sealing service is designed to ensure that your vehicle remains fully protected during the shipping process, reducing the risk of damage and contamination.</p>
                                       <p>
                                           <img decoding="async" class="alignnone size-medium wp-image-483" src="<?php echo ASSET_URL; ?>img/sealing-left.jpg" alt="" width="300" height="225" />
                                       </p>
                                       <h2> Crating</h2>
-                                      <p>Before shipping your motorcycle, shipping agents may demand that it is crated before it is put up for shipment. Marlog Car Handling will make a custom-built crate to fit your motorcycle. This is done by using certified wood which complies to rules and regulations. Crating is usually done when shipping motorcycles, however it can also be required for shipping parts, equipment and fragile goods. The crate offers the most reliable protection during transport.</p>
+                                      <p>Before shipping your motorcycle, shipping agents may demand that it is crated before it is put up for shipment. We will make a custom-built crate to fit your motorcycle. This is done by using certified wood which complies to rules and regulations. Crating is usually done when shipping motorcycles, however it can also be required for shipping parts, equipment and fragile goods. The crate offers the most reliable protection during transport.</p>
                                       <p>
                                           <img decoding="async" class="alignnone size-full wp-image-488" src="<?php echo ASSET_URL; ?>img/crates-marlog-sea-proof.jpg" alt="Crating" width="300" height="200" />
                                       </p>
-                                      <h3>Gassing the container</h3>
-                                      <p>Several destinations demand a complete gassing of the container before it’s allowed into the country. Marlog Car Handling can inform you before shipping whether or not a container needs to be gassed with the receiving agent on site. If desired, we can take care of the container gassing.</p>
                                   </div>
                               </div>
                           </div>
@@ -88,7 +86,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -136,12 +134,12 @@
                               <div class="col-lg-4 col-md-6 col-12">
                                   <div class="inner bg-lgr service p-r h-100">
                                       <div class="service-image">
-                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Marlog" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga Divertida" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                                       </div>
                                       <div class="content p-md">
                                           <h3>General cargo</h3>
-                                          <p>Marlog Car Handling is your partner for your emigration or immigration plans.</p>
-                                          <a class="button" href="/pages/services/break-bulk-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
+                                          <p>Vaga Divertida is your partner for your emigration or immigration plans.</p>
+                                          <a class="button" href="/pages/services/general-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>
                                   </div>

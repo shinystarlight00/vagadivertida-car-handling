@@ -26,7 +26,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md">
                                   <h1>Services</h1>
-                                  <p>Do you want to import a car? Then use our car import services. Marlog Car Handling stands for speed, certainty and transparency. This is how we make car import accessible to everyone.</p>
+                                  <p>Do you want to import a car? Then use our car import services. Vaga Divertida stands for speed, certainty and transparency. This is how we make car import accessible to everyone.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-12 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -77,14 +77,14 @@
                           <div class="col-xl-3 col-lg-4 col-md-6 col-12">
                               <div class="inner bg-lgr service p-r h-100">
                                   <div class="service-image">
-                                      <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Marlog" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                      <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga Divertida" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
                                   </div>
                                   <div class="content p-md">
                                       <h3>General cargo</h3>
                                       <p>
-                                      <p>Marlog Car Handling is your partner for your emigration or immigration plans.</p>
+                                      <p>Vaga Divertida is your partner for your emigration or immigration plans.</p>
                                       </p>
-                                      <a class="button" href="/pages/services/break-bulk-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
+                                      <a class="button" href="/pages/services/general-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>
                               </div>
@@ -97,7 +97,7 @@
                                   <div class="content p-md">
                                       <h3>Seaworthy Packing</h3>
                                       <p>
-                                      <p>Marlog Car Handling is capable of sealing your vehicle.</p>
+                                      <p>Vaga Divertida is capable of sealing your vehicle.</p>
                                       </p>
                                       <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fal fa-long-arrow-right"></i>
                                       </a>
@@ -144,7 +144,7 @@
                               <div class="col-xl-5 offset-xl 2 col-lg-6 offset-lg-1 col-md-12 offset-md-0 col-12 offset-0">
                                   <div class="inner ">
                                       <h2>Need help importing a car or other vehicle?</h2>
-                                      <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                      <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                       <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                       <a class="p-r-md" href="mailto:contact@vagadivertida-car-handling.com">
                                           <i class="fa-regular fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
@@ -169,9 +169,9 @@
                       <div class="row">
                           <div class="col-lg-5">
                               <div class="inner">
-                                  <h2>Benefits car import service Marlog</h2>
-                                  <p>Curious about the possibilities of our car import services? Request a quote without obligation or contact our import specialists by telephone.</p>
-                                  <p>We are happy to make a suitable proposal for your import issue.</p>
+                                  <h2>Benefits of Car Import Service with Vaga Divertida</h2>
+                                  <p>Our comprehensive car import services are designed to make the process easy, reliable, and stress-free.</p>
+                                  <p>Whether you're importing a luxury car, classic vehicle, or an everyday model, we ensure the entire experience is smooth and tailored to your needs.</p>
                                   <a class="button" href="/pages/contact.php">Request quote <i class="fal fa-long-arrow-right"></i>
                                   </a>
                               </div>

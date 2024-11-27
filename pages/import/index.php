@@ -26,7 +26,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Import</h1>
-                                  <p>If you have purchased a vehicle abroad, Marlog Car Handling can transport it to any desired location. The same applies to exporting vehicles</p>
+                                  <p>If you have purchased a vehicle abroad, Vaga Divertida can transport it to any desired location. The same applies to exporting vehicles</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -63,7 +63,7 @@
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
                                       <h2>Inland Transport</h2>
-                                      <p>You can use Marlog Car Handling to manage the pre-transport in the country where you purchased your vehicle or you could organise the transport to the outbound port yourself. Marlog Car Handling has access to many agents who can provide help in transporting vehicles. After the vehicle has been cleared by customs, you can also opt to have it delivered to your desired location or you could pick it up at our warehouse in Roosendaal.</p>
+                                      <p>You can use Vaga Divertida to manage the pre-transport in the country where you purchased your vehicle or you could organise the transport to the outbound port yourself. Vaga Divertida has access to many agents who can provide help in transporting vehicles. After the vehicle has been cleared by customs, you can also opt to have it delivered to your desired location or you could pick it up at our warehouse in Roosendaal.</p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -97,8 +97,8 @@
                               <div class="col-lg-12">
                                   <div class="inner text">
                                       <h2>Unloading and customs clearance</h2>
-                                      <p>The container is professionally unloaded at the Roosendaal base. After that, the vehicle is cleared by our customs. Once the vehicle has been unloaded, you will be notified to that effect and you will have five days to fetch the vehicle; after the first five days, you will be charged storage costs. Also, you can opt for Marlog Car Handling to deliver the vehicle at your doorstep.</p>
-                                      <p>The exact reverse principle applies to the export of vehicles. Nothing is impossible at Marlog Car Handling. More and more vehicles are finding their proud new owners through Marlog Car Handling! If in doubt, please do not hesitate to request a free offer or contact us and we will assist you further.</p>
+                                      <p>The container is professionally unloaded at the Roosendaal base. After that, the vehicle is cleared by our customs. Once the vehicle has been unloaded, you will be notified to that effect and you will have five days to fetch the vehicle; after the first five days, you will be charged storage costs. Also, you can opt for Vaga Divertida to deliver the vehicle at your doorstep.</p>
+                                      <p>The exact reverse principle applies to the export of vehicles. Nothing is impossible at Vaga Divertida. More and more vehicles are finding their proud new owners through Vaga Divertida! If in doubt, please do not hesitate to request a free offer or contact us and we will assist you further.</p>
                                       <p>There are several advantages to importing a car from another country.One example is the United States: thanks to the favourable dollar exchange rate and the wide range of exclusive classics in the USA, America provides a very interesting market when it comes to buying a car.</p>
                                   </div>
                               </div>
@@ -115,7 +115,7 @@
                                           <strong>Registration procedure</strong>
                                           <br /> Vehicles from America, Canada, or Dubai often do not meet the technical norms and regulations required in Europe. We work together with the German TÜV to arrange quick and convenient approvals for these vehicles. As a result, we can guarantee fast handling and ensure that the vehicle can be imported with a minimum of conversions.
                                       </p>
-                                      <p>Marlog Car Handling has an in-house workshop equipped to perform these technical conversions and annual inspections, if necessary. Once we receive the EU type approval, we can register the vehicle. <br /> With our expert partners and years of experience, we know how to arrange your vehicle’s homologation as quickly as possible and for very attractive rat </p>
+                                      <p>Vaga Divertida has an in-house workshop equipped to perform these technical conversions and annual inspections, if necessary. Once we receive the EU type approval, we can register the vehicle. <br /> With our expert partners and years of experience, we know how to arrange your vehicle’s homologation as quickly as possible and for very attractive rat </p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -133,7 +133,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -162,9 +162,9 @@
                           <div class="row">
                               <div class="col-lg-5">
                                   <div class="inner">
-                                      <h2>Benefits car import service Marlog</h2>
-                                      <p>Curious about the possibilities of our car import services? Request a quote without obligation or contact our import specialists by telephone.</p>
-                                      <p>We are happy to make a suitable proposal for your import issue.</p>
+                                      <h2>Benefits of Car Import Service with Vaga Divertida</h2>
+                                      <p>Our comprehensive car import services are designed to make the process easy, reliable, and stress-free.</p>
+                                      <p>Whether you're importing a luxury car, classic vehicle, or an everyday model, we ensure the entire experience is smooth and tailored to your needs.</p>
                                       <a class="button" href="/pages/contact.php">Request quote <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>

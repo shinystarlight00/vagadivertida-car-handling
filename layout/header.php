@@ -5,7 +5,7 @@
         <div class="col-lg-4 col-md-4 v-c logo">
           <div class="inner">
             <a href="/" class="custom-logo-link" rel="home" aria-current="page">
-              <img width="300" height="100" src="<?php echo ASSET_URL; ?>img/logo-mch.png" class="custom-logo" alt="Marlog Car Handling" decoding="async" />
+              <img width="300" height="100" src="<?php echo ASSET_URL; ?>img/logo-mch.png" class="custom-logo" alt="Vaga Divertida" decoding="async" />
             </a>
           </div>
         </div>
@@ -31,7 +31,7 @@
         <div class="mega-menu-toggle">
           <div class="mega-toggle-blocks-left">
             <div class='mega-toggle-block mega-logo-block mega-toggle-block-1' id='mega-toggle-block-1'>
-              <a class="mega-menu-logo" href="https://www.marlog-car-handling.com" target="_self">
+              <a class="mega-menu-logo" href="https://vagadivertida-car-handling.com" target="_self">
                 <img class="mega-menu-logo" src="<?php echo ASSET_URL; ?>img/logo-mch.png" />
               </a>
             </div>
@@ -213,7 +213,7 @@
                   <a class="mega-menu-link" href="/pages/services/escrow.php">Escrow service</a>
                 </li>
                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-services mega-menu-item-1533' id='mega-menu-item-1533'>
-                  <a class="mega-menu-link" href="/pages/services/break-bulk-cargo.php">General cargo</a>
+                  <a class="mega-menu-link" href="/pages/services/general-cargo.php">General cargo</a>
                 </li>
                 <li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-services mega-menu-item-1537' id='mega-menu-item-1537'>
                   <a class="mega-menu-link" href="/pages/services/insurance.php">Insurance</a>

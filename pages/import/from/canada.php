@@ -121,7 +121,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -151,7 +151,7 @@
                               <div class="col-lg-12">
                                   <div class="inner text">
                                       <h3>Contact us for our services Canada car transporters</h3>
-                                      <p>In addition to importing cars from Canada, you can now also export your motorcycle or other vehicle to Canada. We handle container shipments to all the major ports, as well as RoRo facilities in Halifax and Calgary. If you have any questions about the cars that you can import to or from Canada, please feel free to contact Marlog Car Handling by calling  <a href="tel:00351911899273">+31 (0)165 305060</a>. We would be happy to further assist you and answer any and all questions you might have. By calling us you can also request an estimate on the prices of our services as car transporters in Canada. </p>
+                                      <p>In addition to importing cars from Canada, you can now also export your motorcycle or other vehicle to Canada. We handle container shipments to all the major ports, as well as RoRo facilities in Halifax and Calgary. If you have any questions about the cars that you can import to or from Canada, please feel free to contact Vaga Divertida by calling  <a href="tel:00351911899273">+31 (0)165 305060</a>. We would be happy to further assist you and answer any and all questions you might have. By calling us you can also request an estimate on the prices of our services as car transporters in Canada. </p>
                                   </div>
                               </div>
                           </div>
@@ -162,9 +162,9 @@
                           <div class="row">
                               <div class="col-lg-5">
                                   <div class="inner">
-                                      <h2>Benefits car import service Marlog</h2>
-                                      <p>Curious about the possibilities of our car import services? Request a quote without obligation or contact our import specialists by telephone.</p>
-                                      <p>We are happy to make a suitable proposal for your import issue.</p>
+                                      <h2>Benefits of Car Import Service with Vaga Divertida</h2>
+                                      <p>Our comprehensive car import services are designed to make the process easy, reliable, and stress-free.</p>
+                                      <p>Whether you're importing a luxury car, classic vehicle, or an everyday model, we ensure the entire experience is smooth and tailored to your needs.</p>
                                       <a class="button" href="/pages/contact.php">Request quote <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>

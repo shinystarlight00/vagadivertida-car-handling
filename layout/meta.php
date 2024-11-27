@@ -7,7 +7,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Vaga Divertida" />
 <meta property="og:description" content="Do you want to import a car or other vehicles? Vaga Divertida is the specialist in intercontinental vehicle imports. Discover our comprehensive import service" />
-<meta property="og:url" content="https://www.marlog-car-handling.com/" />
+<meta property="og:url" content="https://vagadivertida-car-handling.com/" />
 <meta property="og:site_name" content="Vaga Divertida" />
 <meta property="article:modified_time" content="2023-10-31T10:45:41+00:00" />
 <meta property="og:image" content="<?php echo ASSET_URL; ?>img/Internationaal-voertuigtransport-HOME-1.jpg" />

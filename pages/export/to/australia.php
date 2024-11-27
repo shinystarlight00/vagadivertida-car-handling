@@ -66,7 +66,7 @@
                                   <div class="inner text p-md h-100 pl-0">
                                       <h2>Importing to Australia</h2>
                                       <p>Importing to Australia is becoming increasingly interesting. We are therefore able to offer RoRo or container transport to Australia. Importing to Australia is subject to very strict regulations. The car must be spotlessly clean if it is to be imported there.</p>
-                                      <p>The following are a few of the best-known ports we transport to at Marlog Car Handling:</p>
+                                      <p>The following are a few of the best-known ports we transport to at Vaga Divertida:</p>
                                       <ul>
                                           <li>Darwin;</li>
                                           <li>Brisbane;</li>
@@ -92,7 +92,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle">Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle">Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>

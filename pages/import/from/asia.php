@@ -28,7 +28,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Asia</h1>
-                                  <p>Importing and exporting from and to Japan is becoming more and more attractive.</p>
+                                  <p>Importing and exporting from and to Japan is becoming an increasingly attractive market.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -64,8 +64,44 @@
                           <div class="row">
                               <div class="col-lg-12">
                                   <div class="inner text">
-                                      <h2>By RORO or by container.</h2>
-                                      <p>Marlog Car Handling can also offer this destination. We have several agents in Japan who support us in this process. Importing and exporting cars from and to Japan is always more attractive. Marlog Car Handling must regularly provide transport from and to Japan by RoRo or container. Marlog Car Handling can also offer this destination. We have several agents in Japan assisting us in this process.</p>
+                                      <h3>Vaga Divertida offers reliable and cost-effective services for importing and exporting cars to and from Japan. </h3>
+                                      <p>Thanks to our established partnerships and experienced agents in Japan, we ensure a smooth and efficient process for transporting your vehicles, whether you prefer RoRo (Roll-on/Roll-off) or container shipping.</p>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </section>
+                  <section class="page-section content p-t-xl">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col-lg-12">
+                                  <div class="inner text">
+                                      <h3>RoRo or Container Shipping Options:</h3>
+                                      <p>We offer flexible shipping solutions, whether you want your car shipped by RoRo, which is ideal for larger vehicles and offers cost-efficient transport, or by container, which is preferred for smaller cars and provides extra protection during transit.</p>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </section>
+                  <section class="page-section content p-t-xl">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col-lg-12">
+                                  <div class="inner text">
+                                      <h3>Global Network of Agents in Japan:</h3>
+                                      <p>With several agents in Japan supporting us, we ensure seamless coordination and logistics, whether you're importing a classic car, luxury vehicle, or exotic sports car. Our agents help with the local processes, from vehicle selection to loading and shipping.</p>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </section>
+                  <section class="page-section content p-t-xl">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col-lg-12">
+                                  <div class="inner text">
+                                      <h3>Attractive Import/Export Opportunities:</h3>
+                                      <p>The market for importing and exporting cars to and from Japan continues to grow, and with Vaga Divertida, we offer you an attractive and reliable solution for all your transportation needs. Whether you're buying or selling vehicles, we make the entire process hassle-free.</p>
                                   </div>
                               </div>
                           </div>
@@ -78,7 +114,7 @@
                                   <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
                                       <div class="inner ">
                                           <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
+                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
                                               <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
@@ -107,9 +143,9 @@
                           <div class="row">
                               <div class="col-lg-5">
                                   <div class="inner">
-                                      <h2>Benefits car import service Marlog</h2>
-                                      <p>Curious about the possibilities of our car import services? Request a quote without obligation or contact our import specialists by telephone.</p>
-                                      <p>We are happy to make a suitable proposal for your import issue.</p>
+                                      <h2>Benefits of Car Import Service with Vaga Divertida</h2>
+                                      <p>Our comprehensive car import services are designed to make the process easy, reliable, and stress-free.</p>
+                                      <p>Whether you're importing a luxury car, classic vehicle, or an everyday model, we ensure the entire experience is smooth and tailored to your needs.</p>
                                       <a class="button" href="/pages/contact.php">Request quote <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>

@@ -93,7 +93,7 @@
                       <div class="menu-services-container">
                           <ul id="menu-services" class="menu">
                               <li id="menu-item-244" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-244">
-                                  <a href="/pages/services/break-bulk-cargo.php">General cargo</a>
+                                  <a href="/pages/services/general-cargo.php">General cargo</a>
                               </li>
                               <li id="menu-item-246" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-246">
                                   <a href="/pages/services/escrow.php">Escrow service</a>
@@ -127,7 +127,7 @@
           <div class="col-xxl-2 col-lg-6 col-md-4 col-sm-12">
               <h2>Contact</h2>
               <div class="inner p-b-md">
-                  <h3 class="widgettitle widget-title">Marlog Car Handling</h3>
+                  <h3 class="widgettitle widget-title">Vaga Divertida</h3>
                   <p>Smoorstraat 24 <br /> 4705 AA Roosendaal <br /> The Netherlands </p>
                   <a href="mailto:contact@vagadivertida-car-handling.com">
                       <i class="fa-light fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
@@ -160,7 +160,7 @@
           </div>
           <div class="col-lg-12 ft-btm">
               <div class="row p-b-md">
-                  <div class="col-xl-3 col-lg-3 col-md-4 col-12"> © 2024 Marlog Car Handling</div>
+                  <div class="col-xl-3 col-lg-3 col-md-4 col-12"> © 2024 Vaga Divertida</div>
                   <div class="col-xl-3 col-lg-3 col-md-4 col-12">
                       <div class="inner t-r">
                           <a href="/privacy-policy/">Privacy declaration</a>
