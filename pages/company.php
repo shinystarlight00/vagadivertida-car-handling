@@ -25,8 +25,9 @@
                           </div>
                           <div class="col-lg-5">
                               <div class="inner p-t-md">
-                                  <h1>The company</h1>
-                                  <p>Vaga Divertida is a specialist in the transport of vehicles from and to every country in the entire world. Vaga Divertida has experienced significant growth in recent years in terms of capacity, experience and network possibilities.</p>
+                                  <h1>About Us</h1>
+                                  <p>Vaga Divertida is a leading specialist in the transport of vehicles to and from every corner of the globe. Over the years, our company has experienced substantial growth, expanding in capacity, expertise, and global network connections.</p>
+                                  <p>We are committed to providing reliable, efficient, and secure vehicle transport services, catering to the needs of individuals, dealerships, collectors, and businesses worldwide. With our experience and strong partnerships, we ensure that every vehicle reaches its destination safely and on time.</p>
                               </div>
                           </div>
                           <div class="col-lg-6 offset-lg-1 p-r">
@@ -62,10 +63,10 @@
                           <div class="row">
                               <div class="col-lg-7">
                                   <div class="inner text">
-                                      <h2>Vaga Divertida</h2>
-                                      <p>Founded in 2000, is a specialist in the transport of vehicles from and to every country in the entire world. Vaga Divertida has experienced significant growth in recent years in terms of capacity, experience and network possibilities.</p>
-                                      <p>A professional team operates from the branch in Roosendaal that guides you from the purchase of the vehicle up to and including delivery at your address.</p>
-                                      <p>Through a worldwide network of agents, Vaga can take care of the entire transport process for you. We offer regular sailings from virtually every port around the world.</p>
+                                      <h2>Vaga Divertida Car Handling</h2>
+                                      <p>Founded in 1995, Vaga Divertida Car Handling is a trusted specialist in the transport of vehicles to and from every country around the world. Over the years, our company has grown significantly, expanding in capacity, expertise, and global network connections.</p>
+                                      <p>Our professional team, based in Porto, guides you through every step of the process—from the purchase of your vehicle to its safe delivery at your address.</p>
+                                      <p>With a worldwide network of agents, Vaga Divertida ensures that the entire transport process is handled with care and efficiency. We offer regular sailings from nearly every major port worldwide, providing reliable and timely vehicle transport for our clients.</p>
                                   </div>
                               </div>
                               <div class="col-lg-4 offset-lg-1 pl-0">
