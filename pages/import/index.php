@@ -63,7 +63,8 @@
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
                                       <h2>Inland Transport</h2>
-                                      <p>You can use Vaga Divertida to manage the pre-transport in the country where you purchased your vehicle or you could organise the transport to the outbound port yourself. Vaga Divertida has access to many agents who can provide help in transporting vehicles. After the vehicle has been cleared by customs, you can also opt to have it delivered to your desired location or you could pick it up at our warehouse in Roosendaal.</p>
+                                      <p>We offer flexible options for managing the pre-transport of your vehicle in the country where it was purchased. Whether you prefer to organize the transport to the outbound port yourself or have us handle it, we have the experience and network to support you.</p>
+                                      <p>We have access to a wide range of reliable agents who can assist with the inland transport of your vehicle, ensuring a smooth transition to the port of departure. Once your vehicle has been cleared by customs, you can choose to have it delivered directly to your desired location, or you can opt to pick it up at our warehouse in Porto for further convenience.</p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -85,7 +86,8 @@
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pr-0">
                                       <h2>Ocean Freight</h2>
-                                      <p>Our experienced partners will load the vehicle into the container for transport. The vehicle will be de-registered with the local customs in the applicable country. Once all the documents are settled, the vehicle will be shipped to the port of destination. Upon arrival, the ship is unloaded and the container will, in many cases, be transported to our office warehouse in Roosendaal; often from Rotterdam or Antwerp.</p>
+                                      <p>At Vaga Divertida, our experienced partners ensure that your vehicle is securely loaded into a container for safe transport. The vehicle will be de-registered with the local customs authorities in the country of origin, and once all required documents are settled, the vehicle will be shipped to the port of destination.</p>
+                                      <p>Upon arrival, the ship will be unloaded, and in most cases, the container will be transported to our office warehouse in Porto, often from the Port of Leixões, for further handling and processing.</p>
                                   </div>
                               </div>
                           </div>
@@ -96,10 +98,13 @@
                           <div class="row">
                               <div class="col-lg-12">
                                   <div class="inner text">
-                                      <h2>Unloading and customs clearance</h2>
-                                      <p>The container is professionally unloaded at the Roosendaal base. After that, the vehicle is cleared by our customs. Once the vehicle has been unloaded, you will be notified to that effect and you will have five days to fetch the vehicle; after the first five days, you will be charged storage costs. Also, you can opt for Vaga Divertida to deliver the vehicle at your doorstep.</p>
-                                      <p>The exact reverse principle applies to the export of vehicles. Nothing is impossible at Vaga Divertida. More and more vehicles are finding their proud new owners through Vaga Divertida! If in doubt, please do not hesitate to request a free offer or contact us and we will assist you further.</p>
-                                      <p>There are several advantages to importing a car from another country.One example is the United States: thanks to the favourable dollar exchange rate and the wide range of exclusive classics in the USA, America provides a very interesting market when it comes to buying a car.</p>
+                                      <h2>Unloading and Customs Clearance</h2>
+                                      <p>Once the container arrives at thePorto base, it is professionally unloaded by our team. Afterward, the vehicle goes through customs clearance by our expert staff. Once the vehicle has been cleared, you will be notified, and you will have five days to pick up your vehicle from our facility. After this period, storage fees may apply.</p>
+                                      <p>Alternatively, you can choose to have Vaga Divertida deliver the vehicle directly to your doorstep for added convenience.</p>
+                                      <p>The same process applies in reverse for vehicle exports. At Vaga Divertida, we handle every step, ensuring a smooth transaction from start to finish. Nothing is impossible for us, and more vehicles are finding their proud new owners through our services every day!</p>
+                                      <p>If you have any doubts or would like to explore the possibilities, please don't hesitate to request a free quote or contact us—we are here to assist you further.</p>
+                                      <h4>Advantages of Importing a Car from Another Country:</h4>
+                                      <p>For example, importing from the United States offers unique benefits, such as the favorable dollar exchange rate and a wide selection of exclusive classic cars, making it an attractive market for car buyers.</p>
                                   </div>
                               </div>
                           </div>
@@ -110,12 +115,10 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
-                                      <h2>Homologation</h2>
-                                      <p>
-                                          <strong>Registration procedure</strong>
-                                          <br /> Vehicles from America, Canada, or Dubai often do not meet the technical norms and regulations required in Europe. We work together with the German TÜV to arrange quick and convenient approvals for these vehicles. As a result, we can guarantee fast handling and ensure that the vehicle can be imported with a minimum of conversions.
-                                      </p>
-                                      <p>Vaga Divertida has an in-house workshop equipped to perform these technical conversions and annual inspections, if necessary. Once we receive the EU type approval, we can register the vehicle. <br /> With our expert partners and years of experience, we know how to arrange your vehicle’s homologation as quickly as possible and for very attractive rat </p>
+                                      <h2>Homologation & Registration Procedure</h2>
+                                      <p>Vehicles imported from countries like America, Canada, or Dubai often do not meet the technical norms and regulations required for registration in Europe. To ensure smooth and efficient importation, Vaga Divertida collaborates with the German TÜV to arrange quick approvals for these vehicles. This partnership allows us to guarantee fast handling and ensures that your vehicle can be imported with minimal modifications.</p>
+                                      <p>We also have an in-house workshop fully equipped to perform any necessary technical conversions and annual inspections. Once we receive the EU type approval, we can proceed with registering the vehicle on your behalf.</p>
+                                      <p>With our expert partners and extensive experience, we are able to manage your vehicle's homologation process as efficiently as possible, all while offering attractive rates.</p>
                                   </div>
                               </div>
                               <div class="col-lg-6">

@@ -182,9 +182,7 @@
                               </div>
                               <div class="content p-md">
                                   <h3>Seaworthy Packing</h3>
-                                  <p>
-                                  <p>Vaga Divertida is capable of sealing your vehicle.</p>
-                                  </p>
+                                  <p>Vaga Divertida is fully equipped to seal your vehicle for safe and secure transport. Our sealing service is designed to ensure that your vehicle remains fully protected during the shipping process, reducing the risk of damage and contamination.</p>
                                   <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
