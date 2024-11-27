@@ -128,48 +128,6 @@
                           </div>
                       </div>
                   </section>
-                  <section class="page-section content p-t-xl">
-                      <div class="container">
-                          <div class="row">
-                              <div class="col-lg-12">
-                                  <div class="inner text">
-                                      <h2>Exemption permit</h2>
-                                      <p>
-                                          <strong>The following conditions must be fulfilled before a client is able to claim a relocation permit:</strong>
-                                      </p>
-                                      <ul>
-                                          <li>The relocation is from outside the European Union to the Netherlands.</li>
-                                          <li>The normal residence is transferred to the European Union (Netherlands).</li>
-                                          <li>The person needs to have lived outside the European Union for more than 12 consecutive months.</li>
-                                          <li>The goods/vehicle must have been in the possession of and used by the customer for at least half a year.</li>
-                                          <li>The customer can take up to 12 months following arrival in the Netherlands to complete the declaration.</li>
-                                          <li>The declaration does not apply to the following goods: Alcohol-containing products, tobacco and similar products, non-wearable material for professional purposes.</li>
-                                      </ul>
-                                      <p>
-                                          <strong>The following are the mandatory requirements for vehicle declaration:</strong>
-                                      </p>
-                                      <ul>
-                                          <li>Copy of passport / identity card</li>
-                                          <li>Copy of title</li>
-                                          <li>Copy of receipt</li>
-                                          <li>Copy of registration in the population register of the applicable municipality in the Netherlands</li>
-                                      </ul>
-                                      <p>
-                                          <strong>The following are the mandatory requirements for the declaration of personal goods:</strong>
-                                      </p>
-                                      <ul>
-                                          <li>Copy of passport / identity card</li>
-                                          <li>A signed inventory of the goods</li>
-                                          <li>A copy of the invoice or assessment of the value of the goods</li>
-                                          <li>Copy of registration in the population register of the applicable municipality in the Netherlands.</li>
-                                      </ul>
-                                      <p>Customers from Germany and Belgium must apply for this in their own country. This can be done at their tax authorities.</p>
-                                      <p>If no employer statement / work permit is available, registration in the population register or the sale / lease contract of the house (list is either/or and/and) will suffice.</p>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </section>
                   <section class="page-section services p-t-xl">
                       <div class="container">
                           <div class="row">

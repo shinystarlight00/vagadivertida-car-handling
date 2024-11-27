@@ -145,36 +145,9 @@
           </div>
       </div>
       <div class="row">
-          <div class="col-lg-12">
-              <div class="inner socials t-c p-b-sm">
-                  <a href="https://www.facebook.com/mchnl/" target="_blank">
-                      <i class="fa-brands fa-facebook-f"></i>
-                  </a>
-                  <a href="https://www.instagram.com/marlog_car_handling/" target="_blank">
-                      <i class="fa-brands fa-instagram"></i>
-                  </a>
-                  <a href="https://nl.linkedin.com/company/marlog-car-handling" target="_blank">
-                      <i class="fa-brands fa-linkedin-in"></i>
-                  </a>
-              </div>
-          </div>
           <div class="col-lg-12 ft-btm">
               <div class="row p-b-md">
                   <div class="col-xl-3 col-lg-3 col-md-4 col-12"> © 2024 Vaga Divertida</div>
-                  <div class="col-xl-3 col-lg-3 col-md-4 col-12">
-                      <div class="inner t-r">
-                          <a href="/privacy-policy/">Privacy declaration</a>
-                      </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-3 col-md-4 col-12">
-                      <div class="inner">
-                          <a href="https://www.fenex.nl/app/uploads/2022/01/NEDERLANDSE-EXPEDITIEVOORWAARDEN-EN-logo-1.pdf" target="_blank">General terms and conditions</a>
-                      </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-3 col-md-12 col-12">
-                      <div class="inner t-r precies"> Realization <a href="https://precies.nl" target="_blank">Precies</a>
-                      </div>
-                  </div>
               </div>
           </div>
       </div>
