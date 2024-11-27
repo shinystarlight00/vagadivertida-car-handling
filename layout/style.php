@@ -422,6 +422,10 @@
     .site-container .wp-block-pullquote.is-style-solid-color.has-theme-secondary-background-color {
         background-color: #0073e5;
     }
+
+    .grecaptcha-badge {
+        bottom: 160px !important;
+    }
 </style>
 
 <link href="<?php echo ASSET_URL; ?>css/css2.css?family=Solitreo&family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">
