@@ -45,7 +45,7 @@
                           <div class="col-xl-6 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <p>
-                                      <i class="fa-light fa-circle-check"></i>Completely unburdened
+                                      <i class="fa-light fa-circle-check"></i>Complete safety
                                   </p>
                                   <p>
                                       <i class="fa-light fa-circle-check"></i>Fast delivery

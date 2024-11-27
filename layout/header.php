@@ -11,14 +11,14 @@
         </div>
         <div class="col-lg-8 col-md-8 v-c">
           <div class="inner t-r">
-            <a href="/pages/company.php">The company</a>
-            <a class="contactinfomobile" href="mailto:info@mchnl.com">
+            <a href="/pages/company.php">About Us</a>
+            <a class="contactinfomobile" href="mailto:contact@vagadivertida-car-handling.com">
               <i class="fa-light fa-circle-envelope"></i> 
-              info@mchnl.com 
+              contact@vagadivertida-car-handling.com 
             </a>
-            <a class="contactinfomobile" href="tel:+310165305060">
+            <a class="contactinfomobile" href="tel:+351911899273">
               <i class="fa-light fa-circle-phone"></i> 
-              +31 (0)165 305 060 
+              +351 911 899 273
             </a>
           </div>
         </div>

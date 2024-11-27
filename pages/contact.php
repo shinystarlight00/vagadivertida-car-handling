@@ -45,7 +45,7 @@
                           <div class="col-xl-6 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <p>
-                                      <i class="fa-light fa-circle-check"></i>Completely unburdened
+                                      <i class="fa-light fa-circle-check"></i>Complete safety
                                   </p>
                                   <p>
                                       <i class="fa-light fa-circle-check"></i>Fast delivery
@@ -68,11 +68,11 @@
                                       <div class="col-xl-4 col-lg-12 col-md-12">
                                           <div class="inner">
                                               <p>Smoorstraat 24 <br /> 4705 AA Roosendaal <br /> The Netherlands </p>
-                                              <a href="mailto:info@mchnl.com">
-                                                  <i class="fa-light fa-circle-envelope"></i> info@mchnl.com </a>
+                                              <a href="mailto:contact@vagadivertida-car-handling.com">
+                                                  <i class="fa-light fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
                                               </br>
                                               <a href="tel:+31 (0)165 305 060">
-                                                  <i class="fa-light fa-circle-phone"></i> +31 (0)165 305 060 </a>
+                                                  <i class="fa-light fa-circle-phone"></i> +351 911 899 273</a>
                                           </div>
                                       </div>
                                       <div class="col-xl-8 col-lg-12 col-md-12 col-12 openingstijden">

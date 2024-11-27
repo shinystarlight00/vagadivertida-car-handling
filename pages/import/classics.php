@@ -27,8 +27,8 @@
                           </div>
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
-                                  <h1>Classics</h1>
-                                  <p>Importing an oldtimer with Marlog Car Handling is ‘a piece of cake’. You only pay 9% sales tax and no import duties on the purchase value of the classic car in the Netherlands.</p>
+                                  <h1>Importing Classic Cars with Vaga Divertida</h1>
+                                  <p>Importing an oldtimer (classic car) has never been easier with Vaga Divertida. We specialize in handling the import of vintage and classic vehicles, ensuring that every step of the process is efficient, cost-effective, and hassle-free.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -45,7 +45,7 @@
                           <div class="col-xl-6 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <p>
-                                      <i class="fa-light fa-circle-check"></i>Completely unburdened
+                                      <i class="fa-light fa-circle-check"></i>Complete safety
                                   </p>
                                   <p>
                                       <i class="fa-light fa-circle-check"></i>Fast delivery
@@ -64,9 +64,9 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
-                                      <h2>Import oldtimers fast, easily and economically!</h2>
-                                      <p>These expenditures on VAT and import duties are much higher in all other European countries. It is therefore very advantageous to import your oldtimer to the Netherlands.</p>
-                                      <p>America, for example, has a very wide range of classic cars, including unique Ford Mustangs, Porsches and VW vans. Therefore, you will find the biggest market for collectors and/or enthusiasts in America. Yet, Marlog Car Handling can import any oldtimer from any country in the world. For more detailed information on oldtimers, please go to  <a title="oldtimer importeren" href="http://www.oldtimerweb.be/" target="_blank" rel="noopener noreferrer">oldtimerweb!</a>! </p>
+                                      <h2>Import Oldtimers Fast, Easily, and Economically to Portugal!</h2>
+                                      <p>Importing an oldtimer (classic car) to Portugal has never been easier or more economical. Compared to other European countries, Portugal offers significant advantages when it comes to VAT and import duties, which are generally much higher elsewhere in Europe.</p>
+                                      <p>This makes importing your dream classic car to Portugal a smart financial decision.For more detailed information on oldtimers and how we can assist with your import, please contact us. We’ll be happy to answer your questions and provide a tailored solution for your import needs.</p>
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -87,11 +87,11 @@
                                           <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
-                                              <a class="button yellow" href="/pages/quote.php">Request quote</a>
-                                              <a class="p-r-md" href="mailto:info@mchnl.com">
-                                                  <i class="fa-regular fa-circle-envelope"></i> info@mchnl.com </a>
-                                              <a href="tel:+31 (0)165 305 062">
-                                                  <i class="fa-regular fa-circle-phone"></i> +31 (0)165 305 062 </a>
+                                              <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
+                                              <a class="p-r-md" href="mailto:contact@vagadivertida-car-handling.com">
+                                                  <i class="fa-regular fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
+                                              <a href="tel:+351 911 899 273">
+                                                  <i class="fa-regular fa-circle-phone"></i> +351 911 899 273 </a>
                                           </div>
                                       </div>
                                   </div>
@@ -123,19 +123,19 @@
                               <div class="col-lg-6 offset-lg-1">
                                   <div class="advantages-slider">
                                       <div class="inner bg-white p-md br-5">
-                                          <h3>Knowledge and experience in-house</h3>
-                                          <p>As a car import company, Marlog Car Handing has grown over the years into a reliable and major player in the import industry.Our driven and enthusiastic people always go that extra mile for you.</p>
-                                          <p>In addition, we have all the necessary knowledge and experience in the field of legislation and regulations and we can combine this with our service orientation.</p>
+                                          <h3>Experience in Car Import & Export</h3>
+                                          <p>With years of experience in the car import and export industry, Vaga Divertida offers unparalleled expertise in bringing vehicles from around the world to your doorstep.</p>
+                                          <p>Our extensive knowledge and global network allow us to navigate the complexities of international car transport, ensuring that your vehicle import or export is handled with the highest level of professionalism and efficiency.</p>
                                       </div>
                                       <div class="inner bg-white p-md br-5">
-                                          <h3>Professionalism and personal approach</h3>
-                                          <p>Marlog Car Handling guarantees absolute professionalism. Our company has become the largest operator in its field thanks to years of experience and knowledge in this business.</p>
-                                          <p>The personality Marlog Car Handling exudes is mainly due to our enthusiastic and experienced staff.</p>
+                                          <h3>Professional Staff</h3>
+                                          <p>At Vaga Divertida, our professional staff is the backbone of our service, ensuring that your car import and delivery process is handled with the highest level of care, expertise, and professionalism.</p>
+                                          <p>From the moment you contact us to the final delivery of your vehicle, you can rely on our experienced team to guide you through every step.</p>
                                       </div>
                                       <div class="inner bg-white p-md br-5">
-                                          <h3>Service and reliability</h3>
-                                          <p>Customer-friendliness is a basic principle at Marlog Car Handling. Flexibility and the right personnel enables Marlog to treat you in a professional and service-oriented way.</p>
-                                          <p>Marlog Car Handling is a reliable company. We are the reliable partner that manages the entire process for our customers: from the place of purchase to delivery at your address.</p>
+                                          <h3>Professional Services</h3>
+                                          <p>At Vaga Divertida, we take pride in offering professional services designed to make your car importation experience seamless, efficient, and stress-free.</p>
+                                          <p>With years of industry expertise and a commitment to customer satisfaction, our team ensures that every step, from vehicle sourcing to final delivery, is handled with precision and care.</p>
                                       </div>
                                   </div>
                                   <div class="navigation t-r">

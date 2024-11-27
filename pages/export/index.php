@@ -43,7 +43,7 @@
                           <div class="col-xl-6 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <p>
-                                      <i class="fa-light fa-circle-check"></i>Completely unburdened
+                                      <i class="fa-light fa-circle-check"></i>Complete safety
                                   </p>
                                   <p>
                                       <i class="fa-light fa-circle-check"></i>Fast delivery
@@ -65,7 +65,7 @@
                                       <h2>Export vehicles to every continent in the world</h2>
                                       <p>Marlog Car Handling exports dozens of cars to different countries every week. Thanks to our global network of agents, it is possible to handle exports to every continent in the world. All the vehicles are loaded by skilled professional teams.</p>
                                       <p>Marlog Car Handling is also the ideal partner for oldtimer clubs and youngtimer associations that might, for example, wish to tour America with various classic cars. Marlog Car Handling can manage classic vehicles quickly and expertly. The cars and motorcycles are then delivered to Roosendaal or at your doorstep.</p>
-                                      <p>In short: when it comes to vehicle export, Marlog Car Handling is the right partner for your company. Our organisation is specialised in the worldwide transport of special cars, motorcycles and boats. Become our partner today! For more detailed information, please call  <a href="tel:+31165305060">+ 31 165305060</a> or mail us at  <a href="mailto:info@mchnl.com">info@mchnl.com</a>
+                                      <p>In short: when it comes to vehicle export, Marlog Car Handling is the right partner for your company. Our organisation is specialised in the worldwide transport of special cars, motorcycles and boats. Become our partner today! For more detailed information, please call  <a href="tel:+351911899273">+ 31 165305060</a> or mail us at  <a href="mailto:contact@vagadivertida-car-handling.com">contact@vagadivertida-car-handling.com</a>
                                       </p>
                                   </div>
                               </div>
@@ -87,11 +87,11 @@
                                           <div class="subtitle">Marlog Car Handling is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
-                                              <a class="button yellow" href="/pages/quote.php">Request quote</a>
-                                              <a class="p-r-md" href="mailto:export@mchnl.com">
-                                                  <i class="fa-regular fa-circle-envelope"></i> export@mchnl.com </a>
-                                              <a href="tel:+31165305060">
-                                                  <i class="fa-regular fa-circle-phone"></i> +31165305060 </a>
+                                              <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
+                                              <a class="p-r-md" href="mailto:contact@vagadivertida-car-handling.com">
+                                                  <i class="fa-regular fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
+                                              <a href="tel:+351911899273">
+                                                  <i class="fa-regular fa-circle-phone"></i> +351911899273 </a>
                                           </div>
                                       </div>
                                   </div>

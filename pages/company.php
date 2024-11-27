@@ -43,7 +43,7 @@
                           <div class="col-lg-6">
                               <div class="inner p-t-md p-b-md">
                                   <p>
-                                      <i class="fa-light fa-circle-check"></i>Completely unburdened
+                                      <i class="fa-light fa-circle-check"></i>Complete safety
                                   </p>
                                   <p>
                                       <i class="fa-light fa-circle-check"></i>Fast delivery
@@ -174,11 +174,11 @@
                                           <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
-                                              <a class="button yellow" href="/pages/quote.php">Request quote</a>
-                                              <a class="p-r-md" href="mailto:info@mchnl.com">
-                                                  <i class="fa-regular fa-circle-envelope"></i> info@mchnl.com </a>
-                                              <a href="tel:+31 (0)165 305 062">
-                                                  <i class="fa-regular fa-circle-phone"></i> +31 (0)165 305 062 </a>
+                                              <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
+                                              <a class="p-r-md" href="mailto:contact@vagadivertida-car-handling.com">
+                                                  <i class="fa-regular fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
+                                              <a href="tel:+351 911 899 273">
+                                                  <i class="fa-regular fa-circle-phone"></i> +351 911 899 273 </a>
                                           </div>
                                       </div>
                                   </div>

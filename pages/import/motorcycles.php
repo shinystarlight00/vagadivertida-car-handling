@@ -28,7 +28,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1>Motorcycles</h1>
-                                  <p>At Marlog Car Handling, it is also possible to import your motorcycle. Motorcycles of 30 years and older can be imported for just 9% VAT.</p>
+                                  <p>At Vaga Divertida, we don’t just specialize in importing cars—we also offer comprehensive services for importing motorcycles, including classic and vintage models. If you’re passionate about motorcycles, we make the import process quick, easy, and affordable.</p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -45,7 +45,7 @@
                           <div class="col-xl-6 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <p>
-                                      <i class="fa-light fa-circle-check"></i>Completely unburdened
+                                      <i class="fa-light fa-circle-check"></i>Complete safety
                                   </p>
                                   <p>
                                       <i class="fa-light fa-circle-check"></i>Fast delivery
@@ -65,7 +65,7 @@
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
                                       <h2>Interesting prices</h2>
-                                      <p>We offer interesting prices through the VAT import scheme. If you would like to import a motorcycle from America, Canada, Dubai or any other country, Marlog the right partner for you. We offer weekly departures from:</p>
+                                      <p>Looking to import a motorcycle from the USA, Canada, Dubai, Japan, or China? At Vaga Divertida, we offer competitive prices through the VAT import scheme, making it easier and more affordable to import your dream bike. Whether it's a vintage motorcycle, a racing bike, or any other model, we provide tailored solutions to meet your needs.</p>
                                       <ul>
                                           <li>USA</li>
                                           <li>Canada</li>
@@ -94,11 +94,11 @@
                                           <div class="subtitle"> Marlog Car Handling is happy to help you!</div>
                                           <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
                                           <div class="cta-contact">
-                                              <a class="button yellow" href="/pages/quote.php">Request quote</a>
-                                              <a class="p-r-md" href="mailto:info@mchnl.com">
-                                                  <i class="fa-regular fa-circle-envelope"></i> info@mchnl.com </a>
-                                              <a href="tel:+31 (0)165 305 062">
-                                                  <i class="fa-regular fa-circle-phone"></i> +31 (0)165 305 062 </a>
+                                              <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
+                                              <a class="p-r-md" href="mailto:contact@vagadivertida-car-handling.com">
+                                                  <i class="fa-regular fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
+                                              <a href="tel:+351 911 899 273">
+                                                  <i class="fa-regular fa-circle-phone"></i> +351 911 899 273 </a>
                                           </div>
                                       </div>
                                   </div>
@@ -130,19 +130,19 @@
                               <div class="col-lg-6 offset-lg-1">
                                   <div class="advantages-slider">
                                       <div class="inner bg-white p-md br-5">
-                                          <h3>Knowledge and experience in-house</h3>
-                                          <p>As a car import company, Marlog Car Handing has grown over the years into a reliable and major player in the import industry.Our driven and enthusiastic people always go that extra mile for you.</p>
-                                          <p>In addition, we have all the necessary knowledge and experience in the field of legislation and regulations and we can combine this with our service orientation.</p>
+                                          <h3>Experience in Car Import & Export</h3>
+                                          <p>With years of experience in the car import and export industry, Vaga Divertida offers unparalleled expertise in bringing vehicles from around the world to your doorstep.</p>
+                                          <p>Our extensive knowledge and global network allow us to navigate the complexities of international car transport, ensuring that your vehicle import or export is handled with the highest level of professionalism and efficiency.</p>
                                       </div>
                                       <div class="inner bg-white p-md br-5">
-                                          <h3>Professionalism and personal approach</h3>
-                                          <p>Marlog Car Handling guarantees absolute professionalism. Our company has become the largest operator in its field thanks to years of experience and knowledge in this business.</p>
-                                          <p>The personality Marlog Car Handling exudes is mainly due to our enthusiastic and experienced staff.</p>
+                                          <h3>Professional Staff</h3>
+                                          <p>At Vaga Divertida, our professional staff is the backbone of our service, ensuring that your car import and delivery process is handled with the highest level of care, expertise, and professionalism.</p>
+                                          <p>From the moment you contact us to the final delivery of your vehicle, you can rely on our experienced team to guide you through every step.</p>
                                       </div>
                                       <div class="inner bg-white p-md br-5">
-                                          <h3>Service and reliability</h3>
-                                          <p>Customer-friendliness is a basic principle at Marlog Car Handling. Flexibility and the right personnel enables Marlog to treat you in a professional and service-oriented way.</p>
-                                          <p>Marlog Car Handling is a reliable company. We are the reliable partner that manages the entire process for our customers: from the place of purchase to delivery at your address.</p>
+                                          <h3>Professional Services</h3>
+                                          <p>At Vaga Divertida, we take pride in offering professional services designed to make your car importation experience seamless, efficient, and stress-free.</p>
+                                          <p>With years of industry expertise and a commitment to customer satisfaction, our team ensures that every step, from vehicle sourcing to final delivery, is handled with precision and care.</p>
                                       </div>
                                   </div>
                                   <div class="navigation t-r">
