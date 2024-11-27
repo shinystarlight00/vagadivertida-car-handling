@@ -105,7 +105,7 @@
   > li.mega-menu-item
   > a.mega-menu-link:focus {
   background: rgba(51, 51, 51, 0);
-  color: #d60000;
+  color: #0101b8;
   font-weight: 700;
   text-decoration: none;
   border-color: #fff;
@@ -115,7 +115,7 @@
     > li.mega-menu-item
     > a.mega-menu-link:focus {
     color: #fff;
-    background: #d60000;
+    background: #0101b8;
   }
 }
 #mega-menu-wrap-primary #mega-menu-primary {
@@ -561,7 +561,7 @@
 }
 @media only screen and (min-width: 769px) {
   #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item {
-    border-left: 1px solid #d60000;
+    border-left: 1px solid #0101b8;
     box-shadow: inset 1px 0 0 0 #fff;
   }
   #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item:first-of-type {
@@ -594,7 +594,7 @@
     > li.mega-menu-item
     > a.mega-menu-link:hover {
     background: rgba(51, 51, 51, 0);
-    color: #d60000;
+    color: #0101b8;
     font-weight: 700;
     text-decoration: none;
     border-color: #fff;
@@ -605,7 +605,7 @@
   > li.mega-menu-item.mega-toggle-on
   > a.mega-menu-link {
   background: rgba(51, 51, 51, 0);
-  color: #d60000;
+  color: #0101b8;
   font-weight: 700;
   text-decoration: none;
   border-color: #fff;
@@ -616,7 +616,7 @@
     > li.mega-menu-item.mega-toggle-on
     > a.mega-menu-link {
     color: #fff;
-    background: #d60000;
+    background: #0101b8;
   }
 }
 #mega-menu-wrap-primary
@@ -632,7 +632,7 @@
   > li.mega-menu-item.mega-current-page-ancestor
   > a.mega-menu-link {
   background: rgba(51, 51, 51, 0);
-  color: #d60000;
+  color: #0101b8;
   font-weight: 700;
   text-decoration: none;
   border-color: #fff;
@@ -651,7 +651,7 @@
     > li.mega-menu-item.mega-current-page-ancestor
     > a.mega-menu-link {
     color: #fff;
-    background: #d60000;
+    background: #0101b8;
   }
 }
 #mega-menu-wrap-primary
@@ -3221,7 +3221,7 @@ html.mega-menu-primary-off-canvas-open #wpadminbar {
   width: 100%;
   margin: 0;
   border-left: 0;
-  border-top: 1px solid #d60000;
+  border-top: 1px solid #0101b8;
   box-shadow: inset 1px 0 0 0 #fff;
 }
 #mega-menu-wrap-primary
@@ -3446,7 +3446,7 @@ html.mega-menu-primary-off-canvas-open #wpadminbar {
   width: 100%;
   margin: 0;
   border-left: 0;
-  border-top: 1px solid #d60000;
+  border-top: 1px solid #0101b8;
   box-shadow: inset 1px 0 0 0 #fff;
 }
 #mega-menu-wrap-primary

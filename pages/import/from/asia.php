@@ -33,7 +33,7 @@
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/boat-shiping.jpg 900w, <?php echo ASSET_URL; ?>img/boat-shiping-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/boat-shiping-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/import-asia.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                           </div>
                       </div>
