@@ -9,3 +9,17 @@
 <script data-optimized="1" src="<?php echo ASSET_URL; ?>js/d574a9d44a35020940500991aee85fe8.js?ver=85fe8" id="megamenu-js" defer data-deferred="1"></script>
 <script data-optimized="1" src="<?php echo ASSET_URL; ?>js/9ba3b20fe049c9fa9fa6458049a630ba.js?ver=630ba" id="megamenu-pro-js" defer data-deferred="1"></script>
 <script src="data:text/javascript;base64,dmFyIEZXUF9IVFRQPUZXUF9IVFRQfHx7fTtGV1BfSFRUUC5sYW5nPSdlbic=" defer></script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/674771522480f5b4f5a4cbf8/1idnh5bf0';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
+</script>
+<!--End of Tawk.to Script-->
