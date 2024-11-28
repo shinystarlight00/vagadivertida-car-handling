@@ -426,6 +426,55 @@
     .grecaptcha-badge {
         bottom: 160px !important;
     }
+
+    .cookie-modal {
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        width: 450px;
+        background-color: #0000ff;
+        color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        z-index: 1000;
+        opacity: 0;
+        transition: all 1s ease-in-out !important;
+    }
+
+    .cookie-modal h4 {
+        color: #fff !important;
+    }
+
+    .cookie-modal p {
+        color: #fff !important;
+    }
+
+    @media (max-width: 500px) {
+        .cookie-modal {
+            width: 80%;
+        }
+    }
+
+    .dark .cookie-modal {
+        background-color: #333;
+        color: #fff;
+    }
+
+    .cookie-modal button {
+        background-color: #28a745;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        cursor: pointer;
+        border-radius: 5px;
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+    .cookie-modal button.secondary {
+        background-color: #ff5555;
+    }
 </style>
 
 <link href="<?php echo ASSET_URL; ?>css/css2.css?family=Solitreo&family=Titillium+Web:wght@400;700&display=swap" rel="stylesheet">

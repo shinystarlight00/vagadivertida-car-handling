@@ -130,4 +130,6 @@
           </div>
       </div>
   </div>
+
+  <?php require 'cookie.php'; ?>
 </footer>
