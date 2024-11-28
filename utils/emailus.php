@@ -17,7 +17,7 @@
           exit;
       }
 
-      $to = "contact@vagadivertida.com";
+      $to = "contact@vagadivertida-car-handling.com";
       $subject = "New Enquiry from $name";
 
 
