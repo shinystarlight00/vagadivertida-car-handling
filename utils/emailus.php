@@ -28,7 +28,7 @@
 
         $body = "Name: $name\nEmail: $email\nMessage:\n$message";
 
-      } else if($action == "quotes") {
+      } else if($action == "quote") {
 
         $phone = trim($_POST["phone"]);
         $whattoship = trim($_POST["whattoship"]);
