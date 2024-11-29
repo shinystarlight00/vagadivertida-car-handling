@@ -28,9 +28,21 @@
 
         $body = "Name: $name\nEmail: $email\nMessage:\n$message";
 
+      } else if($action == "quotes") {
+
+        $phone = trim($_POST["phone"]);
+        $whattoship = trim($_POST["whattoship"]);
+        $otherwise = trim($_POST["otherwise"]);
+        $yearmakemodel = trim($_POST["yearmakemodel"]);
+        $price = trim($_POST["price"]);
+        $retrieve = trim($_POST["retrieve"]);
+        $delivery = trim($_POST["delivery"]);
+        $license = trim($_POST["license"]);
+
+        $body = "Name: $name\nEmail: $email\nPhone: $phone\nWhat to ship: $whattoship\nOtherwise: $otherwise\nYear - Make - Model: $yearmakemodel\nPurchase Price: $price\nRetrieve - Country, city and ZIP code: $retrieve\nDelivery - Country, City and ZIP code: $delivery\nLicense plate handling: $license";
       }
       
-      $headers = "From: $email\r\n";
+      $headers = "From: contact@vagadivertida-car-handling.com\r\n";
       $headers .= "Reply-To: $email\r\n";
       $headers .= "X-Mailer: PHP/" . phpversion();
 
