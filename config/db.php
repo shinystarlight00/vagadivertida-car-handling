@@ -2,7 +2,7 @@
   $host = "localhost";
   $username = "root";
   $password = "";
-  $database = "vagaexpv_vagadivertida";
+  $database = "vagaqsmu_car_handling";
 
   $conn = new mysqli($host, $username, $password, $database);
 

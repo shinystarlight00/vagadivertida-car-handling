@@ -1,0 +1,4 @@
+username: vagaqsmu_car_user
+password: fkM5j88LZ~bG
+database: vagaqsmu_car_handling
+host: localhost
