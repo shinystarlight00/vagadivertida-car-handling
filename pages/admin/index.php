@@ -315,6 +315,7 @@
         const modalElement = document.getElementById('modal');
         const modalBody = document.getElementById('modal-body');
         const editForm = document.getElementById('edit-form');
+        const filename = document.getElementById('file-name');
         const modalActions = document.getElementById('modal-actions');
         const tabs = document.querySelectorAll('.tab');
 
@@ -427,6 +428,7 @@
             modalElement.classList.add('active');
             editForm.classList.remove('active');
             modalActions.style.display = 'flex';
+            filename.style.display = isPicture ? "block" : "none";
         }
 
         function editItem() {
