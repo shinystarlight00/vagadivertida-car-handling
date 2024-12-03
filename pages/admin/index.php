@@ -440,19 +440,20 @@
         async function saveEdit() {
             const newDescription = document.getElementById('edit-description').value;
             
-            const type = 'url' in currentItem ? 'pictures' : 'contents';
+            const type = currentItem.type;
             const updatedItem = await updateItem(type, currentItem.id, {
                 ...currentItem,
                 description: newDescription,
             });
 
             if (updatedItem) {
-                currentItem = updatedItem;
-                showModal(updatedItem);
+              refreshPage();
+                // currentItem = updatedItem;
+                // showModal(updatedItem);
                 // Refresh the grid
-                currentPage = 1;
-                gridElement.innerHTML = '';
-                loadMoreItems();
+                // currentPage = 1;
+                // gridElement.innerHTML = '';
+                // loadMoreItems();
             }
         }
 
@@ -498,6 +499,10 @@
 
         function goLoginPage() {
           window.location.href = "/admin.php";
+        }
+
+        function refreshPage() {
+          location.reload();
         }
 
         document.getElementById('edit-file').addEventListener('change', function () {

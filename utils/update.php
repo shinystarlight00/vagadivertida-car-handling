@@ -27,7 +27,7 @@
         }
 
         // Validate file type (allow only images)
-        $allowedTypes = ['image/jpeg', 'image/jpeg', 'image/png', 'image/gif'];
+        $allowedTypes = ['image/jpeg', 'image/png', 'image/gif'];
         if (!in_array($file['type'], $allowedTypes)) {
             die('Only JPG, PNG, and GIF files are allowed.');
         }
@@ -37,16 +37,45 @@
             die('File size exceeds 10MB.');
         }
 
-        header('Content-Type: application/json');
         // Move the uploaded file to the target directory
         if (move_uploaded_file($file['tmp_name'], $targetFile)) {
+          $sql = "UPDATE vagaexpv_carhandling_content SET description=? WHERE id=?";
+          $stmt = $conn->prepare($sql);
+          $stmt->bind_param("si", $description, $id);
+          
+          header('Content-Type: application/json');
+
+          if($stmt->execute()) {
+            echo json_encode([
+                'success' => true
+            ]);
+          } else {
+            echo json_encode([
+                'success' => false,
+                'message' => 'Error while updating content'
+            ]);
+          }
+        } else {
+          echo json_encode([
+              'success' => false,
+              'message' => 'Failed to move the uploaded file.'
+          ]);
+        }
+      } else {
+        $sql = "UPDATE vagaexpv_carhandling_content SET description=? WHERE id=?";
+        $stmt = $conn->prepare($sql);
+        $stmt->bind_param("si", $description, $id);
+        
+        header('Content-Type: application/json');
+
+        if($stmt->execute()) {
           echo json_encode([
               'success' => true
           ]);
         } else {
           echo json_encode([
               'success' => false,
-              'message' => 'Failed to move the uploaded file.'
+              'message' => 'Error while updating content'
           ]);
         }
       }
