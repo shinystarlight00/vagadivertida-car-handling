@@ -112,7 +112,7 @@
                                   </div>
                                   <div class="col-xl-2 offset-xl-1 col-lg-3 offset-lg-1 col-md-4 offset-md-0 h-image">
                                       <div class="inner p-r">
-                                          <img width="197" height="223" src="<?php echo ASSET_URL; ?>img/Eric-1.png" class="attachment-full size-full" alt="" decoding="async" />
+                                          <img width="197" height="223" src="<?php echo ASSET_URL; ?>img/others/Eric-1.png" class="attachment-full size-full" alt="" decoding="async" />
                                           <div class="cta-name">
                                               <img src="<?php echo ASSET_URL; ?>img/arrow.svg" alt="arrow"> Eric is happy to help you.
                                           </div>

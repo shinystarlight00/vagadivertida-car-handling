@@ -230,7 +230,7 @@
         .then(response => response.text())
         .then(data => {
           if(data == "Success") { 
-            window.location.href = "/pages/admin";
+            window.location.href = "/pages/admin/home.php?page=home";
           } else {
             alert(data);
           }

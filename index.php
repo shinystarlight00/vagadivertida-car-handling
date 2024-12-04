@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <?php require "config/constant.php"; ?>
 
-    <?php require "layout/head.php"; ?>
+    <?php 
+        require "config/constant.php";
+        require "config/db.php";
+        
+        require "layout/head.php";
+    ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
         <div class="site-container">
@@ -139,7 +143,7 @@
                       <div class="service-slider v-c">
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga" decoding="async" fetchpriority="high" srcset="assets/img/export-container-shipping-header.jpg 945w, assets/img/export-container-shipping-header-300x127.jpg 300w, assets/img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="assets/img/home/solution1.jpg" class="attachment-full size-full" alt="Container shipping Vaga" decoding="async" fetchpriority="high"  sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
                                   <h3>General cargo</h3>
@@ -152,7 +156,7 @@
                           </div>
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/service-insurance-header.jpg" class="attachment-full size-full" alt="Car Insurance" decoding="async" srcset="assets/img/service-insurance-header.jpg 945w, assets/img/service-insurance-header-300x127.jpg 300w, assets/img/service-insurance-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="assets/img/home/solution2.jpg" class="attachment-full size-full" alt="Car Insurance" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
                                   <h3>Insurance</h3>
@@ -165,7 +169,7 @@
                           </div>
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/export-vehicles-marlog-header.jpg" class="attachment-full size-full" alt="Escrow service" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="assets/img/home/solution3.jpg" class="attachment-full size-full" alt="Escrow service" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
                                   <h3>Escrow service</h3>
@@ -178,7 +182,7 @@
                           </div>
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="900" height="400" src="assets/img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="assets/img/boat-shiping.jpg 900w, assets/img/boat-shiping-300x133.jpg 300w, assets/img/boat-shiping-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                  <img width="900" height="400" src="assets/img/home/solution4.jpg" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                               <div class="content p-md">
                                   <h3>Seaworthy Packing</h3>
@@ -209,7 +213,7 @@
                               </div>
                               <div class="col-xl-2 offset-xl-1 col-lg-3 offset-lg-1 col-md-4 offset-md-0 h-image">
                                   <div class="inner p-r">
-                                      <img width="197" height="223" src="assets/img/Lucas.png" class="attachment-full size-full" alt="Lucas" decoding="async" />
+                                      <img width="197" height="223" src="assets/img/others/Lucas.png" class="attachment-full size-full" alt="Lucas" decoding="async" />
                                       <div class="cta-name">
                                           <img src="assets/img/arrow.svg" alt="arrow"> Lucas is happy to help you.
                                       </div>
@@ -243,7 +247,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="251" height="314" src="assets/img/Escrow-Service-HOME-2.jpg" class="attachment-full size-full" alt="Escrow Service" decoding="async" srcset="assets/img/Escrow-Service-HOME-2.jpg 251w, assets/img/Escrow-Service-HOME-2-240x300.jpg 240w" sizes="(max-width: 251px) 100vw, 251px" />
+                                              <img width="251" height="314" src="assets/img/home/procedure1.jpg" class="attachment-full size-full" alt="Escrow Service" decoding="async"  sizes="(max-width: 251px) 100vw, 251px" />
                                           </div>
                                       </div>
                                   </div>
@@ -265,7 +269,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="797" height="996" src="assets/img/Internationaal-voertuigtransport-HOME-1.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="assets/img/Internationaal-voertuigtransport-HOME-1.jpg 797w, assets/img/Internationaal-voertuigtransport-HOME-1-240x300.jpg 240w, assets/img/Internationaal-voertuigtransport-HOME-1-768x960.jpg 768w" sizes="(max-width: 797px) 100vw, 797px" />
+                                              <img width="797" height="996" src="assets/img/home/procedure2.jpg" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 797px) 100vw, 797px" />
                                           </div>
                                       </div>
                                   </div>
@@ -287,7 +291,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="723" height="897" src="assets/img/Ocean-freight.jpg" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 723px) 100vw, 723px" />
+                                              <img width="723" height="897" src="assets/img/home/procedure3.jpg" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 723px) 100vw, 723px" />
                                           </div>
                                       </div>
                                   </div>
@@ -309,7 +313,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="275" height="344" src="assets/img/RDW-keuring-Kentekenregistratie-HOME-1.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="assets/img/RDW-keuring-Kentekenregistratie-HOME-1.jpg 275w, assets/img/RDW-keuring-Kentekenregistratie-HOME-1-240x300.jpg 240w" sizes="(max-width: 275px) 100vw, 275px" />
+                                              <img width="275" height="344" src="assets/img/home/procedure4.jpg" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 275px) 100vw, 275px" />
                                           </div>
                                       </div>
                                   </div>
@@ -331,7 +335,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="275" height="344" src="assets/img/Aflevering-importvoertuig-importproces-1.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="assets/img/Aflevering-importvoertuig-importproces-1.jpg 275w, assets/img/Aflevering-importvoertuig-importproces-1-240x300.jpg 240w" sizes="(max-width: 275px) 100vw, 275px" />
+                                              <img width="275" height="344" src="assets/img/home/procedure5.jpg" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 275px) 100vw, 275px" />
                                           </div>
                                       </div>
                                   </div>

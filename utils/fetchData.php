@@ -8,16 +8,17 @@
   }
 
   $type = isset($_GET['type']) ? $_GET['type'] : 'pictures';
+  $pageName = isset($_GET['pageName']) ? $_GET['pageName'] : 'home';
   $page = isset($_GET['page']) ? intval($_GET['page']) : 1;
-  $itemsPerPage = isset($_GET['itemsPerPage']) ? intval($_GET['itemsPerPage']) : 12;
+  $itemsPerPage = isset($_GET['limit']) ? intval($_GET['limit']) : 12;
 
   $offset = ($page - 1) * $itemsPerPage;
 
   $data = [];
 
-  $query = "SELECT * FROM vagaexpv_carhandling_content WHERE type = ? LIMIT ? OFFSET ?";
+  $query = "SELECT * FROM vagaexpv_carhandling_content WHERE type = ? AND page = ? LIMIT ? OFFSET ?";
   $stmt = $conn->prepare($query);
-  $stmt->bind_param("sii", $type, $itemsPerPage, $offset);
+  $stmt->bind_param("ssii", $type, $pageName, $itemsPerPage, $offset);
   $stmt->execute();
   $result = $stmt->get_result();
   while ($row = $result->fetch_assoc()) {
