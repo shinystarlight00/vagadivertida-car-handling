@@ -2,9 +2,22 @@
 <html lang="en-US">
     <script src="data:text/javascript;base64,dmFyIGdmb3JtO2dmb3JtfHwoZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiZ2Zvcm1fbWFpbl9zY3JpcHRzX2xvYWRlZCIsZnVuY3Rpb24oKXtnZm9ybS5zY3JpcHRzTG9hZGVkPSEwfSksZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiZ2Zvcm0vdGhlbWUvc2NyaXB0c19sb2FkZWQiLGZ1bmN0aW9uKCl7Z2Zvcm0udGhlbWVTY3JpcHRzTG9hZGVkPSEwfSksd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoIkRPTUNvbnRlbnRMb2FkZWQiLGZ1bmN0aW9uKCl7Z2Zvcm0uZG9tTG9hZGVkPSEwfSksZ2Zvcm09e2RvbUxvYWRlZDohMSxzY3JpcHRzTG9hZGVkOiExLHRoZW1lU2NyaXB0c0xvYWRlZDohMSxpc0Zvcm1FZGl0b3I6KCk9PiJmdW5jdGlvbiI9PXR5cGVvZiBJbml0aWFsaXplRWRpdG9yLGNhbGxJZkxvYWRlZDpmdW5jdGlvbihvKXtyZXR1cm4hKCFnZm9ybS5kb21Mb2FkZWR8fCFnZm9ybS5zY3JpcHRzTG9hZGVkfHwhZ2Zvcm0udGhlbWVTY3JpcHRzTG9hZGVkJiYhZ2Zvcm0uaXNGb3JtRWRpdG9yKCl8fChnZm9ybS5pc0Zvcm1FZGl0b3IoKSYmY29uc29sZS53YXJuKCJUaGUgdXNlIG9mIGdmb3JtLmluaXRpYWxpemVPbkxvYWRlZCgpIGlzIGRlcHJlY2F0ZWQgaW4gdGhlIGZvcm0gZWRpdG9yIGNvbnRleHQgYW5kIHdpbGwgYmUgcmVtb3ZlZCBpbiBHcmF2aXR5IEZvcm1zIDMuMS4iKSxvKCksMCkpfSxpbml0aWFsaXplT25Mb2FkZWQ6ZnVuY3Rpb24obyl7Z2Zvcm0uY2FsbElmTG9hZGVkKG8pfHwoZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiZ2Zvcm1fbWFpbl9zY3JpcHRzX2xvYWRlZCIsKCk9PntnZm9ybS5zY3JpcHRzTG9hZGVkPSEwLGdmb3JtLmNhbGxJZkxvYWRlZChvKX0pLGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImdmb3JtL3RoZW1lL3NjcmlwdHNfbG9hZGVkIiwoKT0+e2dmb3JtLnRoZW1lU2NyaXB0c0xvYWRlZD0hMCxnZm9ybS5jYWxsSWZMb2FkZWQobyl9KSx3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigiRE9NQ29udGVudExvYWRlZCIsKCk9PntnZm9ybS5kb21Mb2FkZWQ9ITAsZ2Zvcm0uY2FsbElmTG9hZGVkKG8pfSkpfSxob29rczp7YWN0aW9uOnt9LGZpbHRlcjp7fX0sYWRkQWN0aW9uOmZ1bmN0aW9uKG8scixlLHQpe2dmb3JtLmFkZEhvb2soImFjdGlvbiIsbyxyLGUsdCl9LGFkZEZpbHRlcjpmdW5jdGlvbihvLHIsZSx0KXtnZm9ybS5hZGRIb29rKCJmaWx0ZXIiLG8scixlLHQpfSxkb0FjdGlvbjpmdW5jdGlvbihvKXtnZm9ybS5kb0hvb2soImFjdGlvbiIsbyxhcmd1bWVudHMpfSxhcHBseUZpbHRlcnM6ZnVuY3Rpb24obyl7cmV0dXJuIGdmb3JtLmRvSG9vaygiZmlsdGVyIixvLGFyZ3VtZW50cyl9LHJlbW92ZUFjdGlvbjpmdW5jdGlvbihvLHIpe2dmb3JtLnJlbW92ZUhvb2soImFjdGlvbiIsbyxyKX0scmVtb3ZlRmlsdGVyOmZ1bmN0aW9uKG8scixlKXtnZm9ybS5yZW1vdmVIb29rKCJmaWx0ZXIiLG8scixlKX0sYWRkSG9vazpmdW5jdGlvbihvLHIsZSx0LG4pe251bGw9PWdmb3JtLmhvb2tzW29dW3JdJiYoZ2Zvcm0uaG9va3Nbb11bcl09W10pO3ZhciBkPWdmb3JtLmhvb2tzW29dW3JdO251bGw9PW4mJihuPXIrIl8iK2QubGVuZ3RoKSxnZm9ybS5ob29rc1tvXVtyXS5wdXNoKHt0YWc6bixjYWxsYWJsZTplLHByaW9yaXR5OnQ9bnVsbD09dD8xMDp0fSl9LGRvSG9vazpmdW5jdGlvbihyLG8sZSl7dmFyIHQ7aWYoZT1BcnJheS5wcm90b3R5cGUuc2xpY2UuY2FsbChlLDEpLG51bGwhPWdmb3JtLmhvb2tzW3JdW29dJiYoKG89Z2Zvcm0uaG9va3Nbcl1bb10pLnNvcnQoZnVuY3Rpb24obyxyKXtyZXR1cm4gby5wcmlvcml0eS1yLnByaW9yaXR5fSksby5mb3JFYWNoKGZ1bmN0aW9uKG8peyJmdW5jdGlvbiIhPXR5cGVvZih0PW8uY2FsbGFibGUpJiYodD13aW5kb3dbdF0pLCJhY3Rpb24iPT1yP3QuYXBwbHkobnVsbCxlKTplWzBdPXQuYXBwbHkobnVsbCxlKX0pKSwiZmlsdGVyIj09cilyZXR1cm4gZVswXX0scmVtb3ZlSG9vazpmdW5jdGlvbihvLHIsdCxuKXt2YXIgZTtudWxsIT1nZm9ybS5ob29rc1tvXVtyXSYmKGU9KGU9Z2Zvcm0uaG9va3Nbb11bcl0pLmZpbHRlcihmdW5jdGlvbihvLHIsZSl7cmV0dXJuISEobnVsbCE9biYmbiE9by50YWd8fG51bGwhPXQmJnQhPW8ucHJpb3JpdHkpfSksZ2Zvcm0uaG9va3Nbb11bcl09ZSl9fSk=" defer></script>
 
-    <?php require "../config/constant.php"; ?>
+    <?php 
+        require "../config/constant.php";
+        require "../config/db.php";
+        require "../layout/head.php";
 
-    <?php require "../layout/head.php"; ?>
+        $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE page = 'quote'";
+        $content = $conn->query($sql);
+
+        $data = array();
+
+        if ($content->num_rows > 0) {
+          while($row = $content->fetch_assoc()) {
+            $data[$row['title']] = $row;
+          }
+        }
+    ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
         <div class="site-container">
@@ -27,37 +40,21 @@
                           </div>
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
-                                  <h1>Request a quote</h1>
-                                  <p>Curious about what we can do for you? Simply fill out the form below for a no-obligation quote, and one of our experts will get in touch with you as soon as possible to discuss your needs.</p>
+                                  <h1><?php echo $data['hero-title']['description'] ?></h1>
+                                  <p><?php echo $data['hero-desc']['description'] ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-process-header.jpg" class="attachment-full size-full" alt="Process Vaga Divertida" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/export-process-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-process-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-process-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL.$data['hero-image']['url'] ?>" class="attachment-full size-full" alt="Process Vaga Divertida" decoding="async" fetchpriority="high" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                           </div>
                       </div>
                   </div>
               </section>
-              <section class="page-section usp bg-lgr v-c">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-xl-6 col-lg-12 col-md-12 col-12">
-                              <div class="inner p-t-md p-b-md">
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Complete safety
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Fast delivery
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Customization
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </section>
+              
+              <?php require '../layout/hero_option.php' ?>
+
               <section class="page-section builder p-r p-b-xl">
                   <section class="page-section content form p-t-xl">
                       <div class="container">
@@ -102,7 +99,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='name' id='input_1_2' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='name' id='input_1_2' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_1_4" class="gfield gfield--type-email gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_4">
@@ -111,7 +108,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_email'>
-                                                              <input name='email' id='input_1_4' type='email' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='email' id='input_1_4' type='email' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_1_5" class="gfield gfield--type-phone gfield--width-full field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_5">
@@ -126,7 +123,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_select'>
-                                                              <select name='whattoship' id='input_1_6' class='large gfield_select' aria-required="true" aria-invalid="false">
+                                                              <select name='whattoship' id='input_1_6' class='large gfield_select' aria-required="true" aria-invalid="false" required>
                                                                   <option value='Car'>Car</option>
                                                                   <option value='Boat'>Boat</option>
                                                                   <option value='Motor'>Motor</option>
@@ -146,7 +143,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='yearmakemodel' id='input_1_8' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='yearmakemodel' id='input_1_8' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_1_9" class="gfield gfield--type-text gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_9">
@@ -161,7 +158,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='retrieve' id='input_1_10' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='retrieve' id='input_1_10' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_1_11" class="gfield gfield--type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_11">
@@ -170,7 +167,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='delivery' id='input_1_11' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='delivery' id='input_1_11' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <fieldset id="field_1_12" class="gfield gfield--type-radio gfield--type-choice gfield--width-full field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_1_12">
@@ -187,7 +184,7 @@
                                                                   </div>
                                                               </div>
                                                           </div>
-                                                          <div class='gfield_description' id='gfield_description_1_12'>License plate handling is only possible for Portuguese customers and when the car arrives here. Homologation is only possible for European customers.</div>
+                                                          <div class='gfield_description' id='gfield_description_1_12'><?php echo $data['license-desc']['description'] ?></div>
                                                       </fieldset>
                                                   </div>
                                               </div>

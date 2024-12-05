@@ -10,15 +10,19 @@
 <script>
   if (!document.cookie.split('; ').find(row => row.startsWith('vaga_divertida_car_handling_cookie_policy_accepted'))) {
     document.getElementById('cookieModal').style.opacity = 100;
+    document.getElementById('cookieModal').style.left = '20px';
   }
 
   document.getElementById('acceptBtn').addEventListener('click', function() {
     document.cookie = "vaga_divertida_car_handling_cookie_policy_accepted=true; max-age=" + (30 * 24 * 60 * 60) + "; path=/";
     document.getElementById('cookieModal').style.opacity = 0;
+    document.getElementById('cookieModal').style.left = '-500px';
+
   });
 
   document.getElementById('rejectBtn').addEventListener('click', function() {
     document.cookie = "vaga_divertida_car_handling_cookie_policy_accepted=false; max-age=" + (30 * 24 * 60 * 60) + "; path=/";
     document.getElementById('cookieModal').style.opacity = 0;
+    document.getElementById('cookieModal').style.left = '-500px';
   });
 </script>

@@ -2,9 +2,11 @@
 <html lang="en-US">
     <script src="data:text/javascript;base64,dmFyIGdmb3JtO2dmb3JtfHwoZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiZ2Zvcm1fbWFpbl9zY3JpcHRzX2xvYWRlZCIsZnVuY3Rpb24oKXtnZm9ybS5zY3JpcHRzTG9hZGVkPSEwfSksZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiZ2Zvcm0vdGhlbWUvc2NyaXB0c19sb2FkZWQiLGZ1bmN0aW9uKCl7Z2Zvcm0udGhlbWVTY3JpcHRzTG9hZGVkPSEwfSksd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoIkRPTUNvbnRlbnRMb2FkZWQiLGZ1bmN0aW9uKCl7Z2Zvcm0uZG9tTG9hZGVkPSEwfSksZ2Zvcm09e2RvbUxvYWRlZDohMSxzY3JpcHRzTG9hZGVkOiExLHRoZW1lU2NyaXB0c0xvYWRlZDohMSxpc0Zvcm1FZGl0b3I6KCk9PiJmdW5jdGlvbiI9PXR5cGVvZiBJbml0aWFsaXplRWRpdG9yLGNhbGxJZkxvYWRlZDpmdW5jdGlvbihvKXtyZXR1cm4hKCFnZm9ybS5kb21Mb2FkZWR8fCFnZm9ybS5zY3JpcHRzTG9hZGVkfHwhZ2Zvcm0udGhlbWVTY3JpcHRzTG9hZGVkJiYhZ2Zvcm0uaXNGb3JtRWRpdG9yKCl8fChnZm9ybS5pc0Zvcm1FZGl0b3IoKSYmY29uc29sZS53YXJuKCJUaGUgdXNlIG9mIGdmb3JtLmluaXRpYWxpemVPbkxvYWRlZCgpIGlzIGRlcHJlY2F0ZWQgaW4gdGhlIGZvcm0gZWRpdG9yIGNvbnRleHQgYW5kIHdpbGwgYmUgcmVtb3ZlZCBpbiBHcmF2aXR5IEZvcm1zIDMuMS4iKSxvKCksMCkpfSxpbml0aWFsaXplT25Mb2FkZWQ6ZnVuY3Rpb24obyl7Z2Zvcm0uY2FsbElmTG9hZGVkKG8pfHwoZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiZ2Zvcm1fbWFpbl9zY3JpcHRzX2xvYWRlZCIsKCk9PntnZm9ybS5zY3JpcHRzTG9hZGVkPSEwLGdmb3JtLmNhbGxJZkxvYWRlZChvKX0pLGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImdmb3JtL3RoZW1lL3NjcmlwdHNfbG9hZGVkIiwoKT0+e2dmb3JtLnRoZW1lU2NyaXB0c0xvYWRlZD0hMCxnZm9ybS5jYWxsSWZMb2FkZWQobyl9KSx3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigiRE9NQ29udGVudExvYWRlZCIsKCk9PntnZm9ybS5kb21Mb2FkZWQ9ITAsZ2Zvcm0uY2FsbElmTG9hZGVkKG8pfSkpfSxob29rczp7YWN0aW9uOnt9LGZpbHRlcjp7fX0sYWRkQWN0aW9uOmZ1bmN0aW9uKG8scixlLHQpe2dmb3JtLmFkZEhvb2soImFjdGlvbiIsbyxyLGUsdCl9LGFkZEZpbHRlcjpmdW5jdGlvbihvLHIsZSx0KXtnZm9ybS5hZGRIb29rKCJmaWx0ZXIiLG8scixlLHQpfSxkb0FjdGlvbjpmdW5jdGlvbihvKXtnZm9ybS5kb0hvb2soImFjdGlvbiIsbyxhcmd1bWVudHMpfSxhcHBseUZpbHRlcnM6ZnVuY3Rpb24obyl7cmV0dXJuIGdmb3JtLmRvSG9vaygiZmlsdGVyIixvLGFyZ3VtZW50cyl9LHJlbW92ZUFjdGlvbjpmdW5jdGlvbihvLHIpe2dmb3JtLnJlbW92ZUhvb2soImFjdGlvbiIsbyxyKX0scmVtb3ZlRmlsdGVyOmZ1bmN0aW9uKG8scixlKXtnZm9ybS5yZW1vdmVIb29rKCJmaWx0ZXIiLG8scixlKX0sYWRkSG9vazpmdW5jdGlvbihvLHIsZSx0LG4pe251bGw9PWdmb3JtLmhvb2tzW29dW3JdJiYoZ2Zvcm0uaG9va3Nbb11bcl09W10pO3ZhciBkPWdmb3JtLmhvb2tzW29dW3JdO251bGw9PW4mJihuPXIrIl8iK2QubGVuZ3RoKSxnZm9ybS5ob29rc1tvXVtyXS5wdXNoKHt0YWc6bixjYWxsYWJsZTplLHByaW9yaXR5OnQ9bnVsbD09dD8xMDp0fSl9LGRvSG9vazpmdW5jdGlvbihyLG8sZSl7dmFyIHQ7aWYoZT1BcnJheS5wcm90b3R5cGUuc2xpY2UuY2FsbChlLDEpLG51bGwhPWdmb3JtLmhvb2tzW3JdW29dJiYoKG89Z2Zvcm0uaG9va3Nbcl1bb10pLnNvcnQoZnVuY3Rpb24obyxyKXtyZXR1cm4gby5wcmlvcml0eS1yLnByaW9yaXR5fSksby5mb3JFYWNoKGZ1bmN0aW9uKG8peyJmdW5jdGlvbiIhPXR5cGVvZih0PW8uY2FsbGFibGUpJiYodD13aW5kb3dbdF0pLCJhY3Rpb24iPT1yP3QuYXBwbHkobnVsbCxlKTplWzBdPXQuYXBwbHkobnVsbCxlKX0pKSwiZmlsdGVyIj09cilyZXR1cm4gZVswXX0scmVtb3ZlSG9vazpmdW5jdGlvbihvLHIsdCxuKXt2YXIgZTtudWxsIT1nZm9ybS5ob29rc1tvXVtyXSYmKGU9KGU9Z2Zvcm0uaG9va3Nbb11bcl0pLmZpbHRlcihmdW5jdGlvbihvLHIsZSl7cmV0dXJuISEobnVsbCE9biYmbiE9by50YWd8fG51bGwhPXQmJnQhPW8ucHJpb3JpdHkpfSksZ2Zvcm0uaG9va3Nbb11bcl09ZSl9fSk=" defer></script>
 
-    <?php require "../config/constant.php"; ?>
-
-    <?php require "../layout/head.php"; ?>
+    <?php 
+        require "../config/constant.php";
+        require "../config/db.php";
+        require "../layout/head.php";
+    ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
         <div class="site-container">
@@ -70,7 +72,31 @@
                                               <h2 class="gform_title">Shipping costs</h2>
                                               <p class='gform_description'></p>
                                           </div>
-                                          <form method='post' enctype='multipart/form-data' id='gform_3' action='/shipping-costs/' data-formid='3' novalidate>
+
+                                          <div id="response_mesg"></div>
+
+                                            <template id="form-submit-success" style="display: none">
+                                                <div class="success-message text-center">
+                                                <h3>Thank you for your message</h3>
+                                                <p>We will be in touch as soon as we can.</p>
+                                                </div>
+                                            </template>
+
+                                            <template id="response_error" style="display: none">
+                                                <div class="error-message text-center">
+                                                <h3>Sorry something went wrong</h3>
+                                                <p>Please try again or contact us via phone or email.</p>
+                                                </div>
+                                            </template>
+
+                                            <form 
+                                                class="ajax-form" 
+                                                action='/utils/emailus.php' 
+                                                data-recaptcha-action="cost"
+                                                data-recaptcha-key="6Lftt4kqAAAAAK9TiIe967UFZYfPUZGHPw5vo70M"
+                                                data-success-template-selector="#form-submit-success"
+                                                data-error-template-selector="#form-submit-error"
+                                            >
                                               <div class='gform-body gform_body'>
                                                   <div id='gform_fields_3' class='gform_fields top_label form_sublabel_below description_below validation_below'>
                                                       <div id="field_3_1" class="gfield gfield--type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_1">
@@ -79,7 +105,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='input_1' id='input_3_1' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='name' id='input_3_1' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_3_3" class="gfield gfield--type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_3">
@@ -88,7 +114,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='input_3' id='input_3_3' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='car' id='input_3_3' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_3_4" class="gfield gfield--type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_4">
@@ -97,7 +123,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='input_4' id='input_3_4' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='pickPlace' id='input_3_4' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_3_5" class="gfield gfield--type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_5">
@@ -106,7 +132,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='input_5' id='input_3_5' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='pickZipcode' id='input_3_5' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_3_6" class="gfield gfield--type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_6">
@@ -115,7 +141,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='input_6' id='input_3_6' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='deliveryPlace' id='input_3_6' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_3_7" class="gfield gfield--type-text gfield--width-half gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_7">
@@ -124,7 +150,7 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_text'>
-                                                              <input name='input_7' id='input_3_7' type='text' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='deliveryZipcode' id='input_3_7' type='text' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <fieldset id="field_3_8" class="gfield gfield--type-radio gfield--type-choice gfield--width-full field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_8">
@@ -132,11 +158,11 @@
                                                           <div class='ginput_container ginput_container_radio'>
                                                               <div class='gfield_radio' id='input_3_8'>
                                                                   <div class='gchoice gchoice_3_8_0'>
-                                                                      <input class='gfield-choice-input' name='input_8' type='radio' value='Yes' id='choice_3_8_0' onchange='gformToggleRadioOther( this )' />
+                                                                      <input class='gfield-choice-input' name='license' type='radio' value='Yes' id='choice_3_8_0' onchange='gformToggleRadioOther( this )' />
                                                                       <label for='choice_3_8_0' id='label_3_8_0' class='gform-field-label gform-field-label--type-inline'>Yes</label>
                                                                   </div>
                                                                   <div class='gchoice gchoice_3_8_1'>
-                                                                      <input class='gfield-choice-input' name='input_8' type='radio' value='No' id='choice_3_8_1' onchange='gformToggleRadioOther( this )' />
+                                                                      <input class='gfield-choice-input' name='license' type='radio' value='No' id='choice_3_8_1' onchange='gformToggleRadioOther( this )' />
                                                                       <label for='choice_3_8_1' id='label_3_8_1' class='gform-field-label gform-field-label--type-inline'>No</label>
                                                                   </div>
                                                               </div>
@@ -148,38 +174,20 @@
                                                               </span>
                                                           </label>
                                                           <div class='ginput_container ginput_container_email'>
-                                                              <input name='input_9' id='input_3_9' type='email' value='' class='large' aria-required="true" aria-invalid="false" />
+                                                              <input name='email' id='input_3_9' type='email' value='' class='large' aria-required="true" aria-invalid="false" required />
                                                           </div>
                                                       </div>
                                                       <div id="field_3_10" class="gfield gfield--type-phone gfield--width-half field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_10">
                                                           <label class='gfield_label gform-field-label' for='input_3_10'>Phone number</label>
                                                           <div class='ginput_container ginput_container_phone'>
-                                                              <input name='input_10' id='input_3_10' type='tel' value='' class='large' aria-invalid="false" />
+                                                              <input name='phone' id='input_3_10' type='tel' value='' class='large' aria-invalid="false" />
                                                           </div>
-                                                      </div>
-                                                      <div id="field_3_11" class="gfield gfield--type-captcha gfield--width-full field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" data-js-reload="field_3_11">
-                                                          <label class='gfield_label gform-field-label' for='input_3_11'>CAPTCHA</label>
-                                                          <div id='input_3_11' class='ginput_container ginput_recaptcha' data-sitekey='6Le2nTsmAAAAAEc7vPL6HiP24YUPaP86USi0z_at' data-theme='light' data-tabindex='-1' data-size='invisible' data-badge='bottomright'></div>
-                                                      </div>
-                                                      <div id="field_3_12" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible" data-js-reload="field_3_12">
-                                                          <label class='gfield_label gform-field-label' for='input_3_12'>Name</label>
-                                                          <div class='ginput_container'>
-                                                              <input name='input_12' id='input_3_12' type='text' value='' autocomplete='new-password' />
-                                                          </div>
-                                                          <div class='gfield_description' id='gfield_description_3_12'>This field is for validation purposes and should be left unchanged.</div>
                                                       </div>
                                                   </div>
                                               </div>
                                               <div class='gform-footer gform_footer top_label'>
-                                                  <input type='submit' id='gform_submit_button_3' class='gform_button button' onclick='gform.submission.handleButtonClick(this)' value='Submit' />
-                                                  <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_3' value='postback' />
-                                                  <input type='hidden' class='gform_hidden' name='is_submit_3' value='1' />
-                                                  <input type='hidden' class='gform_hidden' name='gform_submit' value='3' />
-                                                  <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
-                                                  <input type='hidden' class='gform_hidden' name='state_3' value='WyJ7XCI4XCI6W1wiNjBmYzE5Mjk5NGY1NWM4NzQxMzgyNDc3ZDkxMmYyYjRcIixcImM3OTRjZWRhNWQzYThjOGNlYmJhNmNhY2VjZjNlNjZjXCJdfSIsIjE1ZWZmNThlNGFkODk0MTk3MWY3ZDIyMjljZjJkZTk4Il0=' />
-                                                  <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_3' id='gform_target_page_number_3' value='0' />
-                                                  <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_3' id='gform_source_page_number_3' value='1' />
-                                                  <input type='hidden' name='gform_field_values' value='' />
+                                                  <input type='submit' id='gform_submit_button_3' class='gform_button button' value='Submit' />
+                                                  
                                               </div>
                                               <p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_">
                                                   <label>&#916; <textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea>

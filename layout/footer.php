@@ -113,12 +113,12 @@
               <h2>Contact</h2>
               <div class="inner p-b-md">
                   <h3 class="widgettitle widget-title">Vaga Divertida</h3>
-                  <p>R. Rod. de Covas 2520/B<br/>4810-116 Guimarães,<br/>Portugal </p>
-                  <a href="mailto:contact@vagadivertida-car-handling.com">
-                      <i class="fa-light fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
+                  <p><?php echo $contactData['address']['description']; ?></p>
+                  <a href="mailto:<?php echo $contactData['email']['description']; ?>">
+                      <i class="fa-light fa-circle-envelope"></i> <?php echo $contactData['email']['description']; ?> </a>
                   </br>
-                  <a href="callto:+31 (0)165 305 060">
-                      <i class="fa-light fa-circle-phone"></i> +351 911 899 273</a>
+                  <a href="callto:<?php echo $contactData['phone']['description']; ?>">
+                      <i class="fa-light fa-circle-phone"></i> <?php echo $contactData['phone']['description']; ?></a>
               </div>
           </div>
       </div>

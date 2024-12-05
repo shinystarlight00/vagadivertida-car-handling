@@ -1,11 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-    <?php 
+    <?php
         require "config/constant.php";
         require "config/db.php";
-        
         require "layout/head.php";
+
+        $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE page = 'home'";
+        $content = $conn->query($sql);
+
+        $data = array();
+
+        if ($content->num_rows > 0) {
+          while($row = $content->fetch_assoc()) {
+            $data[$row['title']] = $row;
+          }
+        }
     ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
@@ -18,34 +28,34 @@
                       <div class="row">
                           <div class="col-xl-6 col-lg-7 col-md-12">
                               <div class="inner">
-                                  <h1>Trusted Partner for Global Vehicle Transport</h1>
+                                  <h1><?php echo $data['hero-title']['description'] ?></h1>
                                   <span class="f-s-16">
-                                      <p>Vaga Divertida is specialize in the safe and efficient transportation of vehicles to and from any country around the world. Our experienced team is dedicated to guiding you through every step of the process, from the moment you purchase your vehicle to the final delivery at your doorstep. Whether you're moving a car, motorcycle, or other vehicles, we handle all logistics, ensuring a smooth and hassle-free experience.</p>
+                                      <p><?php echo $data['hero-description']['description'] ?></p>
                                   </span>
                                   <a class="button yellow" href="/pages/quote.php"> Request quote</a>
                               </div>
                           </div>
                           <div class="col-xl-5 offset-xl-1 col-lg-5 offset-lg-0 p-r">
                               <div class="inner bg-white p-md br-5 questions">
-                                  <h2>What other assistance do you need?</h2>
+                                  <h2><?php echo $data['hero-subtitle']['description'] ?></h2>
                                   <ul class="fa-ul">
                                       <li>
                                           <span class="fa-li">
                                               <a href="/pages/import/">
                                                   <i class="fa-solid fa-arrow-right-long"></i>
-                                          </span> I want to import a vehicle </a>
+                                          </span> <?php echo $data['hero-option1']['description'] ?> </a>
                                       </li>
                                       <li>
                                           <span class="fa-li">
                                               <a href="/pages/export/">
                                                   <i class="fa-solid fa-arrow-right-long"></i>
-                                          </span>I want to export a vehicle </a>
+                                          </span><?php echo $data['hero-option2']['description'] ?> </a>
                                       </li>
                                       <li>
                                           <span class="fa-li">
                                               <a href="/pages/services/escrow.php">
                                                   <i class="fa-solid fa-arrow-right-long"></i>
-                                          </span>I want to use Escrow Service </a>
+                                          </span><?php echo $data['hero-option3']['description'] ?> </a>
                                       </li>
                                   </ul>
                               </div>
@@ -53,25 +63,9 @@
                       </div>
                   </div>
               </section>
-              <section class="page-section usp bg-lgr v-c">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-xl-6 col-lg-12 col-md-12">
-                              <div class="inner p-t-md p-b-md">
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Complete safety
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Fast delivery
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Customization
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </section>
+              
+              <?php require "layout/hero_option.php"; ?>
+
               <section class="page-section m-services p-t-xl p-r">
                   <div class="container">
                       <div class="row">
@@ -81,9 +75,9 @@
                                       <h3>
                                           <span class="icon">
                                               <img src="assets/img/import-icon.png" alt="import">
-                                          </span> Trusted Car Importer
+                                          </span> <?php echo $data['mainfunc1-title']['description'] ?>
                                       </h3>
-                                      <p>Vaga Divertida is a professional and reliable importer company, specializing in sourcing and importing high-quality cars from around the world.</p>
+                                      <p><?php echo $data['mainfunc1-desc']['description'] ?></p>
                                       <span class="arrow-btm">
                                           <i class="fa-solid fa-arrow-right-long"></i>
                                       </span>
@@ -96,9 +90,9 @@
                                       <h3>
                                           <span class="icon">
                                               <img src="assets/img/export-icon.png" alt="import">
-                                          </span> Trusted Car Exporter
+                                          </span> <?php echo $data['mainfunc2-title']['description'] ?>
                                       </h3>
-                                      <p>Vaga Divertida is a professional and reliable exporter, specializing in sourcing and exporting high-quality cars from around the world.</p>
+                                      <p><?php echo $data['mainfunc2-desc']['description'] ?></p>
                                       <span class="arrow-btm">
                                           <i class="fa-solid fa-arrow-right-long"></i>
                                       </span>
@@ -111,9 +105,9 @@
                                       <h3>
                                           <span class="icon">
                                               <img src="assets/img/serivce-icon.png" alt="import">
-                                          </span> Car import services
+                                          </span> <?php echo $data['mainfunc3-title']['description'] ?>
                                       </h3>
-                                      <p> Whether you're importing a new car, classic vehicle, or a luxury model, we handle every aspect of the process, from sourcing and shipping to customs clearance and delivery.</p>
+                                      <p> <?php echo $data['mainfunc3-desc']['description'] ?></p>
                                       <span class="arrow-btm">
                                           <i class="fa-solid fa-arrow-right-long"></i>
                                       </span>
@@ -127,7 +121,7 @@
                   <div class="container">
                       <div class="row">
                           <div class="col-lg-8 col-8 v-c">
-                              <h2 class="m-0">Personalized Solutions for <br/> Every Car Import/Export Need</h2>
+                              <h2 class="m-0"><?php echo $data['solutions-title']['description'] ?></h2>
                           </div>
                           <div class="col-lg-4 col-4">
                               <div class="navigation t-r">
@@ -143,12 +137,12 @@
                       <div class="service-slider v-c">
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/home/solution1.jpg" class="attachment-full size-full" alt="Container shipping Vaga" decoding="async" fetchpriority="high"  sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL.$data['solution1-image']['url'] ?>" class="attachment-full size-full" alt="Container shipping Vaga" decoding="async" fetchpriority="high"  sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
-                                  <h3>General cargo</h3>
+                                  <h3><?php echo $data['solution1-title']['description'] ?></h3>
                                   <p>
-                                  <p>We also offer comprehensive general cargo services for all your transportation needs. Whether you're importing vehicles, machinery, or other goods, our team ensures a seamless and reliable shipping process.</p>
+                                  <p><?php echo $data['solution1-desc']['description'] ?></p>
                                   </p>
                                   <a class="button" href="/pages/services/general-cargo.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
@@ -156,12 +150,12 @@
                           </div>
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/home/solution2.jpg" class="attachment-full size-full" alt="Car Insurance" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL.$data['solution2-image']['url'] ?>" class="attachment-full size-full" alt="Car Insurance" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
-                                  <h3>Insurance</h3>
+                                  <h3><?php echo $data['solution2-title']['description'] ?></h3>
                                   <p>
-                                  <p>We understand that transporting your valuable vehicle or cargo requires peace of mind. That's why we offer comprehensive insurance options to ensure your goods are fully protected throughout the entire shipping process.</p>
+                                  <p><?php echo $data['solution2-desc']['description'] ?></p>
                                   </p>
                                   <a class="button" href="/pages/services/insurance.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
@@ -169,12 +163,12 @@
                           </div>
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="945" height="400" src="assets/img/home/solution3.jpg" class="attachment-full size-full" alt="Escrow service" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL.$data['solution3-image']['url'] ?>" class="attachment-full size-full" alt="Escrow service" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                               <div class="content p-md">
-                                  <h3>Escrow service</h3>
+                                  <h3><?php echo $data['solution3-title']['description'] ?></h3>
                                   <p>
-                                  <p>We understand the importance of security and trust when conducting international transactions. To ensure peace of mind for both buyers and sellers, we offer escrow services as part of our comprehensive car import and general cargo services.</p>
+                                  <p><?php echo $data['solution3-desc']['description'] ?></p>
                                   </p>
                                   <a class="button" href="/pages/services/escrow.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
@@ -182,11 +176,11 @@
                           </div>
                           <div class="inner bg-lgr service p-r">
                               <div class="service-image">
-                                  <img width="900" height="400" src="assets/img/home/solution4.jpg" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 900px) 100vw, 900px" />
+                                  <img width="900" height="400" src="<?php echo ASSET_URL.$data['solution4-image']['url'] ?>" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                               <div class="content p-md">
-                                  <h3>Seaworthy Packing</h3>
-                                  <p>Vaga Divertida is fully equipped to seal your vehicle for safe and secure transport. Our sealing service is designed to ensure that your vehicle remains fully protected during the shipping process, reducing the risk of damage and contamination.</p>
+                                  <h3><?php echo $data['solution4-title']['description'] ?></h3>
+                                  <p><?php echo $data['solution4-desc']['description'] ?></p>
                                   <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
@@ -227,7 +221,7 @@
                   <div class="container">
                       <div class="row">
                           <div class="col-lg-12">
-                              <h2>Our Procedure</h2>
+                              <h2><?php echo $data['procedure-label']['description'] ?></h2>
                           </div>
                       </div>
                       <div class="row">
@@ -237,8 +231,8 @@
                                       <div class="col-lg-8 col-md-8">
                                           <a href="/pages/services/escrow.php">
                                               <div class="inner p-md p-r h-100 v-c">
-                                                  <h3>1. Escrow Services</h3>
-                                                  <p class="m-0">We understand the importance of security and trust when conducting international transactions. To ensure peace of mind for both buyers and sellers, we offer escrow services as part of our comprehensive car import and general cargo services.</p>
+                                                  <h3><?php echo $data['procedure1-title']['description'] ?></h3>
+                                                  <p class="m-0"><?php echo $data['procedure1-desc']['description'] ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -247,7 +241,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="251" height="314" src="assets/img/home/procedure1.jpg" class="attachment-full size-full" alt="Escrow Service" decoding="async"  sizes="(max-width: 251px) 100vw, 251px" />
+                                              <img width="251" height="314" src="<?php echo ASSET_URL.$data['procedure1-image']['url'] ?>" class="attachment-full size-full" alt="Escrow Service" decoding="async"  sizes="(max-width: 251px) 100vw, 251px" />
                                           </div>
                                       </div>
                                   </div>
@@ -259,8 +253,8 @@
                                       <div class="col-lg-8 col-md-8">
                                           <a href="/pages/interstate-car-transport.php">
                                               <div class="inner p-md p-r h-100 v-c">
-                                                  <h3>2. International Vehicle Transport: Safe and Reliable Shipping Worldwide</h3>
-                                                  <p class="m-0">We specialize in international vehicle transport, providing safe, efficient, and reliable services for shipping cars, motorcycles, and other vehicles across borders. Whether you're importing a vehicle from the United States, Canada, Europe, or any other region, we ensure that your car is delivered to your doorstep with the utmost care.</p>
+                                                  <h3><?php echo $data['procedure2-title']['description'] ?></h3>
+                                                  <p class="m-0"><?php echo $data['procedure2-desc']['description'] ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -269,7 +263,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="797" height="996" src="assets/img/home/procedure2.jpg" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 797px) 100vw, 797px" />
+                                              <img width="797" height="996" src="<?php echo ASSET_URL.$data['procedure2-image']['url'] ?>" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 797px) 100vw, 797px" />
                                           </div>
                                       </div>
                                   </div>
@@ -281,8 +275,8 @@
                                       <div class="col-lg-8 col-md-8">
                                           <a href="/pages/import/">
                                               <div class="inner p-md p-r h-100 v-c">
-                                                  <h3>3. Shipping the imported vehicle</h3>
-                                                  <p class="m-0">We ship your imported vehicle for you. You can choose between container transport or RoRo (Roll-on/Roll-off) transport and specify the ports you'd like to use. Additionally, we handle the customs clearance for you, both in the country of origin and at the destination</p>
+                                                  <h3><?php echo $data['procedure3-title']['description'] ?></h3>
+                                                  <p class="m-0"><?php echo $data['procedure3-desc']['description'] ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -291,7 +285,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="723" height="897" src="assets/img/home/procedure3.jpg" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 723px) 100vw, 723px" />
+                                              <img width="723" height="897" src="<?php echo ASSET_URL.$data['procedure3-image']['url'] ?>" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 723px) 100vw, 723px" />
                                           </div>
                                       </div>
                                   </div>
@@ -303,8 +297,8 @@
                                       <div class="col-lg-8 col-md-8">
                                           <a href="/pages/services/registration-procedure-homologation.php">
                                               <div class="inner p-md p-r h-100 v-c">
-                                                  <h3>4. Vehicle Inspection and Registration</h3>
-                                                  <p class="m-0">We provide comprehensive vehicle inspection and registration services as part of our full-service car import solutions. These essential steps ensure that your imported </p>
+                                                  <h3><?php echo $data['procedure4-title']['description'] ?></h3>
+                                                  <p class="m-0"><?php echo $data['procedure4-desc']['description'] ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -313,7 +307,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="275" height="344" src="assets/img/home/procedure4.jpg" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 275px) 100vw, 275px" />
+                                              <img width="275" height="344" src="<?php echo ASSET_URL.$data['procedure4-image']['url'] ?>" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 275px) 100vw, 275px" />
                                           </div>
                                       </div>
                                   </div>
@@ -325,8 +319,8 @@
                                       <div class="col-lg-8 col-md-8">
                                           <a href="/pages/contact.php">
                                               <div class="inner p-md p-r h-100 v-c">
-                                                  <h3>5. Delivery of Your Imported Vehicle</h3>
-                                                  <p class="m-0">We offer seamless delivery services to ensure your imported vehicle arrives safely and promptly at your doorstep. Whether you're importing a vehicle from another continent or a nearby country, we take care of every detail of the delivery process to ensure a hassle-free experience.</p>
+                                                  <h3><?php echo $data['procedure5-title']['description'] ?></h3>
+                                                  <p class="m-0"><?php echo $data['procedure5-desc']['description'] ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -335,7 +329,7 @@
                                       </div>
                                       <div class="col-lg-4 col-md-4">
                                           <div class="inner h-100">
-                                              <img width="275" height="344" src="assets/img/home/procedure5.jpg" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 275px) 100vw, 275px" />
+                                              <img width="275" height="344" src="<?php echo ASSET_URL.$data['procedure5-image']['url'] ?>" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 275px) 100vw, 275px" />
                                           </div>
                                       </div>
                                   </div>

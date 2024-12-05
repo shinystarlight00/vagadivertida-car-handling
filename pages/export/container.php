@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <?php require "../../config/constant.php"; ?>
-
-    <?php require "../../layout/head.php"; ?>
+    <?php
+        require "../../config/constant.php";
+        require "../../config/db.php";
+        require "../../layout/head.php";
+    ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
         <div class="site-container">

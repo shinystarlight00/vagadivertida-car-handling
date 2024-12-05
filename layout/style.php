@@ -430,7 +430,7 @@
     .cookie-modal {
         position: fixed;
         bottom: 20px;
-        left: 20px;
+        left: -500px;
         width: 450px;
         background-color: #0000ff;
         color: #fff;

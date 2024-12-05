@@ -40,6 +40,17 @@
         $license = trim($_POST["license"]);
 
         $body = "Name: $name\nEmail: $email\nPhone: $phone\nWhat to ship: $whattoship\nOtherwise: $otherwise\nYear - Make - Model: $yearmakemodel\nPurchase Price: $price\nRetrieve - Country, city and ZIP code: $retrieve\nDelivery - Country, City and ZIP code: $delivery\nLicense plate handling: $license";
+      } else if($action == "cost") {
+
+        $phone = trim($_POST["phone"]);
+        $car = trim($_POST["car"]);
+        $pick_place = trim($_POST["pickPlace"]);
+        $pick_zipcode = trim($_POST["pickZipcode"]);
+        $delivery_place = trim($_POST["deliveryPlace"]);
+        $delivery_zipcode = trim($_POST["deliveryZipcode"]);
+        $license = trim($_POST["license"]);
+
+        $body = "Name: $name\nEmail: $email\nPhone: $phone\nCar (Year/Make/Model): $car\nPick-up Place: $pick_place\nPick-up ZIP code: $pick_zipcode\nDelivery Place: $delivery_place\nDelivery ZIP code: $delivery_zipcode\nLicense Plate Registration: $license";
       }
       
       $headers = "From: contact@vagadivertida-car-handling.com\r\n";

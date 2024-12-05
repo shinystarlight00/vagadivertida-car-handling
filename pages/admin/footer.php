@@ -164,13 +164,13 @@
             });
 
             if (updatedItem) {
-              // refreshPage();
-                currentItem = updatedItem;
-                showModal(updatedItem);
-                // Refresh the grid
-                currentPage = 1;
-                gridElement.innerHTML = '';
-                loadMoreItems();
+                 refreshPage();
+                // currentItem = updatedItem;
+                // showModal(updatedItem);
+                // // Refresh the grid
+                // currentPage = 1;
+                // gridElement.innerHTML = '';
+                // loadMoreItems();
             }
         }
 

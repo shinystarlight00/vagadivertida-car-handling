@@ -1,9 +1,9 @@
 <head>
 
-  <?php require "meta.php"; ?>
-
-  <?php require "style.php"; ?>
-
-  <?php require "script.php"; ?>
+  <?php
+      require "meta.php";
+      require "style.php";
+      require "script.php";
+  ?>
 
 </head>

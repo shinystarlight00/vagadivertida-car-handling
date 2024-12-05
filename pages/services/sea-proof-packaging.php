@@ -1,8 +1,21 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <?php require "../../config/constant.php"; ?>
+    <?php
+        require "../../config/constant.php";
+        require "../../config/db.php";
+        require "../../layout/head.php";
 
-    <?php require "../../layout/head.php"; ?>
+        $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE page = 'services'";
+        $content = $conn->query($sql);
+
+        $data = array();
+
+        if ($content->num_rows > 0) {
+          while($row = $content->fetch_assoc()) {
+            $data[$row['title']] = $row;
+          }
+        }
+    ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
         <div class="site-container">
@@ -27,89 +40,45 @@
                           </div>
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
-                                  <h1>Seaworthy Packing</h1>
-                                  <p>Vaga Divertida is fully equipped to seal your vehicle for safe and secure transport. Our sealing service is designed to ensure that your vehicle remains fully protected during the shipping process, reducing the risk of damage and contamination.</p>
+                                  <h1><?php echo $data['seaworth-hero-title']['description'] ?></h1>
+                                  <p><?php echo $data['seaworth-hero-desc']['description'] ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-6 offset-lg-1 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/sea-proof-packaging-righ-image.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 900px) 100vw, 900px" />
+                                  <img width="900" height="400" src="<?php echo ASSET_URL.$data['seaworth-hero-image']['url'] ?>" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                           </div>
                       </div>
                   </div>
               </section>
-              <section class="page-section usp bg-lgr v-c">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-xl-12 col-lg-12 col-md-12">
-                              <div class="inner p-t-md p-b-md">
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Complete safety
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Fast delivery
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Customization
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </section>
+
+              <?php require '../../layout/hero_option.php' ?>
+              
               <section class="page-section builder p-r p-b-xl">
                   <section class="page-section content p-t-xl">
                       <div class="container">
                           <div class="row">
                               <div class="col-lg-12">
                                   <div class="inner text">
-                                      <h2>Sealing</h2>
-                                      <p>Vaga Divertida is fully equipped to seal your vehicle for safe and secure transport. Our sealing service is designed to ensure that your vehicle remains fully protected during the shipping process, reducing the risk of damage and contamination.</p>
+                                      <h2><?php echo $data['seaworth-service-title1']['description'] ?></h2>
+                                      <p><?php echo $data['seaworth-service-desc1']['description'] ?></p>
                                       <p>
-                                          <img decoding="async" class="alignnone size-medium wp-image-483" src="<?php echo ASSET_URL; ?>img/sealing-left.jpg" alt="" width="300" height="225" />
+                                          <img decoding="async" class="alignnone size-medium wp-image-483" src="<?php echo ASSET_URL.$data['seaworth-service-image1']['url'] ?>" alt="" width="300" height="225" />
                                       </p>
-                                      <h2> Crating</h2>
-                                      <p>Before shipping your motorcycle, shipping agents may demand that it is crated before it is put up for shipment. We will make a custom-built crate to fit your motorcycle. This is done by using certified wood which complies to rules and regulations. Crating is usually done when shipping motorcycles, however it can also be required for shipping parts, equipment and fragile goods. The crate offers the most reliable protection during transport.</p>
+                                      <h2><?php echo $data['seaworth-service-title2']['description'] ?></h2>
+                                      <p><?php echo $data['seaworth-service-desc2']['description'] ?></p>
                                       <p>
-                                          <img decoding="async" class="alignnone size-full wp-image-488" src="<?php echo ASSET_URL; ?>img/crates-marlog-sea-proof.jpg" alt="Crating" width="300" height="200" />
+                                          <img decoding="async" class="alignnone size-full wp-image-488" src="<?php echo ASSET_URL.$data['seaworth-service-image2']['url'] ?>" alt="Crating" width="300" height="200" />
                                       </p>
                                   </div>
                               </div>
                           </div>
                       </div>
                   </section>
-                  <section class="page-section cta p-t-xl">
-                      <div class="container">
-                          <div class="inner bg-gr br-5 p-r">
-                              <div class="row">
-                                  <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
-                                      <div class="inner ">
-                                          <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle"> Vaga Divertida is happy to help you!</div>
-                                          <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
-                                          <div class="cta-contact">
-                                              <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
-                                              <a class="p-r-md" href="mailto:contact@vagadivertida-car-handling.com">
-                                                  <i class="fa-regular fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
-                                              <a href="tel:+351 911 899 273">
-                                                  <i class="fa-regular fa-circle-phone"></i> +351 911 899 273 </a>
-                                          </div>
-                                      </div>
-                                  </div>
-                                  <div class="col-xl-2 offset-xl-1 col-lg-3 offset-lg-1 col-md-4 offset-md-0 h-image">
-                                      <div class="inner p-r">
-                                          <img width="197" height="223" src="<?php echo ASSET_URL; ?>img/others/Lucas.png" class="attachment-full size-full" alt="Lucas" decoding="async" />
-                                          <div class="cta-name">
-                                              <img src="<?php echo ASSET_URL; ?>img/arrow.svg" alt="arrow"> Lucas is happy to help you.
-                                          </div>
-                                          <h3></h3>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </section>
+                  
+                  <?php require '../../layout/help_card.php' ?>
+
                   <section class="page-section services p-t-xl">
                       <div class="container">
                           <div class="row">
@@ -121,11 +90,11 @@
                               <div class="col-lg-4 col-md-6 col-12">
                                   <div class="inner bg-lgr service p-r h-100">
                                       <div class="service-image">
-                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/service-insurance-header.jpg" class="attachment-full size-full" alt="Car Insurance" decoding="async" srcset="<?php echo ASSET_URL; ?>img/service-insurance-header.jpg 945w, <?php echo ASSET_URL; ?>img/service-insurance-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/service-insurance-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                          <img width="945" height="400" src="<?php echo ASSET_URL.$data['insurance-hero-image']['url'] ?>" class="attachment-full size-full" alt="Car Insurance" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                                       </div>
                                       <div class="content p-md">
-                                          <h3>Insurance</h3>
-                                          <p>Unfortunately, it sometimes occurs that unpredictable situations arise that are beyond everyone’s control. For example: ships in heavy weather. Therefore, we recommend you to take out insurance to cover the transport of your vehicle.</p>
+                                          <h3><?php echo $data['insurance-hero-title']['description'] ?></h3>
+                                          <p><?php echo $data['insurance-hero-desc']['description'] ?></p>
                                           <a class="button" href="/pages/services/insuarance.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>
@@ -134,12 +103,12 @@
                               <div class="col-lg-4 col-md-6 col-12">
                                   <div class="inner bg-lgr service p-r h-100">
                                       <div class="service-image">
-                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga Divertida" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                          <img width="945" height="400" src="<?php echo ASSET_URL.$data['general-hero-image']['url'] ?>" class="attachment-full size-full" alt="General Cargo" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                                       </div>
                                       <div class="content p-md">
-                                          <h3>General cargo</h3>
-                                          <p>Vaga Divertida is your partner for your emigration or immigration plans.</p>
-                                          <a class="button" href="/pages/services/general-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
+                                          <h3><?php echo $data['general-hero-title']['description'] ?></h3>
+                                          <p><?php echo $data['general-hero-desc']['description'] ?></p>
+                                          <a class="button" href="/pages/services/insuarance.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>
                                   </div>

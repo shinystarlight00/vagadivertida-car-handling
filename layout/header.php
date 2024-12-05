@@ -1,3 +1,15 @@
+<?php
+  $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE page = 'contact'";
+  $content = $conn->query($sql);
+
+  $contactData = array();
+
+  if ($content->num_rows > 0) {
+    while($row = $content->fetch_assoc()) {
+      $contactData[$row['title']] = $row;
+    }
+  }
+?>
 <header class="site-header">
   <div class="top-menu v-c">
     <div class="container ">
@@ -12,13 +24,13 @@
         <div class="col-lg-8 col-md-8 v-c">
           <div class="inner t-r">
             <a href="/pages/company.php">About Us</a>
-            <a class="contactinfomobile" href="mailto:contact@vagadivertida-car-handling.com">
+            <a class="contactinfomobile" href="mailto:<?php echo $contactData['email']['description']; ?>">
               <i class="fa-light fa-circle-envelope"></i> 
-              contact@vagadivertida-car-handling.com 
+              <?php echo $contactData['email']['description']; ?>
             </a>
-            <a class="contactinfomobile" href="tel:+351911899273">
+            <a class="contactinfomobile" href="tel:<?php echo $contactData['phone']['description']; ?>">
               <i class="fa-light fa-circle-phone"></i> 
-              +351 911 899 273
+              <?php echo $contactData['phone']['description']; ?>
             </a>
           </div>
         </div>

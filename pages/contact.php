@@ -1,8 +1,22 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <?php require "../config/constant.php"; ?>
 
-    <?php require "../layout/head.php"; ?>
+    <?php 
+        require "../config/constant.php";
+        require "../config/db.php";
+        require "../layout/head.php";
+
+        $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE page = 'contact'";
+        $content = $conn->query($sql);
+
+        $data = array();
+
+        if ($content->num_rows > 0) {
+          while($row = $content->fetch_assoc()) {
+            $data[$row['title']] = $row;
+          }
+        }
+    ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
         <div class="site-container">
@@ -25,54 +39,38 @@
                           </div>
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md">
-                                  <h1>Contact</h1>
+                                  <h1><?php echo $data['hero-title']['description'] ?></h1>
                                   <p class="f-s-20">
-                                    <p>Need help importing/exporting a car or other services?Vaga Divertida helps you with that</p>
+                                    <p><?php echo $data['hero-desc']['description'] ?></p>
                                   </p>
                               </div>
                           </div>
                           <div class="col-lg-6 offset-lg-1 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/product-import-canada.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/product-import-canada.jpg 900w, <?php echo ASSET_URL; ?>img/product-import-canada-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/product-import-canada-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                  <img width="900" height="400" src="<?php echo ASSET_URL.$data['hero-image']['url']; ?>" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                           </div>
                       </div>
                   </div>
               </section>
-              <section class="page-section usp bg-lgr v-c">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-xl-6 col-lg-12 col-md-12 col-12">
-                              <div class="inner p-t-md p-b-md">
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Complete safety
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Fast delivery
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Customization
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </section>
+              
+              <?php require "../layout/hero_option.php"; ?>
+
               <section class="page-section contact p-t-xl p-b-xl p-r">
                   <div class="container">
                       <div class="row">
                           <div class="col-lg-6">
                               <div class="inner p-md bg-white h-100">
-                                  <h2>Headquarters & Customer Office</h2>
+                                  <h2><?php echo $data['contact-title']['description'] ?></h2>
                                   <div class="row">
                                       <div class="col-xl-4 col-lg-12 col-md-12">
                                           <div class="inner">
-                                              <p>R. Rod. de Covas 2520/B<br/>4810-116 Guimarães,<br/>Portugal </p>
+                                              <p><?php echo $data['address']['description'] ?></p>
                                               <a href="mailto:contact@vagadivertida-car-handling.com">
                                                   <i class="fa-light fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
                                               </br>
-                                              <a href="tel:+31 (0)165 305 060">
-                                                  <i class="fa-light fa-circle-phone"></i> +351 911 899 273</a>
+                                              <a href="tel:<?php echo $data['phone']['description'] ?>">
+                                                  <i class="fa-light fa-circle-phone"></i> <?php echo $data['phone']['description'] ?></a>
                                           </div>
                                       </div>
                                       <div class="col-xl-8 col-lg-12 col-md-12 col-12 openingstijden">
@@ -128,25 +126,25 @@
                                                 <div id="field_5_1" class="gfield gfield--type-text gfield--width-half field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" data-js-reload="field_5_1">
                                                     <label class='gfield_label gform-field-label' for='input_5_1'>Name</label>
                                                     <div class='ginput_container ginput_container_text'>
-                                                        <input name='name' id='input_5_1' type='text' value='' class='large' placeholder='Name' aria-invalid="false" />
+                                                        <input name='name' id='input_5_1' type='text' value='' class='large' placeholder='Name' aria-invalid="false" required />
                                                     </div>
                                                 </div>
                                                 <div id="field_5_2" class="gfield gfield--type-email gfield--width-half field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" data-js-reload="field_5_2">
                                                     <label class='gfield_label gform-field-label' for='input_5_2'>Email address</label>
                                                     <div class='ginput_container ginput_container_email'>
-                                                        <input name='email' id='input_5_2' type='email' value='' class='large' placeholder='Your email address' aria-invalid="false" />
+                                                        <input name='email' id='input_5_2' type='email' value='' class='large' placeholder='Your email address' aria-invalid="false" required />
                                                     </div>
                                                 </div>
                                                 <div id="field_5_3" class="gfield gfield--type-text gfield--width-full field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" data-js-reload="field_5_3">
                                                     <label class='gfield_label gform-field-label' for='input_5_3'>Subject</label>
                                                     <div class='ginput_container ginput_container_text'>
-                                                        <input name='subject' id='input_5_3' type='text' value='' class='large' placeholder='Subject' aria-invalid="false" />
+                                                        <input name='subject' id='input_5_3' type='text' value='' class='large' placeholder='Subject' aria-invalid="false" required />
                                                     </div>
                                                 </div>
                                                 <div id="field_5_4" class="gfield gfield--type-textarea gfield--width-full field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible" data-js-reload="field_5_4">
                                                     <label class='gfield_label gform-field-label' for='input_5_4'>What can we help you with?</label>
                                                     <div class='ginput_container ginput_container_textarea'>
-                                                        <textarea name='message' id='input_5_4' class='textarea small' placeholder='What can we help you with?' aria-invalid="false" rows='10' cols='50'></textarea>
+                                                        <textarea name='message' id='input_5_4' class='textarea small' placeholder='What can we help you with?' aria-invalid="false" rows='10' cols='50' required></textarea>
                                                     </div>
                                                 </div>
                                             </div>
