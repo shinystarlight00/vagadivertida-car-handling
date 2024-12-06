@@ -26,7 +26,7 @@
 //   }
 
     $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE type = '$type' AND page = '$pageName' LIMIT $itemsPerPage OFFSET $offset";
-
+    
     $result = $conn->query($sql);
 
     if ($result->num_rows > 0) {
