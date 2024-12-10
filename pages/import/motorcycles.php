@@ -41,7 +41,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1><?php echo $data['mortor-hero-title']['description'] ?></h1>
-                                  <p><?php echo $data['mortor-hero-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['mortor-hero-desc']['description']) ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -62,11 +62,11 @@
                               <div class="col-lg-6">
                                   <div class="inner text p-md h-100 pl-0">
                                       <h2><?php echo $data['mortor-service-title']['description'] ?></h2>
-                                      <p><?php echo $data['mortor-service-desc']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['mortor-service-desc']['description']) ?></p>
                                       <ul>
                                           <li><?php echo str_replace('/','</li><li>',$data['mortor-service-list']['description']) ?></li>
                                       </ul>
-                                      <p><?php echo $data['mortor-service-desc2']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['mortor-service-desc2']['description']) ?></p>
                                   </div>
                               </div>
                               <div class="col-lg-6">

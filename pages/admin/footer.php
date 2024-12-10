@@ -35,7 +35,6 @@
             overlay.classList.remove('active');
         });
 
-        // API Functions
         async function fetchItems(type, page, limit) {
             
             try {

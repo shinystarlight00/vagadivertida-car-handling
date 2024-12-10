@@ -30,7 +30,7 @@
                               <div class="inner">
                                   <h1><?php echo $data['hero-title']['description'] ?></h1>
                                   <span class="f-s-16">
-                                      <p><?php echo $data['hero-description']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['hero-description']['description']) ?></p>
                                   </span>
                                   <a class="button yellow" href="/pages/quote.php"> Request quote</a>
                               </div>
@@ -77,7 +77,7 @@
                                               <img src="assets/img/import-icon.png" alt="import">
                                           </span> <?php echo $data['mainfunc1-title']['description'] ?>
                                       </h3>
-                                      <p><?php echo $data['mainfunc1-desc']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['mainfunc1-desc']['description']) ?></p>
                                       <span class="arrow-btm">
                                           <i class="fa-solid fa-arrow-right-long"></i>
                                       </span>
@@ -92,7 +92,7 @@
                                               <img src="assets/img/export-icon.png" alt="import">
                                           </span> <?php echo $data['mainfunc2-title']['description'] ?>
                                       </h3>
-                                      <p><?php echo $data['mainfunc2-desc']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['mainfunc2-desc']['description']) ?></p>
                                       <span class="arrow-btm">
                                           <i class="fa-solid fa-arrow-right-long"></i>
                                       </span>
@@ -107,7 +107,7 @@
                                               <img src="assets/img/serivce-icon.png" alt="import">
                                           </span> <?php echo $data['mainfunc3-title']['description'] ?>
                                       </h3>
-                                      <p> <?php echo $data['mainfunc3-desc']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['mainfunc3-desc']['description']) ?></p>
                                       <span class="arrow-btm">
                                           <i class="fa-solid fa-arrow-right-long"></i>
                                       </span>
@@ -142,7 +142,7 @@
                               <div class="content p-md">
                                   <h3><?php echo $data['solution1-title']['description'] ?></h3>
                                   <p>
-                                  <p><?php echo $data['solution1-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['solution1-desc']['description']) ?></p>
                                   </p>
                                   <a class="button" href="/pages/services/general-cargo.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
@@ -155,7 +155,7 @@
                               <div class="content p-md">
                                   <h3><?php echo $data['solution2-title']['description'] ?></h3>
                                   <p>
-                                  <p><?php echo $data['solution2-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['solution2-desc']['description']) ?></p>
                                   </p>
                                   <a class="button" href="/pages/services/insurance.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
@@ -168,7 +168,7 @@
                               <div class="content p-md">
                                   <h3><?php echo $data['solution3-title']['description'] ?></h3>
                                   <p>
-                                  <p><?php echo $data['solution3-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['solution3-desc']['description']) ?></p>
                                   </p>
                                   <a class="button" href="/pages/services/escrow.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
@@ -180,7 +180,7 @@
                               </div>
                               <div class="content p-md">
                                   <h3><?php echo $data['solution4-title']['description'] ?></h3>
-                                  <p><?php echo $data['solution4-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['solution4-desc']['description']) ?></p>
                                   <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fas fa-long-arrow-right"></i>
                                   </a>
                               </div>
@@ -232,7 +232,7 @@
                                           <a href="/pages/services/escrow.php">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3><?php echo $data['procedure1-title']['description'] ?></h3>
-                                                  <p class="m-0"><?php echo $data['procedure1-desc']['description'] ?></p>
+                                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['procedure1-desc']['description']) ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -254,7 +254,7 @@
                                           <a href="/pages/interstate-car-transport.php">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3><?php echo $data['procedure2-title']['description'] ?></h3>
-                                                  <p class="m-0"><?php echo $data['procedure2-desc']['description'] ?></p>
+                                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['procedure2-desc']['description']) ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -276,7 +276,7 @@
                                           <a href="/pages/import/">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3><?php echo $data['procedure3-title']['description'] ?></h3>
-                                                  <p class="m-0"><?php echo $data['procedure3-desc']['description'] ?></p>
+                                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['procedure3-desc']['description']) ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -298,7 +298,7 @@
                                           <a href="/pages/services/registration-procedure-homologation.php">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3><?php echo $data['procedure4-title']['description'] ?></h3>
-                                                  <p class="m-0"><?php echo $data['procedure4-desc']['description'] ?></p>
+                                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['procedure4-desc']['description']) ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>
@@ -320,7 +320,7 @@
                                           <a href="/pages/contact.php">
                                               <div class="inner p-md p-r h-100 v-c">
                                                   <h3><?php echo $data['procedure5-title']['description'] ?></h3>
-                                                  <p class="m-0"><?php echo $data['procedure5-desc']['description'] ?></p>
+                                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['procedure5-desc']['description']) ?></p>
                                                   <span class="arrow-btm">
                                                       <i class="fa-solid fa-arrow-right-long"></i>
                                                   </span>

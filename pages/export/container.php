@@ -4,6 +4,28 @@
         require "../../config/constant.php";
         require "../../config/db.php";
         require "../../layout/head.php";
+
+        $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE page = 'export'";
+        $content = $conn->query($sql);
+
+        $data = array();
+
+        if ($content->num_rows > 0) {
+          while($row = $content->fetch_assoc()) {
+            $data[$row['title']] = $row;
+          }
+        }
+
+        $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE page = 'services'";
+        $serviceContent = $conn->query($sql);
+
+        $serviceData = array();
+
+        if ($serviceContent->num_rows > 0) {
+          while($row = $serviceContent->fetch_assoc()) {
+            $serviceData[$row['title']] = $row;
+          }
+        }
     ?>
 
     <body class="home page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-2 wp-custom-logo wp-embed-responsive mega-menu-primary header-full-width content-sidebar genesis-breadcrumbs-hidden genesis-singular-image-hidden genesis-footer-widgets-visible has-no-blocks">
@@ -29,144 +51,105 @@
                           </div>
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
-                                  <h1>Container</h1>
-                                  <p>Vaga Divertida offers reliable and flexible container shipping services to any desired destination around the world. Whether you're exporting vehicles, machinery, or other goods, we ensure your shipment reaches its destination safely and on time.</p>
+                                  <h1><?php echo $data['container-hero-title']['description'] ?></h1>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['container-hero-desc']['description']) ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga Divertida" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                  <img width="945" height="400" src="<?php echo ASSET_URL.$data['container-hero-image']['url'] ?>" class="attachment-full size-full" alt="Export cars" decoding="async" fetchpriority="high" sizes="(max-width: 945px) 100vw, 945px" />
                               </div>
                           </div>
                       </div>
                   </div>
               </section>
-              <section class="page-section usp bg-lgr v-c">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-xl-6 col-lg-12 col-md-12 col-12">
-                              <div class="inner p-t-md p-b-md">
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Complete safety
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Fast delivery
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Customization
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </section>
+              
+              <?php require '../../layout/hero_option.php' ?>
+
               <section class="page-section builder p-r p-b-xl">
-                  <section class="page-section content p-t-xl">
+                  <section class="page-section content p-t-xl img-right">
                       <div class="container">
                           <div class="row">
                               <div class="col-lg-12">
-                                  <div class="inner text">
-                                      <h2>Choose Vaga Divertida for Container Shipping</h2>
+                                  <div class="inner text p-md h-100 pl-0">
+                                      <h2><?php echo $data['container-service-title']['description'] ?></h2>
                                       <p>
-                                        <h4>Global Shipping Capabilities:</h4>
-                                        <p>We provide container shipping to every continent, ensuring your goods are delivered wherever you need them—whether it's North America, Europe, Asia, Australia, or beyond.</p>
+                                        <h4><?php echo $data['container-service-title1']['description'] ?></h4>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['container-service-desc1']['description']) ?></p>
                                       </p>
                                       <p>
-                                        <h4>Secure and Reliable Transport:</h4>
-                                        <p>Your items are safely packed in containers, offering protection from the elements during transit. Our experienced team handles every detail, from loading to customs clearance and final delivery.</p>
+                                        <h4><?php echo $data['container-service-title2']['description'] ?></h4>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['container-service-desc2']['description']) ?></p>
                                       </p>
                                       <p>
-                                        <h4>Customized Solutions:</h4>
-                                        <p>We offer tailored shipping solutions based on your specific needs, whether you are exporting vehicles, machinery, or other goods. We can accommodate various container sizes to match the volume and type of shipment.</p>
+                                        <h4><?php echo $data['container-service-title3']['description'] ?></h4>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['container-service-desc3']['description']) ?></p>
                                       </p>
                                       <p>
-                                        <h4>Efficient Logistics:</h4>
-                                        <p>With regular departures and a well-established global network, Vaga Divertida ensures smooth and efficient container transport, reducing shipping time and costs.</p>
-                                        <p>Whether you are looking to ship a single car or a large cargo of products, Vaga Divertida is your trusted partner for container shipping to any destination worldwide.</p>
+                                        <h4><?php echo $data['container-service-title4']['description'] ?></h4>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['container-service-desc4']['description']) ?></p>
                                       </p>
                                   </div>
                               </div>
                           </div>
                       </div>
                   </section>
-                  <section class="page-section cta p-t-xl">
-                      <div class="container">
-                          <div class="inner bg-gr br-5 p-r">
-                              <div class="row">
-                                  <div class="col-xl-7  col-lg-7 offset-lg-1 col-md-12  offset-md-0 col-12 offset-0">
-                                      <div class="inner ">
-                                          <h2>Need help importing a car or other vehicle?</h2>
-                                          <div class="subtitle">Vaga Divertida is happy to help you!</div>
-                                          <p>Please give us a call, e-mail us or fill out a <a href="/pages/quote.php">quotation form</a>. </p>
-                                          <div class="cta-contact">
-                                              <a class="button yellow" href="/pages/quote.php">Request quote</a><br/>
-                                              <a class="p-r-md" href="mailto:contact@vagadivertida-car-handling.com">
-                                                  <i class="fa-regular fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
-                                              <a href="tel:+351911899273">
-                                                  <i class="fa-regular fa-circle-phone"></i> +351911899273 </a>
-                                          </div>
-                                      </div>
-                                  </div>
-                                  <div class="col-xl-2 offset-xl-1 col-lg-3 offset-lg-1 col-md-4 offset-md-0 h-image">
-                                      <div class="inner p-r">
-                                          <img width="197" height="223" src="<?php echo ASSET_URL; ?>img/others/Eric-1.png" class="attachment-full size-full" alt="" decoding="async" />
-                                          <div class="cta-name">
-                                              <img src="<?php echo ASSET_URL; ?>img/arrow.svg" alt="arrow"> Eric is happy to help you.
-                                          </div>
-                                          <h3></h3>
-                                      </div>
-                                  </div>
-                              </div>
-                          </div>
-                      </div>
-                  </section>
+                  
+                  <?php require '../../layout/help_card.php' ?>
+
                   <section class="page-section services p-t-xl">
                       <div class="container">
                           <div class="row">
                               <div class="col-lg-6 v-c">
-                                  <h2>Auch dabei können wir Ihnen behilflich sein</h2>
+                                  <h2>We can also help you with</h2>
                               </div>
                           </div>
                           <div class="row">
-                              <div class="col-lg-4 col-md-6 col-12">
-                                  <div class="inner bg-lgr service p-r h-100">
-                                      <div class="service-image">
-                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg" class="attachment-full size-full" alt="Container shipping Vaga Divertida" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-container-shipping-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-container-shipping-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
-                                      </div>
-                                      <div class="content p-md">
-                                          <h3>General cargo</h3>
-                                          <p>Vaga Divertida is your partner for your emigration or immigration plans.</p>
-                                          <a class="button" href="/pages/services/general-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
-                                          </a>
-                                      </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                              <div class="inner bg-lgr service p-r h-100">
+                                  <div class="service-image">
+                                      <img width="945" height="400" src="<?php echo ASSET_URL.$serviceData['general-hero-image']['url'] ?>" class="attachment-full size-full" alt="Container shipping Vaga Divertida" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
+                                  </div>
+                                  <div class="content p-md">
+                                      <h3><?php echo $serviceData['general-hero-title']['description'] ?></h3>
+                                      <p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $serviceData['general-hero-desc']['description']) ?></p>
+                                      </p>
+                                      <a class="button" href="/pages/services/general-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
+                                      </a>
                                   </div>
                               </div>
-                              <div class="col-lg-4 col-md-6 col-12">
-                                  <div class="inner bg-lgr service p-r h-100">
-                                      <div class="service-image">
-                                          <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="<?php echo ASSET_URL; ?>img/boat-shiping.jpg 900w, <?php echo ASSET_URL; ?>img/boat-shiping-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/boat-shiping-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
-                                      </div>
-                                      <div class="content p-md">
-                                          <h3>Seaworthy Packing</h3>
-                                          <p>Vaga Divertida is capable of sealing your vehicle.</p>
-                                          <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fal fa-long-arrow-right"></i>
-                                          </a>
-                                      </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                                <div class="inner bg-lgr service p-r h-100">
+                                    <div class="service-image">
+                                        <img width="945" height="400" src="<?php echo ASSET_URL.$serviceData['seaworth-hero-image']['url'] ?>" class="attachment-full size-full" alt="Seaworth service" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
+                                    </div>
+                                    <div class="content p-md">
+                                        <h3><?php echo $serviceData['seaworth-hero-title']['description'] ?></h3>
+                                        <p>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $serviceData['seaworth-hero-desc']['description']) ?></p>
+                                        </p>
+                                        <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fal fa-long-arrow-right"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-3 col-lg-4 col-md-6 col-12">
+                              <div class="inner bg-lgr service p-r h-100">
+                                  <div class="service-image">
+                                      <img width="945" height="400" src="<?php echo ASSET_URL.$serviceData['insurance-hero-image']['url'] ?>" class="attachment-full size-full" alt="Car Insurance" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
+                                  </div>
+                                  <div class="content p-md">
+                                      <h3><?php echo $serviceData['insurance-hero-title']['description'] ?></h3>
+                                      <p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $serviceData['insurance-hero-desc']['description']) ?></p>
+                                      </p>
+                                      <a class="button" href="/pages/services/insurance.php">More information <i class="fal fa-long-arrow-right"></i>
+                                      </a>
                                   </div>
                               </div>
-                              <div class="col-lg-4 col-md-6 col-12">
-                                  <div class="inner bg-lgr service p-r h-100">
-                                      <div class="service-image">
-                                          <img width="945" height="400" src="<?php echo ASSET_URL; ?>img/service-insurance-header.jpg" class="attachment-full size-full" alt="Car Insurance" decoding="async" srcset="<?php echo ASSET_URL; ?>img/service-insurance-header.jpg 945w, <?php echo ASSET_URL; ?>img/service-insurance-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/service-insurance-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
-                                      </div>
-                                      <div class="content p-md">
-                                          <h3>Insurance</h3>
-                                          <p>Unfortunately, it sometimes occurs that unpredictable situations arise that are beyond everyone’s control. For example: ships in heavy weather. Therefore, we recommend you to take out insurance to cover the transport of your vehicle.</p>
-                                          <a class="button" href="/pages/services/insurance.php">More information <i class="fal fa-long-arrow-right"></i>
-                                          </a>
-                                      </div>
-                                  </div>
-                              </div>
+                            </div>
                           </div>
                       </div>
                   </section>

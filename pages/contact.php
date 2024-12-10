@@ -41,7 +41,7 @@
                               <div class="inner p-t-md">
                                   <h1><?php echo $data['hero-title']['description'] ?></h1>
                                   <p class="f-s-20">
-                                    <p><?php echo $data['hero-desc']['description'] ?></p>
+                                    <p><?php echo str_replace('<br/>', '</p><p>', $data['hero-desc']['description']) ?></p>
                                   </p>
                               </div>
                           </div>
@@ -65,7 +65,7 @@
                                   <div class="row">
                                       <div class="col-xl-4 col-lg-12 col-md-12">
                                           <div class="inner">
-                                              <p><?php echo $data['address']['description'] ?></p>
+                                              <p><?php echo str_replace('<br/>', '</p><p>', $data['address']['description']) ?></p>
                                               <a href="mailto:contact@vagadivertida-car-handling.com">
                                                   <i class="fa-light fa-circle-envelope"></i> contact@vagadivertida-car-handling.com </a>
                                               </br>

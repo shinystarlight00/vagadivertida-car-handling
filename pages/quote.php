@@ -41,7 +41,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1><?php echo $data['hero-title']['description'] ?></h1>
-                                  <p><?php echo $data['hero-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['hero-desc']['description']) ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">

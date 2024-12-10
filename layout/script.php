@@ -31,4 +31,4 @@
 
 <script src="https://www.google.com/recaptcha/api.js?render=6Lftt4kqAAAAAK9TiIe967UFZYfPUZGHPw5vo70M"></script>
 <script src="<?php echo ASSET_URL; ?>js/ajax-form.js"></script>
-<!-- <script src="<?php echo ASSET_URL; ?>js/disableCopy.js"></script> -->
+<script src="<?php echo ASSET_URL; ?>js/disableCopy.js"></script>

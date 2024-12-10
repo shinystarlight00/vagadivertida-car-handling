@@ -41,7 +41,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1><?php echo $data['usa-hero-title']['description'] ?></h1>
-                                  <p><?php echo $data['usa-hero-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['usa-hero-desc']['description']) ?></p>
                                   <a class="button yellow" href="/pages/quote.php">Request a quote</a>
                                   <a class="button yellow line" href="/pages/contact.php">Contact us</a>
                               </div>
@@ -66,24 +66,24 @@
                                       <h2><?php echo $data['usa-service-title']['description'] ?></h2>
                                       <p>
                                         <h4><?php echo $data['usa-service-title1']['description'] ?></h4>
-                                        <p><?php echo $data['usa-service-desc1']['description'] ?></p>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['usa-service-desc1']['description']) ?></p>
                                       </p>
                                       <p>
                                         <h4><?php echo $data['usa-service-title2']['description'] ?></h4>
-                                        <p><?php echo $data['usa-service-desc2']['description'] ?></p>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['usa-service-desc2']['description']) ?></p>
                                       </p>
                                       <p>
                                         <h4><?php echo $data['usa-service-title3']['description'] ?></h4>
-                                        <p><?php echo $data['usa-service-desc3']['description'] ?></p>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['usa-service-desc3']['description']) ?></p>
                                       </p>
                                       <p>
                                         <h4><?php echo $data['usa-service-title4']['description'] ?></h4>
-                                        <p><?php echo $data['usa-service-desc4']['description'] ?></p>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['usa-service-desc4']['description']) ?></p>
                                       </p>
                                       <p>
                                         <h4><?php echo $data['usa-service-title5']['description'] ?></h4>
-                                        <p><?php echo $data['usa-service-desc5']['description'] ?></p>
-                                        <p><?php echo $data['usa-service-desc6']['description'] ?></p>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['usa-service-desc5']['description']) ?></p>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['usa-service-desc6']['description']) ?></p>
                                       </p>
                                   </div>
                               </div>

@@ -39,7 +39,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md">
                                   <h1><?php echo $data['hero-title']['description'] ?></h1>
-                                  <p><?php echo $data['hero-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['hero-desc']['description']) ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-12 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -64,7 +64,7 @@
                                   <div class="content p-md">
                                       <h3><?php echo $data['homologation-hero-title']['description'] ?></h3>
                                       <p>
-                                        <p><?php echo $data['homologation-hero-desc']['description'] ?></p>
+                                        <p><?php echo str_replace('<br/>', '</p><p>', $data['homologation-hero-desc']['description']) ?></p>
                                       </p>
                                       <a class="button" href="/pages/services/registration-procedure-homologation.php">More information <i class="fal fa-long-arrow-right"></i>
                                       </a>
@@ -79,7 +79,7 @@
                                   <div class="content p-md">
                                       <h3><?php echo $data['general-hero-title']['description'] ?></h3>
                                       <p>
-                                      <p><?php echo $data['general-hero-desc']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['general-hero-desc']['description']) ?></p>
                                       </p>
                                       <a class="button" href="/pages/services/general-cargo.php">More information <i class="fal fa-long-arrow-right"></i>
                                       </a>
@@ -94,7 +94,7 @@
                                   <div class="content p-md">
                                       <h3><?php echo $data['seaworth-hero-title']['description'] ?></h3>
                                       <p>
-                                      <p><?php echo $data['seaworth-hero-desc']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['seaworth-hero-desc']['description']) ?></p>
                                       </p>
                                       <a class="button" href="/pages/services/sea-proof-packaging.php">More information <i class="fal fa-long-arrow-right"></i>
                                       </a>
@@ -109,9 +109,9 @@
                                   <div class="content p-md">
                                       <h3><?php echo $data['insurance-hero-title']['description'] ?></h3>
                                       <p>
-                                      <p><?php echo $data['insurance-hero-desc']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['insurance-hero-desc']['description']) ?></p>
                                       </p>
-                                      <a class="button" href="/pages/services/insuarance.php">More information <i class="fal fa-long-arrow-right"></i>
+                                      <a class="button" href="/pages/services/insurance.php">More information <i class="fal fa-long-arrow-right"></i>
                                       </a>
                                   </div>
                               </div>
@@ -124,7 +124,7 @@
                                   <div class="content p-md">
                                       <h3><?php echo $data['escrow-hero-title']['description'] ?></h3>
                                       <p>
-                                      <p><?php echo $data['escrow-hero-desc']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['escrow-hero-desc']['description']) ?></p>
                                       </p>
                                       <a class="button" href="/pages/services/escrow.php">More information <i class="fal fa-long-arrow-right"></i>
                                       </a>

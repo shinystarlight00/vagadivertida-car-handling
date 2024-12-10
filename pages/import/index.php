@@ -39,7 +39,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1><?php echo $data['hero-title']['description'] ?></h1>
-                                  <p><?php echo $data['hero-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['hero-desc']['description']) ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -65,7 +65,7 @@
                               </div>
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
-                                      <img width="945" height="400" src="<?php echo ASSET_URL.$data['service1-image']['url']; ?>" class="attachment-full size-full" alt="Export Oldtimers/ Classics" decoding="async" srcset="<?php echo ASSET_URL; ?>img/export-classics-oldtimers-header.jpg 945w, <?php echo ASSET_URL; ?>img/export-classics-oldtimers-header-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/export-classics-oldtimers-header-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                      <img width="945" height="400" src="<?php echo ASSET_URL.$data['service1-image']['url']; ?>" class="attachment-full size-full" alt="Export Oldtimers/ Classics" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                                   </div>
                               </div>
                           </div>
@@ -76,7 +76,7 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
-                                      <img width="900" height="400" src="<?php echo ASSET_URL.$data['service2-image']['url']; ?>" class="attachment-full size-full" alt="" decoding="async" srcset="<?php echo ASSET_URL; ?>img/Ocean-freight.jpg 900w, <?php echo ASSET_URL; ?>img/Ocean-freight-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/Ocean-freight-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                      <img width="900" height="400" src="<?php echo ASSET_URL.$data['service2-image']['url']; ?>" class="attachment-full size-full" alt="" decoding="async" sizes="(max-width: 900px) 100vw, 900px" />
                                   </div>
                               </div>
                               <div class="col-lg-6">
@@ -114,7 +114,7 @@
                               </div>
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
-                                      <img width="945" height="400" src="<?php echo ASSET_URL.$data['service3-image']['url']; ?>" class="attachment-full size-full" alt="Escrow service" decoding="async" srcset="<?php echo ASSET_URL; ?>img/escrow-service-header-image.jpg 945w, <?php echo ASSET_URL; ?>img/escrow-service-header-image-300x127.jpg 300w, <?php echo ASSET_URL; ?>img/escrow-service-header-image-768x325.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" />
+                                      <img width="945" height="400" src="<?php echo ASSET_URL.$data['service3-image']['url']; ?>" class="attachment-full size-full" alt="Escrow service" decoding="async" sizes="(max-width: 945px) 100vw, 945px" />
                                   </div>
                               </div>
                           </div>

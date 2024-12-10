@@ -41,7 +41,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1><?php echo $data['seaworth-hero-title']['description'] ?></h1>
-                                  <p><?php echo $data['seaworth-hero-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['seaworth-hero-desc']['description']) ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-6 offset-lg-1 col-md-6 offset-md-1 p-r h-image">
@@ -62,12 +62,12 @@
                               <div class="col-lg-12">
                                   <div class="inner text">
                                       <h2><?php echo $data['seaworth-service-title1']['description'] ?></h2>
-                                      <p><?php echo $data['seaworth-service-desc1']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['seaworth-service-desc1']['description']) ?></p>
                                       <p>
                                           <img decoding="async" class="alignnone size-medium wp-image-483" src="<?php echo ASSET_URL.$data['seaworth-service-image1']['url'] ?>" alt="" width="300" height="225" />
                                       </p>
                                       <h2><?php echo $data['seaworth-service-title2']['description'] ?></h2>
-                                      <p><?php echo $data['seaworth-service-desc2']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['seaworth-service-desc2']['description']) ?></p>
                                       <p>
                                           <img decoding="async" class="alignnone size-full wp-image-488" src="<?php echo ASSET_URL.$data['seaworth-service-image2']['url'] ?>" alt="Crating" width="300" height="200" />
                                       </p>
@@ -94,8 +94,8 @@
                                       </div>
                                       <div class="content p-md">
                                           <h3><?php echo $data['insurance-hero-title']['description'] ?></h3>
-                                          <p><?php echo $data['insurance-hero-desc']['description'] ?></p>
-                                          <a class="button" href="/pages/services/insuarance.php">More information <i class="fal fa-long-arrow-right"></i>
+                                          <p><?php echo str_replace('<br/>', '</p><p>', $data['insurance-hero-desc']['description']) ?></p>
+                                          <a class="button" href="/pages/services/insurance.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>
                                   </div>
@@ -107,8 +107,8 @@
                                       </div>
                                       <div class="content p-md">
                                           <h3><?php echo $data['general-hero-title']['description'] ?></h3>
-                                          <p><?php echo $data['general-hero-desc']['description'] ?></p>
-                                          <a class="button" href="/pages/services/insuarance.php">More information <i class="fal fa-long-arrow-right"></i>
+                                          <p><?php echo str_replace('<br/>', '</p><p>', $data['general-hero-desc']['description']) ?></p>
+                                          <a class="button" href="/pages/services/insurance.php">More information <i class="fal fa-long-arrow-right"></i>
                                           </a>
                                       </div>
                                   </div>

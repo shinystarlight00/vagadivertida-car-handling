@@ -16,24 +16,14 @@
 
   $data = [];
 
-//   $query = "SELECT * FROM vagaexpv_carhandling_content WHERE type = ? AND page = ? LIMIT ? OFFSET ?";
-//   $stmt = $conn->prepare($query);
-//   $stmt->bind_param("ssii", $type, $pageName, $itemsPerPage, $offset);
-//   $stmt->execute();
-//   $result = $stmt->get_result();
-//   while ($row = $result->fetch_assoc()) {
-//       $data[] = $row;
-//   }
-
-    $sql = "SELECT * FROM vagaexpv_carhandling_content WHERE type = '$type' AND page = '$pageName' LIMIT $itemsPerPage OFFSET $offset";
-    
-    $result = $conn->query($sql);
-
-    if ($result->num_rows > 0) {
-        while ($row = $result->fetch_assoc()) {
-            $data[] = $row;
-        }
-    }
+  $query = "SELECT * FROM vagaexpv_carhandling_content WHERE type = ? AND page = ? LIMIT ? OFFSET ?";
+  $stmt = $conn->prepare($query);
+  $stmt->bind_param("ssii", $type, $pageName, $itemsPerPage, $offset);
+  $stmt->execute();
+  $result = $stmt->get_result();
+  while ($row = $result->fetch_assoc()) {
+      $data[] = $row;
+  }
 
     header('Content-Type: application/json');
 

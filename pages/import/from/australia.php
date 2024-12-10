@@ -41,7 +41,7 @@
                           <div class="col-xl-5 col-lg-12 col-md-12 col-12">
                               <div class="inner p-t-md p-b-md">
                                   <h1><?php echo $data['australia-hero-title']['description'] ?></h1>
-                                  <p><?php echo $data['australia-hero-desc']['description'] ?></p>
+                                  <p><?php echo str_replace('<br/>', '</p><p>', $data['australia-hero-desc']['description']) ?></p>
                               </div>
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
@@ -62,7 +62,7 @@
                               <div class="col-lg-12">
                                   <div class="inner text">
                                       <h3><?php echo $data['australia-service-title1']['description'] ?></h3>
-                                      <p><?php echo $data['australia-service-desc1']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['australia-service-desc1']['description']) ?></p>
                                   </div>
                               </div>
                           </div>
@@ -74,7 +74,7 @@
                               <div class="col-lg-12">
                                   <div class="inner text">
                                       <h3><?php echo $data['australia-service-title2']['description'] ?></h3>
-                                      <p><?php echo $data['australia-service-desc2']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['australia-service-desc2']['description']) ?></p>
                                   </div>
                               </div>
                           </div>
@@ -86,7 +86,7 @@
                               <div class="col-lg-12">
                                   <div class="inner text">
                                       <h3><?php echo $data['australia-service-title3']['description'] ?></h3>
-                                      <p><?php echo $data['australia-service-desc3']['description'] ?></p>
+                                      <p><?php echo str_replace('<br/>', '</p><p>', $data['australia-service-desc3']['description']) ?></p>
                                   </div>
                               </div>
                           </div>

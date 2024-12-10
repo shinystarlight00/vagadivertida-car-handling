@@ -45,6 +45,7 @@
             <a href="services.php?page=services">Services</a>
             <a href="quote.php?page=quote">Request a quote</a>
             <a href="contact.php?page=contact">Contact</a>
+            <a href="about.php?page=about">About Us</a>
         </div>
         <div class="sidebar-footer">
             <button class="btn-logout" onclick="logout()">Log out</button>

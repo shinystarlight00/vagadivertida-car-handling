@@ -33,31 +33,15 @@
                           </div>
                           <div class="col-xl-6 offset-xl-1 col-lg-4 offset-lg-0 col-md-6 offset-md-1 p-r h-image">
                               <div class="inner p-r">
-                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/musal-cars.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high" srcset="<?php echo ASSET_URL; ?>img/musal-cars.jpg 900w, <?php echo ASSET_URL; ?>img/musal-cars-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/musal-cars-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                  <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/others/transport.jpg" class="attachment-full size-full" alt="" decoding="async" fetchpriority="high"  sizes="(max-width: 900px) 100vw, 900px" />
                               </div>
                           </div>
                       </div>
                   </div>
               </section>
-              <section class="page-section usp bg-lgr v-c">
-                  <div class="container">
-                      <div class="row">
-                          <div class="col-xl-6 col-lg-12 col-md-12 col-12">
-                              <div class="inner p-t-md p-b-md">
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Complete safety
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Fast delivery
-                                  </p>
-                                  <p>
-                                      <i class="fa-light fa-circle-check"></i>Customization
-                                  </p>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </section>
+
+              <?php require "../layout/hero_option.php" ?>
+
               <section class="page-section builder p-r p-b-xl">
                   <section class="page-section content p-t-xl img-right">
                       <div class="container">
@@ -74,7 +58,7 @@
                               </div>
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
-                                      <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/boat-shiping.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="<?php echo ASSET_URL; ?>img/boat-shiping.jpg 900w, <?php echo ASSET_URL; ?>img/boat-shiping-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/boat-shiping-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                      <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/others/transport-service1.jpg" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 900px) 100vw, 900px" />
                                   </div>
                               </div>
                           </div>
@@ -85,7 +69,7 @@
                           <div class="row">
                               <div class="col-lg-6">
                                   <div class="inner image h-100">
-                                      <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/product-import-canada.jpg" class="attachment-full size-full" alt="" decoding="async" srcset="<?php echo ASSET_URL; ?>img/product-import-canada.jpg 900w, <?php echo ASSET_URL; ?>img/product-import-canada-300x133.jpg 300w, <?php echo ASSET_URL; ?>img/product-import-canada-768x341.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" />
+                                      <img width="900" height="400" src="<?php echo ASSET_URL; ?>img/others/transport-service2.jpg" class="attachment-full size-full" alt="" decoding="async"  sizes="(max-width: 900px) 100vw, 900px" />
                                   </div>
                               </div>
                               <div class="col-lg-6">
