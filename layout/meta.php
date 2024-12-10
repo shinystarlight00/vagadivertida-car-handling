@@ -10,11 +10,12 @@
 <meta property="og:url" content="https://vagadivertida-car-handling.com/" />
 <meta property="og:site_name" content="Vaga Divertida" />
 <meta property="article:modified_time" content="2023-10-31T10:45:41+00:00" />
-<meta property="og:image" content="<?php echo ASSET_URL; ?>img/Internationaal-voertuigtransport-HOME-1.jpg" />
+<meta property="og:image" content="<?php echo ASSET_URL; ?>img/cover-img.jpg" />
 <meta property="og:image:width" content="797" />
 <meta property="og:image:height" content="996" />
 <meta property="og:image:type" content="image/jpeg" />
 <meta name="twitter:card" content="summary_large_image" />
+<meta name="google-site-verification" content="ZCWEJoFVWxUSFSA8bqDPL4IICgY2Ln5QBPXTCwAc5qA" />
 
 <link
   rel="icon"
