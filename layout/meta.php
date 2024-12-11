@@ -14,7 +14,6 @@
 <meta property="og:image:width" content="797" />
 <meta property="og:image:height" content="996" />
 <meta property="og:image:type" content="image/jpeg" />
-<meta name="twitter:card" content="summary_large_image" />
 <meta name="google-site-verification" content="ZCWEJoFVWxUSFSA8bqDPL4IICgY2Ln5QBPXTCwAc5qA" />
 
 <link
