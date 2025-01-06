@@ -29,7 +29,7 @@
                               <p id="breadcrumbs">
                                   <span>
                                       <span>
-                                          <a href="/">Home</a>
+                                          <a href="/">Home </a>
                                       </span> / <span class="breadcrumb_last" aria-current="page">
                                           <strong>The company</strong>
                                       </span>
