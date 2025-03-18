@@ -18,9 +18,9 @@
                 </div>
                 <div class="col-xl-2 offset-xl-1 col-lg-3 offset-lg-1 col-md-4 offset-md-0 h-image">
                     <div class="inner p-r">
-                        <img width="197" height="223" src="<?php echo ASSET_URL; ?>img/others/Lucas.png" class="attachment-full size-full" alt="Lucas" decoding="async" />
+                        <img width="197" height="223" src="<?php echo ASSET_URL; ?>img/others/Girl.png" class="attachment-full size-full" alt="Lucas" decoding="async" />
                         <div class="cta-name">
-                            <img src="<?php echo ASSET_URL; ?>img/arrow.svg" alt="arrow"> Lucas is happy to help you.
+                            Our theam is happy to help you!
                         </div>
                         <h3></h3>
                     </div>
